@@ -40,6 +40,7 @@ Precedents to consult every session: `learn_kah/learning-records/0039-quiet-morn
 - [Build copula, predicate-adjective, and existential](tickets/feature-copula-existential.md): every language generates a `be` copula (pos `cop`) sharing verb morphology; `build_predication` = subject + copula + bare complement; existential paraphrased as a locative predication. Hono re-frozen: **196 lexemes / 1031 forms**; golden refreshed; **137 tests pass**.
 - [Build clause sequencing (parataxis / coordination)](tickets/feature-clause-sequencing.md): generated `conj` class (`and`/`but`/`then`/`so`; `and` moved out of concepts) + `build_sentence` joining clauses by juxtaposition or a connective. Hono re-frozen: **199 lexemes / 1034 forms**; golden refreshed; **143 tests pass**.
 - [Build aspect (progressive, perfect, pluperfect)](tickets/feature-aspect.md): verb categories `progressive`/`perfect` stack with tense (pluperfect = past+perfect; "had been …-ing" = past+perfect+progressive); class-specific suffixes; reach the copula. Hono re-frozen with **re-derived affixes**: **18 affixes / 1409 forms**; golden refreshed; **147 tests pass**.
+- [Scaffold the Hono workspace](tickets/scaffold-workspace.md): MISSION/NOTES/RESOURCES/reference/learning-records in place; `reference/hono-grammar.md` rendered from the model; the workspace is now a git repo with the frozen spec + model committed.
 
 ## Not yet specified
 

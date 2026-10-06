@@ -1,8 +1,8 @@
 ---
 title: Design the Hono lexicon
 label: wayfinder:grilling
-status: open
-assignee:
+status: in-progress
+assignee: opencode
 blocked-by: [concept-inventory, freeze-base-language]
 ---
 

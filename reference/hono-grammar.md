@@ -1,6 +1,6 @@
 # hono
 
-_seed `1` · spec `34569252ce6794fb` · schema `0.1`_
+_seed `1` · spec `eedd3b34a63e6293` · schema `0.1`_
 
 ## Phonology
 
@@ -49,211 +49,548 @@ _seed `1` · spec `34569252ce6794fb` · schema `0.1`_
 - Example (predicate adjective): rewiw husewnuk nomirte - "water.ABS be.3SG big"
 - Example (two clauses): rese wowleruknuk rinewiw masalek rinese wowleruknuk rewiw - "water.ERG say.3SG fire.ABS and fire.ERG say.3SG water.ABS"
 
-## Dictionary (199 lexemes)
+## Dictionary (536 lexemes)
 
 | id | gloss | pos | root | origin |
 | --- | --- | --- | --- | --- |
+| `lex:a` | a | det | wehihu | specified |
 | `lex:adp:above` | above | adp | mukmenup | specified |
 | `lex:adp:across` | across | adp | hohe | specified |
+| `lex:afternoon` | afternoon | noun | rispet | specified |
 | `lex:adp:against` | against | adp | kirsulok | specified |
+| `lex:air` | air | noun | lontetaw | specified |
+| `lex:alive` | alive | adj | tus | specified |
 | `lex:adp:along` | along | adp | rihnemet | specified |
+| `lex:always` | always | adv | himolta | specified |
+| `lex:ammunition` | ammunition | noun | sit | specified |
+| `lex:anchor` | anchor | noun | tuhhisop | specified |
 | `lex:conj:and` | and | conj | masalek | specified |
+| `lex:arched` | arched | adj | was | specified |
 | `lex:arm` | arm | noun | wu | specified |
 | `lex:adp:at` | at | adp | horle | specified |
+| `lex:autumn` | autumn | noun | pete | specified |
+| `lex:back` | back | noun | summa | specified |
 | `lex:bad` | bad | adj | sut | specified |
+| `lex:bag` | bag | noun | laha | specified |
+| `lex:base` | base | noun | nunwulti | specified |
+| `lex:bay` | bay | noun | kono | specified |
 | `lex:cop` | be | cop | husew | specified |
+| `lex:beach` | beach | noun | romis | specified |
+| `lex:beacon` | beacon | noun | lewes | specified |
 | `lex:bear` | bear | noun | num | specified |
+| `lex:because` | because | sub | kapiko | specified |
+| `lex:begin` | begin | verb | hipan | specified |
+| `lex:behaviour` | behaviour | noun | wisto | specified |
 | `lex:adp:behind` | behind | adp | pisapmom | specified |
 | `lex:adp:below` | below | adp | puwuh | specified |
+| `lex:bend` | bend | verb | wise | specified |
 | `lex:adp:beside` | beside | adp | kultata | specified |
+| `lex:best` | best | adj | runpepta | specified |
 | `lex:adp:between` | between | adp | kik | specified |
 | `lex:big` | big | adj | nomirte | specified |
 | `lex:bird` | bird | noun | mopmehtat | specified |
 | `lex:bitter` | bitter | adj | kippit | specified |
 | `lex:black` | black | adj | howat | specified |
+| `lex:blade` | blade | noun | womwo | specified |
 | `lex:blood` | blood | noun | we | specified |
 | `lex:blue` | blue | adj | rukmatpa | specified |
+| `lex:blueprint` | blueprint | noun | hin | specified |
 | `lex:boat` | boat | noun | malri | specified |
+| `lex:bob` | bob | verb | kotek | specified |
 | `lex:bone` | bone | noun | nu | specified |
+| `lex:book` | book | noun | komalu | specified |
+| `lex:boot` | boot | noun | risot | specified |
+| `lex:both` | both | det | tok | specified |
+| `lex:bow` | bow | noun | hira | specified |
+| `lex:box` | box | noun | tu | specified |
+| `lex:brass` | brass | noun | tekatam | specified |
 | `lex:bread` | bread | noun | tokta | specified |
+| `lex:breath` | breath | noun | wulon | specified |
+| `lex:breeze` | breeze | noun | mopohmi | specified |
 | `lex:bright` | bright | adj | hile | specified |
+| `lex:brilliant` | brilliant | adj | ser | specified |
+| `lex:broken` | broken | adj | kir | specified |
 | `lex:brother` | brother | noun | newu | specified |
+| `lex:brush` | brush | verb | ranle | specified |
+| `lex:build` | build | verb | mumset | specified |
+| `lex:burden` | burden | noun | pusi | specified |
 | `lex:burn` | burn | verb | li | specified |
 | `lex:conj:but` | but | conj | kilpow | specified |
+| `lex:calm` | calm | adj | mekhotup | specified |
+| `lex:can` | can | mod | kernih | specified |
+| `lex:canvas` | canvas | noun | ruwa | specified |
+| `lex:carefully` | carefully | adv | pulki | specified |
+| `lex:carry` | carry | verb | tohi | specified |
 | `lex:cart` | cart | noun | moke | specified |
+| `lex:carve` | carve | verb | lap | specified |
 | `lex:cat` | cat | noun | ketwa | specified |
+| `lex:catch` | catch | verb | retikop | specified |
+| `lex:cedar` | cedar | noun | ruhnu | specified |
+| `lex:centre` | centre | noun | teko | specified |
+| `lex:chair` | chair | noun | rawulo | specified |
+| `lex:chance` | chance | noun | rip | specified |
+| `lex:cheek` | cheek | noun | miswet | specified |
+| `lex:chest` | chest | noun | hitan | specified |
 | `lex:chief` | chief | noun | mahot | specified |
 | `lex:child` | child | noun | hukpepat | specified |
+| `lex:clear` | clear | adj | nusawtih | specified |
+| `lex:cliff` | cliff | noun | korihsol | specified |
+| `lex:cliffside` | cliffside | noun | setwo | specified |
+| `lex:climb` | climb | verb | nase | specified |
 | `lex:cloth` | cloth | noun | poki | specified |
 | `lex:cloud` | cloud | noun | kiposuk | specified |
 | `lex:cold` | cold | adj | honekur | specified |
 | `lex:come` | come | verb | mutlo | specified |
+| `lex:comforting` | comforting | adj | wepilo | specified |
+| `lex:compass` | compass | noun | kersi | specified |
+| `lex:complete` | complete | adj | nolti | specified |
+| `lex:completely` | completely | adv | rah | specified |
+| `lex:continue` | continue | verb | mitunnu | specified |
+| `lex:cool` | cool | adj | tuwi | specified |
+| `lex:coordinated` | coordinated | adj | pulumros | specified |
+| `lex:cottage` | cottage | noun | hahu | specified |
+| `lex:could` | could | mod | kuw | specified |
 | `lex:cow` | cow | noun | ter | specified |
+| `lex:craggy` | craggy | adj | ritina | specified |
+| `lex:crest` | crest | noun | mah | specified |
+| `lex:crisp` | crisp | adj | kakaki | specified |
 | `lex:cry` | cry | verb | mupi | specified |
+| `lex:current` | current | noun | nak | specified |
+| `lex:cut` | cut | verb | tosor | specified |
 | `lex:dark` | dark | adj | hukak | specified |
+| `lex:dart` | dart | verb | rorope | specified |
 | `lex:day` | day | noun | ni | specified |
 | `lex:death` | death | noun | kaka | specified |
+| `lex:decade` | decade | num | kolep | specified |
+| `lex:deep` | deep | adj | sus | specified |
+| `lex:deliberate` | deliberate | adj | wenaw | specified |
+| `lex:dense` | dense | adj | kassu | specified |
+| `lex:design` | design | noun | kut | specified |
+| `lex:dew` | dew | noun | kam | specified |
+| `lex:diagram` | diagram | noun | wowon | specified |
 | `lex:die` | die | verb | minma | specified |
+| `lex:dinghy` | dinghy | noun | molet | specified |
+| `lex:dip` | dip | noun | tak | specified |
+| `lex:distant` | distant | adj | sok | specified |
 | `lex:do` | do | verb | la | specified |
 | `lex:dog` | dog | noun | lepuwop | specified |
 | `lex:door` | door | noun | ruhewti | specified |
+| `lex:doorway` | doorway | noun | toret | specified |
+| `lex:drama` | drama | noun | sopotwa | specified |
 | `lex:dream` | dream | noun | nerar | specified |
+| `lex:drift` | drift | verb | pusum | specified |
 | `lex:drink` | drink | verb | tappahe | specified |
 | `lex:dry` | dry | adj | me | specified |
 | `lex:dust` | dust | noun | wen | specified |
+| `lex:each` | each | det | kum | specified |
 | `lex:ear` | ear | noun | mi | specified |
 | `lex:earth` | earth | noun | kelohu | specified |
 | `lex:eat` | eat | verb | mapuwi | specified |
+| `lex:edge` | edge | noun | len | specified |
+| `lex:eel` | eel | noun | walit | specified |
+| `lex:effortlessly` | effortlessly | adv | pitikkow | specified |
 | `lex:egg` | egg | noun | mites | specified |
+| `lex:elegant` | elegant | adj | pela | specified |
 | `lex:empty` | empty | adj | minhiwlo | specified |
+| `lex:entirely` | entirely | adv | nule | specified |
+| `lex:escape` | escape | verb | meslen | specified |
 | `lex:evening` | evening | noun | sep | specified |
+| `lex:every` | every | det | murmo | specified |
+| `lex:exactly` | exactly | adv | lemom | specified |
+| `lex:exhaustion` | exhaustion | noun | latanil | specified |
 | `lex:eye` | eye | noun | hikup | specified |
+| `lex:faint` | faint | adj | newsowek | specified |
+| `lex:faintly` | faintly | adv | nikisot | specified |
+| `lex:familiar` | familiar | adj | rorno | specified |
 | `lex:fast` | fast | adj | nemtu | specified |
 | `lex:father` | father | noun | lur | specified |
 | `lex:fear` | fear | verb | haluk | specified |
 | `lex:feather` | feather | noun | morponak | specified |
+| `lex:few` | few | det | mer | specified |
+| `lex:fifty` | fifty | num | resrossi | specified |
+| `lex:finally` | finally | adv | kewi | specified |
+| `lex:finger` | finger | noun | lono | specified |
 | `lex:fire` | fire | noun | rine | specified |
 | `lex:fish` | fish | noun | sah | specified |
+| `lex:five` | five | num | pip | specified |
+| `lex:fix` | fix | verb | lakesmop | specified |
 | `lex:flesh` | flesh | noun | maw | specified |
+| `lex:float` | float | verb | hawan | specified |
 | `lex:flower` | flower | noun | rol | specified |
 | `lex:fly` | fly | verb | parahow | specified |
 | `lex:foot` | foot | noun | risu | specified |
+| `lex:forward` | forward | adv | huwasti | specified |
+| `lex:four` | four | num | sapu | specified |
+| `lex:frame` | frame | noun | pum | specified |
+| `lex:frantic` | frantic | adj | roliso | specified |
+| `lex:frequent` | frequent | adj | rasnu | specified |
+| `lex:fresh` | fresh | adj | mil | specified |
 | `lex:friend` | friend | noun | ke | specified |
 | `lex:adp:from` | from | adp | powwan | specified |
 | `lex:fruit` | fruit | noun | kulawe | specified |
 | `lex:full` | full | adj | nepmo | specified |
+| `lex:future` | future | noun | hesso | specified |
+| `lex:gannet` | gannet | noun | sotetar | specified |
+| `lex:garden` | garden | noun | morripe | specified |
+| `lex:gate` | gate | noun | lahase | specified |
+| `lex:gentle` | gentle | adj | nehes | specified |
 | `lex:give` | give | verb | lina | specified |
+| `lex:glassy` | glassy | adj | mumusi | specified |
+| `lex:glide` | glide | verb | nalmin | specified |
 | `lex:go` | go | verb | winu | specified |
 | `lex:good` | good | adj | maputne | specified |
+| `lex:grace` | grace | noun | tatnuk | specified |
 | `lex:grain` | grain | noun | sitmor | specified |
+| `lex:granite` | granite | noun | saw | specified |
 | `lex:grass` | grass | noun | suknito | specified |
+| `lex:grateful` | grateful | adj | so | specified |
+| `lex:gravel` | gravel | noun | nunir | specified |
+| `lex:gravelly` | gravelly | adj | kakun | specified |
 | `lex:green` | green | adj | worka | specified |
+| `lex:grey` | grey | adj | wankutum | specified |
+| `lex:grief` | grief | noun | mopohwer | specified |
+| `lex:grip` | grip | noun | tekro | specified |
 | `lex:hair` | hair | noun | tohapep | specified |
+| `lex:half` | half | num | wopuswer | specified |
+| `lex:hammer` | hammer | noun | hem | specified |
 | `lex:hand` | hand | noun | su | specified |
+| `lex:handle` | handle | noun | mam | specified |
+| `lex:handwriting` | handwriting | noun | pew | specified |
 | `lex:have` | have | verb | morti | specified |
+| `lex:he` | he | pron | leka | specified |
 | `lex:head` | head | noun | sopa | specified |
 | `lex:hear` | hear | verb | milwi | specified |
 | `lex:heart` | heart | noun | seho | specified |
 | `lex:heavy` | heavy | adj | ku | specified |
+| `lex:hide` | hide | verb | mawho | specified |
 | `lex:hill` | hill | noun | ma | specified |
+| `lex:history` | history | noun | ropa | specified |
+| `lex:hold` | hold | verb | leksu | specified |
+| `lex:hollow` | hollow | adj | lekro | specified |
+| `lex:honest` | honest | adj | lut | specified |
 | `lex:honey` | honey | noun | wip | specified |
 | `lex:horn` | horn | noun | hontikla | specified |
 | `lex:horse` | horse | noun | norwipme | specified |
 | `lex:hot` | hot | adj | narpuw | specified |
+| `lex:hour` | hour | noun | sila | specified |
 | `lex:house` | house | noun | ki | specified |
+| `lex:hum` | hum | noun | wullanhu | specified |
+| `lex:i` | i | pron | wippu | specified |
 | `lex:adp:in` | in | adp | wumnorpi | specified |
+| `lex:initial` | initial | noun | rapi | specified |
 | `lex:insect` | insect | noun | sewot | specified |
+| `lex:interior` | interior | noun | seku | specified |
 | `lex:adp:into` | into | adp | piwu | specified |
+| `lex:inward` | inward | adv | to | specified |
+| `lex:iron` | iron | noun | rakkapti | specified |
+| `lex:island` | island | noun | luwuk | specified |
+| `lex:it` | it | pron | nuwuwneh | specified |
+| `lex:jacket` | jacket | noun | kaserki | specified |
+| `lex:journal` | journal | noun | rutaw | specified |
+| `lex:journey` | journey | noun | miwpomu | specified |
+| `lex:keel` | keel | noun | sapham | specified |
+| `lex:key` | key | noun | noto | specified |
 | `lex:kill` | kill | verb | rera | specified |
+| `lex:knack` | knack | noun | wohem | specified |
+| `lex:kneel` | kneel | verb | pak | specified |
 | `lex:knife` | knife | noun | si | specified |
 | `lex:know` | know | verb | ru | specified |
 | `lex:lake` | lake | noun | malta | specified |
 | `lex:language` | language | noun | koteh | specified |
+| `lex:latch` | latch | noun | pihok | specified |
+| `lex:later` | later | adv | lero | specified |
 | `lex:laugh` | laugh | verb | pimlummis | specified |
+| `lex:lavender` | lavender | noun | map | specified |
 | `lex:law` | law | noun | wa | specified |
+| `lex:layer` | layer | noun | hewo | specified |
 | `lex:leaf` | leaf | noun | susus | specified |
+| `lex:leather` | leather | noun | morlantat | specified |
+| `lex:ledger` | ledger | noun | suku | specified |
+| `lex:lee` | lee | noun | lapa | specified |
 | `lex:leg` | leg | noun | paro | specified |
 | `lex:life` | life | noun | tuntuw | specified |
+| `lex:lift` | lift | verb | kanow | specified |
+| `lex:lip` | lip | noun | sunul | specified |
+| `lex:lock` | lock | noun | mipo | specified |
+| `lex:log` | log | noun | nili | specified |
+| `lex:lone` | lone | adj | rot | specified |
 | `lex:long` | long | adj | le | specified |
+| `lex:look` | look | verb | sanim | specified |
+| `lex:lot` | lot | noun | kiprat | specified |
+| `lex:loud` | loud | adj | sa | specified |
 | `lex:love` | love | verb | semu | specified |
 | `lex:make` | make | verb | kama | specified |
 | `lex:man` | man | noun | no | specified |
+| `lex:manageable` | manageable | adj | komlehsen | specified |
+| `lex:manifesto` | manifesto | noun | te | specified |
+| `lex:marine` | marine | adj | tile | specified |
+| `lex:mean` | mean | verb | herlu | specified |
+| `lex:measure` | measure | verb | rusew | specified |
 | `lex:meat` | meat | noun | mop | specified |
+| `lex:melodic` | melodic | adj | wohta | specified |
+| `lex:memory` | memory | noun | tat | specified |
+| `lex:metal` | metal | noun | lim | specified |
+| `lex:meticulous` | meticulous | adj | tuko | specified |
+| `lex:mile` | mile | noun | notut | specified |
 | `lex:milk` | milk | noun | rosim | specified |
+| `lex:mind` | mind | noun | mene | specified |
+| `lex:mirror` | mirror | noun | ripi | specified |
+| `lex:month` | month | noun | liwluh | specified |
+| `lex:mood` | mood | noun | nup | specified |
 | `lex:moon` | moon | noun | kil | specified |
+| `lex:more` | more | adv | munlihsa | specified |
 | `lex:morning` | morning | noun | wosonur | specified |
+| `lex:moss` | moss | noun | sak | specified |
+| `lex:most` | most | adv | lewpu | specified |
 | `lex:mother` | mother | noun | sinah | specified |
+| `lex:motionless` | motionless | adj | telpa | specified |
 | `lex:mountain` | mountain | noun | palar | specified |
 | `lex:mouth` | mouth | noun | henu | specified |
 | `lex:mud` | mud | noun | pu | specified |
+| `lex:must` | must | mod | pepo | specified |
 | `lex:name` | name | noun | pume | specified |
+| `lex:narrow` | narrow | adj | lip | specified |
+| `lex:natural` | natural | adj | mawe | specified |
+| `lex:neat` | neat | adj | kolim | specified |
+| `lex:nest` | nest | noun | tunnole | specified |
+| `lex:never` | never | adv | tes | specified |
 | `lex:new` | new | adj | wihne | specified |
+| `lex:niche` | niche | noun | lotu | specified |
 | `lex:night` | night | noun | rin | specified |
+| `lex:nod` | nod | verb | wum | specified |
+| `lex:noise` | noise | noun | renuh | specified |
 | `lex:nose` | nose | noun | rar | specified |
 | `lex:not` | not | part | rirnin | specified |
+| `lex:note` | note | noun | pewen | specified |
+| `lex:oak` | oak | noun | lino | specified |
+| `lex:oar` | oar | noun | sele | specified |
+| `lex:observant` | observant | adj | res | specified |
+| `lex:ocean` | ocean | noun | lulus | specified |
+| `lex:often` | often | adv | kawwu | specified |
+| `lex:oil` | oil | noun | kela | specified |
+| `lex:oilcloth` | oilcloth | noun | sawiha | specified |
 | `lex:old` | old | adj | mo | specified |
 | `lex:adp:on` | on | adp | tiluso | specified |
 | `lex:one` | one | num | wir | specified |
+| `lex:open` | open | verb | ro | specified |
 | `lex:adp:out-of` | out of | adp | ta | specified |
+| `lex:outcrop` | outcrop | noun | pek | specified |
 | `lex:adp:over` | over | adp | lo | specified |
+| `lex:overgrown` | overgrown | adj | meh | specified |
+| `lex:overwhelming` | overwhelming | adj | kane | specified |
+| `lex:page` | page | noun | wukho | specified |
+| `lex:pair` | pair | num | nopheh | specified |
+| `lex:palm` | palm | noun | nok | specified |
+| `lex:paper` | paper | noun | hinso | specified |
 | `lex:path` | path | noun | pasna | specified |
+| `lex:pattern` | pattern | noun | kenon | specified |
+| `lex:pause` | pause | verb | hi | specified |
 | `lex:peace` | peace | noun | lunwu | specified |
+| `lex:pedestal` | pedestal | noun | rew | specified |
+| `lex:perfect` | perfect | adj | nuli | specified |
+| `lex:permission` | permission | noun | tanhirmo | specified |
+| `lex:persistent` | persistent | adj | larir | specified |
 | `lex:person` | person | noun | warweh | specified |
+| `lex:physical` | physical | adj | mirakiw | specified |
+| `lex:plank` | plank | noun | rih | specified |
+| `lex:pocket` | pocket | noun | nitlo | specified |
+| `lex:pouch` | pouch | noun | neho | specified |
+| `lex:presence` | presence | noun | norus | specified |
+| `lex:present` | present | noun | molpoloh | specified |
+| `lex:pressure` | pressure | noun | menamto | specified |
+| `lex:pristine` | pristine | adj | wamroni | specified |
+| `lex:project` | project | noun | tinwensa | specified |
+| `lex:protected` | protected | adj | nupu | specified |
+| `lex:pull` | pull | verb | kurero | specified |
+| `lex:push` | push | verb | mahi | specified |
+| `lex:quiet` | quiet | adj | tis | specified |
 | `lex:rain` | rain | noun | kunhe | specified |
+| `lex:reach` | reach | verb | runam | specified |
+| `lex:ready` | ready | adj | rehhe | specified |
+| `lex:reality` | reality | noun | wawe | specified |
 | `lex:red` | red | adj | rolsaw | specified |
+| `lex:remember` | remember | verb | tepre | specified |
+| `lex:reveal` | reveal | verb | pan | specified |
+| `lex:rhythm` | rhythm | noun | wita | specified |
+| `lex:rhythmic` | rhythmic | adj | lako | specified |
+| `lex:rich` | rich | adj | wimilo | specified |
+| `lex:ridge` | ridge | noun | ne | specified |
+| `lex:ring` | ring | noun | wipah | specified |
+| `lex:rise` | rise | verb | wur | specified |
 | `lex:river` | river | noun | tal | specified |
 | `lex:road` | road | noun | he | specified |
+| `lex:rock` | rock | noun | ras | specified |
 | `lex:roof` | roof | noun | pas | specified |
 | `lex:root` | root | noun | holul | specified |
 | `lex:rope` | rope | noun | lahnan | specified |
+| `lex:rosemary` | rosemary | noun | sokas | specified |
+| `lex:rough` | rough | adj | sihtoluw | specified |
 | `lex:round` | round | adj | ror | specified |
+| `lex:row` | row | verb | wenur | specified |
+| `lex:rowlock` | rowlock | noun | wo | specified |
+| `lex:ruin` | ruin | noun | mamanpi | specified |
 | `lex:run` | run | verb | lok | specified |
+| `lex:rusty` | rusty | adj | sekpeh | specified |
 | `lex:salt` | salt | noun | kipli | specified |
+| `lex:same` | same | adj | sili | specified |
 | `lex:sand` | sand | noun | rekta | specified |
+| `lex:sandbar` | sandbar | noun | lu | specified |
+| `lex:saw` | saw | verb | kewel | specified |
 | `lex:say` | say | verb | wowleruk | specified |
+| `lex:scent` | scent | noun | peshetaw | specified |
 | `lex:sea` | sea | noun | hono | specified |
+| `lex:sea-pink` | sea pink | noun | selo | specified |
+| `lex:seabird` | seabird | noun | hasro | specified |
+| `lex:seagull` | seagull | noun | pikutom | specified |
 | `lex:season` | season | noun | ranto | specified |
 | `lex:see` | see | verb | wimho | specified |
 | `lex:seed` | seed | noun | tusinke | specified |
+| `lex:shaft` | shaft | noun | nap | specified |
+| `lex:shallow` | shallow | adj | mat | specified |
+| `lex:shared` | shared | adj | renal | specified |
 | `lex:sharp` | sharp | adj | tewa | specified |
+| `lex:she` | she | pron | nakwehsir | specified |
+| `lex:shears` | shears | noun | ruhsetuw | specified |
 | `lex:sheep` | sheep | noun | kapinna | specified |
+| `lex:shift` | shift | verb | merlarur | specified |
+| `lex:shingle` | shingle | noun | rehsalip | specified |
+| `lex:shore` | shore | noun | ritli | specified |
 | `lex:short` | short | adj | pe | specified |
+| `lex:should` | should | mod | satopwo | specified |
+| `lex:shutter` | shutter | noun | kos | specified |
+| `lex:silence` | silence | noun | sot | specified |
+| `lex:simple` | simple | adj | karo | specified |
+| `lex:simply` | simply | adv | kaki | specified |
 | `lex:sister` | sister | noun | law | specified |
 | `lex:sit` | sit | verb | kepat | specified |
+| `lex:six` | six | num | wutwu | specified |
 | `lex:skin` | skin | noun | war | specified |
 | `lex:sky` | sky | noun | tuwna | specified |
 | `lex:sleep` | sleep | verb | soswip | specified |
+| `lex:sleeve` | sleeve | noun | tewmepe | specified |
+| `lex:slide` | slide | verb | lisom | specified |
+| `lex:slipway` | slipway | noun | riswa | specified |
 | `lex:slow` | slow | adj | tosu | specified |
+| `lex:slowly` | slowly | adv | wemu | specified |
 | `lex:small` | small | adj | lin | specified |
+| `lex:smile` | smile | verb | samaru | specified |
+| `lex:smooth` | smooth | adj | pemuw | specified |
 | `lex:snake` | snake | noun | puwiw | specified |
 | `lex:snow` | snow | noun | nahhipe | specified |
 | `lex:conj:so` | so | conj | salener | specified |
+| `lex:soft` | soft | adj | womma | specified |
+| `lex:solid` | solid | adj | miku | specified |
 | `lex:song` | song | noun | wuwiwom | specified |
+| `lex:sound` | sound | noun | nemso | specified |
+| `lex:space` | space | noun | hew | specified |
 | `lex:speak` | speak | verb | pelu | specified |
+| `lex:splash` | splash | noun | pen | specified |
+| `lex:squarely` | squarely | adv | tuk | specified |
 | `lex:stand` | stand | verb | pasur | specified |
 | `lex:star` | star | noun | puspat | specified |
+| `lex:steady` | steady | adj | rara | specified |
+| `lex:step` | step | noun | wurnop | specified |
+| `lex:stern` | stern | noun | sepo | specified |
+| `lex:stiff` | stiff | adj | kohin | specified |
+| `lex:still` | still | adj | sam | specified |
 | `lex:stone` | stone | noun | se | specified |
+| `lex:stonechat` | stonechat | noun | pamwu | specified |
+| `lex:storm` | storm | noun | hu | specified |
 | `lex:story` | story | noun | hamas | specified |
+| `lex:stroke` | stroke | noun | nuresa | specified |
 | `lex:strong` | strong | adj | pi | specified |
+| `lex:sudden` | sudden | adj | nima | specified |
 | `lex:sun` | sun | noun | ho | specified |
+| `lex:surf` | surf | noun | solek | specified |
+| `lex:sweep` | sweep | verb | ranithuh | specified |
 | `lex:sweet` | sweet | adj | wihruh | specified |
 | `lex:swim` | swim | verb | komro | specified |
+| `lex:table` | table | noun | nik | specified |
 | `lex:tail` | tail | noun | wumesto | specified |
 | `lex:take` | take | verb | ka | specified |
 | `lex:tall` | tall | adj | kaslo | specified |
+| `lex:task` | task | noun | lunse | specified |
+| `lex:tell` | tell | verb | leri | specified |
+| `lex:that` | that | det | posso | specified |
+| `lex:the` | the | det | sapuro | specified |
 | `lex:conj:then` | then | conj | mupe | specified |
+| `lex:they` | they | pron | teno | specified |
+| `lex:thick` | thick | adj | rentu | specified |
 | `lex:thin` | thin | adj | pupot | specified |
 | `lex:think` | think | verb | hesu | specified |
+| `lex:this` | this | det | simrop | specified |
+| `lex:thought` | thought | noun | ner | specified |
 | `lex:three` | three | num | kimuriw | specified |
+| `lex:threshold` | threshold | noun | huseso | specified |
 | `lex:adp:through` | through | adp | tinusem | specified |
+| `lex:thyme` | thyme | noun | kunusma | specified |
+| `lex:tide` | tide | noun | lusi | specified |
+| `lex:tie` | tie | verb | rewse | specified |
+| `lex:tightly` | tightly | adv | wahra | specified |
+| `lex:timber` | timber | noun | ropotmi | specified |
 | `lex:time` | time | noun | ri | specified |
 | `lex:adp:to` | to | adp | kulam | specified |
+| `lex:together` | together | adv | lomap | specified |
 | `lex:tongue` | tongue | noun | tom | specified |
 | `lex:tool` | tool | noun | tawel | specified |
 | `lex:tooth` | tooth | noun | ko | specified |
+| `lex:top` | top | noun | komel | specified |
 | `lex:adp:toward` | toward | adp | niw | specified |
 | `lex:tree` | tree | noun | noplo | specified |
+| `lex:turn` | turn | verb | ninta | specified |
+| `lex:turquoise` | turquoise | adj | sul | specified |
+| `lex:twine` | twine | noun | werih | specified |
 | `lex:two` | two | num | sulsu | specified |
 | `lex:adp:under` | under | adp | homip | specified |
+| `lex:understand` | understand | verb | konarun | specified |
+| `lex:understanding` | understanding | noun | nowsa | specified |
+| `lex:unexpected` | unexpected | adj | manurno | specified |
+| `lex:until` | until | sub | hapnu | specified |
+| `lex:upward` | upward | adv | luwe | specified |
+| `lex:urge` | urge | noun | lomsok | specified |
+| `lex:varnish` | varnish | noun | nahapsi | specified |
+| `lex:vast` | vast | adj | teh | specified |
+| `lex:visible` | visible | adj | lohe | specified |
+| `lex:voice` | voice | noun | lokopa | specified |
+| `lex:wait` | wait | verb | wuti | specified |
 | `lex:walk` | walk | verb | senkahuk | specified |
 | `lex:wall` | wall | noun | nokansip | specified |
 | `lex:want` | want | verb | pa | specified |
 | `lex:war` | war | noun | ra | specified |
+| `lex:watch` | watch | verb | pipi | specified |
 | `lex:water` | water | noun | re | specified |
+| `lex:we` | we | pron | kimor | specified |
 | `lex:weak` | weak | adj | wi | specified |
+| `lex:weather` | weather | noun | huk | specified |
+| `lex:weathered` | weathered | adj | lesen | specified |
+| `lex:weight` | weight | noun | rutwaksoh | specified |
+| `lex:welcoming` | welcoming | adj | lalu | specified |
 | `lex:wet` | wet | adj | kuris | specified |
+| `lex:when` | when | sub | serneta | specified |
+| `lex:where` | where | sub | memwa | specified |
+| `lex:while` | while | sub | mohuko | specified |
 | `lex:white` | white | adj | lise | specified |
+| `lex:whitewashed` | whitewashed | adj | nopmok | specified |
 | `lex:wide` | wide | adj | komilu | specified |
+| `lex:wild` | wild | adj | nurwanat | specified |
+| `lex:will` | will | mod | not | specified |
 | `lex:wind` | wind | noun | wemlo | specified |
+| `lex:window` | window | noun | wepwetmi | specified |
+| `lex:winter` | winter | noun | losal | specified |
 | `lex:adp:with` | with | adp | tapa | specified |
 | `lex:wolf` | wolf | noun | sonso | specified |
 | `lex:woman` | woman | noun | tuwo | specified |
+| `lex:woodsmoke` | woodsmoke | noun | piwep | specified |
 | `lex:word` | word | noun | niknup | specified |
 | `lex:work` | work | noun | nonpumiw | specified |
+| `lex:worn` | worn | adj | moku | specified |
+| `lex:would` | would | mod | hon | specified |
+| `lex:wrap` | wrap | verb | patota | specified |
 | `lex:year` | year | noun | pis | specified |
 | `lex:yellow` | yellow | adj | lamu | specified |
+| `lex:you` | you | pron | simo | specified |
 
-## Word forms (1409 records)
+## Word forms (3577 records)
 
 | lexeme | form | tags |
 | --- | --- | --- |
@@ -1626,6 +1963,2174 @@ _seed `1` · spec `34569252ce6794fb` · schema `0.1`_
 | `lex:three` | kimuriw (ki.mu.riw) | CIT |
 | `lex:three` | kimuriwkow (ki.mu.riw.kow) | ORD |
 | `lex:not` | rirnin (rir.nin) | CIT |
+| `lex:ocean` | lulus (lu.lus) | CIT |
+| `lex:ocean` | lulusni (lu.lus.ni) | PL |
+| `lex:ocean` | lulusle (lu.lus.le) | DIM |
+| `lex:ocean` | luluslu (lu.lus.lu) | AUG |
+| `lex:ocean` | lulusnile (lu.lus.ni.le) | PL+DIM |
+| `lex:ocean` | lulusnilu (lu.lus.ni.lu) | PL+AUG |
+| `lex:ocean` | luluslelu (lu.lus.le.lu) | DIM+AUG |
+| `lex:ocean` | lulusnilelu (lu.lus.ni.le.lu) | PL+DIM+AUG |
+| `lex:bay` | kono (ko.no) | CIT |
+| `lex:bay` | kononi (ko.no.ni) | PL |
+| `lex:bay` | konowa (ko.no.wa) | DIM |
+| `lex:bay` | konota (ko.no.ta) | AUG |
+| `lex:bay` | kononiwa (ko.no.ni.wa) | PL+DIM |
+| `lex:bay` | kononita (ko.no.ni.ta) | PL+AUG |
+| `lex:bay` | konowata (ko.no.wa.ta) | DIM+AUG |
+| `lex:bay` | kononiwata (ko.no.ni.wa.ta) | PL+DIM+AUG |
+| `lex:shore` | ritli (rit.li) | CIT |
+| `lex:shore` | ritlini (rit.li.ni) | PL |
+| `lex:shore` | ritlile (rit.li.le) | DIM |
+| `lex:shore` | ritlilu (rit.li.lu) | AUG |
+| `lex:shore` | ritlinile (rit.li.ni.le) | PL+DIM |
+| `lex:shore` | ritlinilu (rit.li.ni.lu) | PL+AUG |
+| `lex:shore` | ritlilelu (rit.li.le.lu) | DIM+AUG |
+| `lex:shore` | ritlinilelu (rit.li.ni.le.lu) | PL+DIM+AUG |
+| `lex:beach` | romis (ro.mis) | CIT |
+| `lex:beach` | romisni (ro.mis.ni) | PL |
+| `lex:beach` | romiswa (ro.mis.wa) | DIM |
+| `lex:beach` | romista (ro.mis.ta) | AUG |
+| `lex:beach` | romisniwa (ro.mis.ni.wa) | PL+DIM |
+| `lex:beach` | romisnita (ro.mis.ni.ta) | PL+AUG |
+| `lex:beach` | romiswata (ro.mis.wa.ta) | DIM+AUG |
+| `lex:beach` | romisniwata (ro.mis.ni.wa.ta) | PL+DIM+AUG |
+| `lex:surf` | solek (so.lek) | CIT |
+| `lex:surf` | solekni (so.lek.ni) | PL |
+| `lex:surf` | solekle (so.lek.le) | DIM |
+| `lex:surf` | soleklu (so.lek.lu) | AUG |
+| `lex:surf` | soleknile (so.lek.ni.le) | PL+DIM |
+| `lex:surf` | soleknilu (so.lek.ni.lu) | PL+AUG |
+| `lex:surf` | soleklelu (so.lek.le.lu) | DIM+AUG |
+| `lex:surf` | soleknilelu (so.lek.ni.le.lu) | PL+DIM+AUG |
+| `lex:tide` | lusi (lu.si) | CIT |
+| `lex:tide` | lusini (lu.si.ni) | PL |
+| `lex:tide` | lusiwa (lu.si.wa) | DIM |
+| `lex:tide` | lusita (lu.si.ta) | AUG |
+| `lex:tide` | lusiniwa (lu.si.ni.wa) | PL+DIM |
+| `lex:tide` | lusinita (lu.si.ni.ta) | PL+AUG |
+| `lex:tide` | lusiwata (lu.si.wa.ta) | DIM+AUG |
+| `lex:tide` | lusiniwata (lu.si.ni.wa.ta) | PL+DIM+AUG |
+| `lex:current` | nak (nak) | CIT |
+| `lex:current` | nakni (nak.ni) | PL |
+| `lex:current` | nakle (nak.le) | DIM |
+| `lex:current` | naklu (nak.lu) | AUG |
+| `lex:current` | naknile (nak.ni.le) | PL+DIM |
+| `lex:current` | naknilu (nak.ni.lu) | PL+AUG |
+| `lex:current` | naklelu (nak.le.lu) | DIM+AUG |
+| `lex:current` | naknilelu (nak.ni.le.lu) | PL+DIM+AUG |
+| `lex:lee` | lapa (la.pa) | CIT |
+| `lex:lee` | lapani (la.pa.ni) | PL |
+| `lex:lee` | lapawa (la.pa.wa) | DIM |
+| `lex:lee` | lapata (la.pa.ta) | AUG |
+| `lex:lee` | lapaniwa (la.pa.ni.wa) | PL+DIM |
+| `lex:lee` | lapanita (la.pa.ni.ta) | PL+AUG |
+| `lex:lee` | lapawata (la.pa.wa.ta) | DIM+AUG |
+| `lex:lee` | lapaniwata (la.pa.ni.wa.ta) | PL+DIM+AUG |
+| `lex:sandbar` | lu (lu) | CIT |
+| `lex:sandbar` | luni (lu.ni) | PL |
+| `lex:sandbar` | lule (lu.le) | DIM |
+| `lex:sandbar` | lulu (lu.lu) | AUG |
+| `lex:sandbar` | lunile (lu.ni.le) | PL+DIM |
+| `lex:sandbar` | lunilu (lu.ni.lu) | PL+AUG |
+| `lex:sandbar` | lulelu (lu.le.lu) | DIM+AUG |
+| `lex:sandbar` | lunilelu (lu.ni.le.lu) | PL+DIM+AUG |
+| `lex:slipway` | riswa (ris.wa) | CIT |
+| `lex:slipway` | riswani (ris.wa.ni) | PL |
+| `lex:slipway` | riswawa (ris.wa.wa) | DIM |
+| `lex:slipway` | riswata (ris.wa.ta) | AUG |
+| `lex:slipway` | riswaniwa (ris.wa.ni.wa) | PL+DIM |
+| `lex:slipway` | riswanita (ris.wa.ni.ta) | PL+AUG |
+| `lex:slipway` | riswawata (ris.wa.wa.ta) | DIM+AUG |
+| `lex:slipway` | riswaniwata (ris.wa.ni.wa.ta) | PL+DIM+AUG |
+| `lex:island` | luwuk (lu.wuk) | CIT |
+| `lex:island` | luwukni (lu.wuk.ni) | PL |
+| `lex:island` | luwukle (lu.wuk.le) | DIM |
+| `lex:island` | luwuklu (lu.wuk.lu) | AUG |
+| `lex:island` | luwuknile (lu.wuk.ni.le) | PL+DIM |
+| `lex:island` | luwuknilu (lu.wuk.ni.lu) | PL+AUG |
+| `lex:island` | luwuklelu (lu.wuk.le.lu) | DIM+AUG |
+| `lex:island` | luwuknilelu (lu.wuk.ni.le.lu) | PL+DIM+AUG |
+| `lex:outcrop` | pek (pek) | CIT |
+| `lex:outcrop` | pekni (pek.ni) | PL |
+| `lex:outcrop` | pekwa (pek.wa) | DIM |
+| `lex:outcrop` | pekta (pek.ta) | AUG |
+| `lex:outcrop` | pekniwa (pek.ni.wa) | PL+DIM |
+| `lex:outcrop` | peknita (pek.ni.ta) | PL+AUG |
+| `lex:outcrop` | pekwata (pek.wa.ta) | DIM+AUG |
+| `lex:outcrop` | pekniwata (pek.ni.wa.ta) | PL+DIM+AUG |
+| `lex:rock` | ras (ras) | CIT |
+| `lex:rock` | rasni (ras.ni) | PL |
+| `lex:rock` | rasle (ras.le) | DIM |
+| `lex:rock` | raslu (ras.lu) | AUG |
+| `lex:rock` | rasnile (ras.ni.le) | PL+DIM |
+| `lex:rock` | rasnilu (ras.ni.lu) | PL+AUG |
+| `lex:rock` | raslelu (ras.le.lu) | DIM+AUG |
+| `lex:rock` | rasnilelu (ras.ni.le.lu) | PL+DIM+AUG |
+| `lex:breeze` | mopohmi (mo.poh.mi) | CIT |
+| `lex:breeze` | mopohmini (mo.poh.mi.ni) | PL |
+| `lex:breeze` | mopohmiwa (mo.poh.mi.wa) | DIM |
+| `lex:breeze` | mopohmita (mo.poh.mi.ta) | AUG |
+| `lex:breeze` | mopohminiwa (mo.poh.mi.ni.wa) | PL+DIM |
+| `lex:breeze` | mopohminita (mo.poh.mi.ni.ta) | PL+AUG |
+| `lex:breeze` | mopohmiwata (mo.poh.mi.wa.ta) | DIM+AUG |
+| `lex:breeze` | mopohminiwata (mo.poh.mi.ni.wa.ta) | PL+DIM+AUG |
+| `lex:weather` | huk (huk) | CIT |
+| `lex:weather` | hukni (huk.ni) | PL |
+| `lex:weather` | hukle (huk.le) | DIM |
+| `lex:weather` | huklu (huk.lu) | AUG |
+| `lex:weather` | huknile (huk.ni.le) | PL+DIM |
+| `lex:weather` | huknilu (huk.ni.lu) | PL+AUG |
+| `lex:weather` | huklelu (huk.le.lu) | DIM+AUG |
+| `lex:weather` | huknilelu (huk.ni.le.lu) | PL+DIM+AUG |
+| `lex:storm` | hu (hu) | CIT |
+| `lex:storm` | huni (hu.ni) | PL |
+| `lex:storm` | huwa (hu.wa) | DIM |
+| `lex:storm` | huta (hu.ta) | AUG |
+| `lex:storm` | huniwa (hu.ni.wa) | PL+DIM |
+| `lex:storm` | hunita (hu.ni.ta) | PL+AUG |
+| `lex:storm` | huwata (hu.wa.ta) | DIM+AUG |
+| `lex:storm` | huniwata (hu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:air` | lontetaw (lon.te.taw) | CIT |
+| `lex:air` | lontetawni (lon.te.taw.ni) | PL |
+| `lex:air` | lontetawle (lon.te.taw.le) | DIM |
+| `lex:air` | lontetawlu (lon.te.taw.lu) | AUG |
+| `lex:air` | lontetawnile (lon.te.taw.ni.le) | PL+DIM |
+| `lex:air` | lontetawnilu (lon.te.taw.ni.lu) | PL+AUG |
+| `lex:air` | lontetawlelu (lon.te.taw.le.lu) | DIM+AUG |
+| `lex:air` | lontetawnilelu (lon.te.taw.ni.le.lu) | PL+DIM+AUG |
+| `lex:scent` | peshetaw (pes.he.taw) | CIT |
+| `lex:scent` | peshetawni (pes.he.taw.ni) | PL |
+| `lex:scent` | peshetawwa (pes.he.taw.wa) | DIM |
+| `lex:scent` | peshetawta (pes.he.taw.ta) | AUG |
+| `lex:scent` | peshetawniwa (pes.he.taw.ni.wa) | PL+DIM |
+| `lex:scent` | peshetawnita (pes.he.taw.ni.ta) | PL+AUG |
+| `lex:scent` | peshetawwata (pes.he.taw.wa.ta) | DIM+AUG |
+| `lex:scent` | peshetawniwata (pes.he.taw.ni.wa.ta) | PL+DIM+AUG |
+| `lex:woodsmoke` | piwep (pi.wep) | CIT |
+| `lex:woodsmoke` | piwepni (pi.wep.ni) | PL |
+| `lex:woodsmoke` | piweple (pi.wep.le) | DIM |
+| `lex:woodsmoke` | piweplu (pi.wep.lu) | AUG |
+| `lex:woodsmoke` | piwepnile (pi.wep.ni.le) | PL+DIM |
+| `lex:woodsmoke` | piwepnilu (pi.wep.ni.lu) | PL+AUG |
+| `lex:woodsmoke` | piweplelu (pi.wep.le.lu) | DIM+AUG |
+| `lex:woodsmoke` | piwepnilelu (pi.wep.ni.le.lu) | PL+DIM+AUG |
+| `lex:seagull` | pikutom (pi.ku.tom) | CIT |
+| `lex:seagull` | pikutomni (pi.ku.tom.ni) | PL |
+| `lex:seagull` | pikutomwa (pi.ku.tom.wa) | DIM |
+| `lex:seagull` | pikutomta (pi.ku.tom.ta) | AUG |
+| `lex:seagull` | pikutomniwa (pi.ku.tom.ni.wa) | PL+DIM |
+| `lex:seagull` | pikutomnita (pi.ku.tom.ni.ta) | PL+AUG |
+| `lex:seagull` | pikutomwata (pi.ku.tom.wa.ta) | DIM+AUG |
+| `lex:seagull` | pikutomniwata (pi.ku.tom.ni.wa.ta) | PL+DIM+AUG |
+| `lex:gannet` | sotetar (so.te.tar) | CIT |
+| `lex:gannet` | sotetarni (so.te.tar.ni) | PL |
+| `lex:gannet` | sotetarle (so.te.tar.le) | DIM |
+| `lex:gannet` | sotetarlu (so.te.tar.lu) | AUG |
+| `lex:gannet` | sotetarnile (so.te.tar.ni.le) | PL+DIM |
+| `lex:gannet` | sotetarnilu (so.te.tar.ni.lu) | PL+AUG |
+| `lex:gannet` | sotetarlelu (so.te.tar.le.lu) | DIM+AUG |
+| `lex:gannet` | sotetarnilelu (so.te.tar.ni.le.lu) | PL+DIM+AUG |
+| `lex:stonechat` | pamwu (pam.wu) | CIT |
+| `lex:stonechat` | pamwuni (pam.wu.ni) | PL |
+| `lex:stonechat` | pamwuwa (pam.wu.wa) | DIM |
+| `lex:stonechat` | pamwuta (pam.wu.ta) | AUG |
+| `lex:stonechat` | pamwuniwa (pam.wu.ni.wa) | PL+DIM |
+| `lex:stonechat` | pamwunita (pam.wu.ni.ta) | PL+AUG |
+| `lex:stonechat` | pamwuwata (pam.wu.wa.ta) | DIM+AUG |
+| `lex:stonechat` | pamwuniwata (pam.wu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:seabird` | hasro (has.ro) | CIT |
+| `lex:seabird` | hasroni (has.ro.ni) | PL |
+| `lex:seabird` | hasrole (has.ro.le) | DIM |
+| `lex:seabird` | hasrolu (has.ro.lu) | AUG |
+| `lex:seabird` | hasronile (has.ro.ni.le) | PL+DIM |
+| `lex:seabird` | hasronilu (has.ro.ni.lu) | PL+AUG |
+| `lex:seabird` | hasrolelu (has.ro.le.lu) | DIM+AUG |
+| `lex:seabird` | hasronilelu (has.ro.ni.le.lu) | PL+DIM+AUG |
+| `lex:eel` | walit (wa.lit) | CIT |
+| `lex:eel` | walitni (wa.lit.ni) | PL |
+| `lex:eel` | walitwa (wa.lit.wa) | DIM |
+| `lex:eel` | walitta (wa.lit.ta) | AUG |
+| `lex:eel` | walitniwa (wa.lit.ni.wa) | PL+DIM |
+| `lex:eel` | walitnita (wa.lit.ni.ta) | PL+AUG |
+| `lex:eel` | walitwata (wa.lit.wa.ta) | DIM+AUG |
+| `lex:eel` | walitniwata (wa.lit.ni.wa.ta) | PL+DIM+AUG |
+| `lex:rise` | wur (wur) | CIT |
+| `lex:rise` | wurrut (wur.rut) | PST |
+| `lex:rise` | hawur (ha.wur) | FUT |
+| `lex:rise` | wurlop (wur.lop) | PROG |
+| `lex:rise` | wurmu (wur.mu) | PERF |
+| `lex:rise` | hawurrut (ha.wur.rut) | PST+FUT |
+| `lex:rise` | wurrutlop (wur.rut.lop) | PST+PROG |
+| `lex:rise` | wurrutmu (wur.rut.mu) | PST+PERF |
+| `lex:rise` | hawurlop (ha.wur.lop) | FUT+PROG |
+| `lex:rise` | hawurmu (ha.wur.mu) | FUT+PERF |
+| `lex:rise` | wurlopmu (wur.lop.mu) | PROG+PERF |
+| `lex:rise` | hawurrutlop (ha.wur.rut.lop) | PST+FUT+PROG |
+| `lex:rise` | hawurrutmu (ha.wur.rut.mu) | PST+FUT+PERF |
+| `lex:rise` | wurrutlopmu (wur.rut.lop.mu) | PST+PROG+PERF |
+| `lex:rise` | hawurlopmu (ha.wur.lop.mu) | FUT+PROG+PERF |
+| `lex:rise` | hawurrutlopmu (ha.wur.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:float` | hawan (ha.wan) | CIT |
+| `lex:float` | hawanmi (ha.wan.mi) | PST |
+| `lex:float` | wuhhawan (wuh.ha.wan) | FUT |
+| `lex:float` | hawanlop (ha.wan.lop) | PROG |
+| `lex:float` | hawankoh (ha.wan.koh) | PERF |
+| `lex:float` | wuhhawanmi (wuh.ha.wan.mi) | PST+FUT |
+| `lex:float` | hawanmilop (ha.wan.mi.lop) | PST+PROG |
+| `lex:float` | hawanmikoh (ha.wan.mi.koh) | PST+PERF |
+| `lex:float` | wuhhawanlop (wuh.ha.wan.lop) | FUT+PROG |
+| `lex:float` | wuhhawankoh (wuh.ha.wan.koh) | FUT+PERF |
+| `lex:float` | hawanlopkoh (ha.wan.lop.koh) | PROG+PERF |
+| `lex:float` | wuhhawanmilop (wuh.ha.wan.mi.lop) | PST+FUT+PROG |
+| `lex:float` | wuhhawanmikoh (wuh.ha.wan.mi.koh) | PST+FUT+PERF |
+| `lex:float` | hawanmilopkoh (ha.wan.mi.lop.koh) | PST+PROG+PERF |
+| `lex:float` | wuhhawanlopkoh (wuh.ha.wan.lop.koh) | FUT+PROG+PERF |
+| `lex:float` | wuhhawanmilopkoh (wuh.ha.wan.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:drift` | pusum (pu.sum) | CIT |
+| `lex:drift` | pusumrut (pu.sum.rut) | PST |
+| `lex:drift` | hapusum (ha.pu.sum) | FUT |
+| `lex:drift` | pusumlop (pu.sum.lop) | PROG |
+| `lex:drift` | pusummu (pu.sum.mu) | PERF |
+| `lex:drift` | hapusumrut (ha.pu.sum.rut) | PST+FUT |
+| `lex:drift` | pusumrutlop (pu.sum.rut.lop) | PST+PROG |
+| `lex:drift` | pusumrutmu (pu.sum.rut.mu) | PST+PERF |
+| `lex:drift` | hapusumlop (ha.pu.sum.lop) | FUT+PROG |
+| `lex:drift` | hapusummu (ha.pu.sum.mu) | FUT+PERF |
+| `lex:drift` | pusumlopmu (pu.sum.lop.mu) | PROG+PERF |
+| `lex:drift` | hapusumrutlop (ha.pu.sum.rut.lop) | PST+FUT+PROG |
+| `lex:drift` | hapusumrutmu (ha.pu.sum.rut.mu) | PST+FUT+PERF |
+| `lex:drift` | pusumrutlopmu (pu.sum.rut.lop.mu) | PST+PROG+PERF |
+| `lex:drift` | hapusumlopmu (ha.pu.sum.lop.mu) | FUT+PROG+PERF |
+| `lex:drift` | hapusumrutlopmu (ha.pu.sum.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:bob` | kotek (ko.tek) | CIT |
+| `lex:bob` | kotekmi (ko.tek.mi) | PST |
+| `lex:bob` | wuhkotek (wuh.ko.tek) | FUT |
+| `lex:bob` | koteklop (ko.tek.lop) | PROG |
+| `lex:bob` | kotekkoh (ko.tek.koh) | PERF |
+| `lex:bob` | wuhkotekmi (wuh.ko.tek.mi) | PST+FUT |
+| `lex:bob` | kotekmilop (ko.tek.mi.lop) | PST+PROG |
+| `lex:bob` | kotekmikoh (ko.tek.mi.koh) | PST+PERF |
+| `lex:bob` | wuhkoteklop (wuh.ko.tek.lop) | FUT+PROG |
+| `lex:bob` | wuhkotekkoh (wuh.ko.tek.koh) | FUT+PERF |
+| `lex:bob` | koteklopkoh (ko.tek.lop.koh) | PROG+PERF |
+| `lex:bob` | wuhkotekmilop (wuh.ko.tek.mi.lop) | PST+FUT+PROG |
+| `lex:bob` | wuhkotekmikoh (wuh.ko.tek.mi.koh) | PST+FUT+PERF |
+| `lex:bob` | kotekmilopkoh (ko.tek.mi.lop.koh) | PST+PROG+PERF |
+| `lex:bob` | wuhkoteklopkoh (wuh.ko.tek.lop.koh) | FUT+PROG+PERF |
+| `lex:bob` | wuhkotekmilopkoh (wuh.ko.tek.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:glide` | nalmin (nal.min) | CIT |
+| `lex:glide` | nalminrut (nal.min.rut) | PST |
+| `lex:glide` | hanalmin (ha.nal.min) | FUT |
+| `lex:glide` | nalminlop (nal.min.lop) | PROG |
+| `lex:glide` | nalminmu (nal.min.mu) | PERF |
+| `lex:glide` | hanalminrut (ha.nal.min.rut) | PST+FUT |
+| `lex:glide` | nalminrutlop (nal.min.rut.lop) | PST+PROG |
+| `lex:glide` | nalminrutmu (nal.min.rut.mu) | PST+PERF |
+| `lex:glide` | hanalminlop (ha.nal.min.lop) | FUT+PROG |
+| `lex:glide` | hanalminmu (ha.nal.min.mu) | FUT+PERF |
+| `lex:glide` | nalminlopmu (nal.min.lop.mu) | PROG+PERF |
+| `lex:glide` | hanalminrutlop (ha.nal.min.rut.lop) | PST+FUT+PROG |
+| `lex:glide` | hanalminrutmu (ha.nal.min.rut.mu) | PST+FUT+PERF |
+| `lex:glide` | nalminrutlopmu (nal.min.rut.lop.mu) | PST+PROG+PERF |
+| `lex:glide` | hanalminlopmu (ha.nal.min.lop.mu) | FUT+PROG+PERF |
+| `lex:glide` | hanalminrutlopmu (ha.nal.min.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:splash` | pen (pen) | CIT |
+| `lex:splash` | penni (pen.ni) | PL |
+| `lex:splash` | penle (pen.le) | DIM |
+| `lex:splash` | penlu (pen.lu) | AUG |
+| `lex:splash` | pennile (pen.ni.le) | PL+DIM |
+| `lex:splash` | pennilu (pen.ni.lu) | PL+AUG |
+| `lex:splash` | penlelu (pen.le.lu) | DIM+AUG |
+| `lex:splash` | pennilelu (pen.ni.le.lu) | PL+DIM+AUG |
+| `lex:crest` | mah (mah) | CIT |
+| `lex:crest` | mahni (mah.ni) | PL |
+| `lex:crest` | mahwa (mah.wa) | DIM |
+| `lex:crest` | mahta (mah.ta) | AUG |
+| `lex:crest` | mahniwa (mah.ni.wa) | PL+DIM |
+| `lex:crest` | mahnita (mah.ni.ta) | PL+AUG |
+| `lex:crest` | mahwata (mah.wa.ta) | DIM+AUG |
+| `lex:crest` | mahniwata (mah.ni.wa.ta) | PL+DIM+AUG |
+| `lex:dip` | tak (tak) | CIT |
+| `lex:dip` | takni (tak.ni) | PL |
+| `lex:dip` | takle (tak.le) | DIM |
+| `lex:dip` | taklu (tak.lu) | AUG |
+| `lex:dip` | taknile (tak.ni.le) | PL+DIM |
+| `lex:dip` | taknilu (tak.ni.lu) | PL+AUG |
+| `lex:dip` | taklelu (tak.le.lu) | DIM+AUG |
+| `lex:dip` | taknilelu (tak.ni.le.lu) | PL+DIM+AUG |
+| `lex:ridge` | ne (ne) | CIT |
+| `lex:ridge` | neni (ne.ni) | PL |
+| `lex:ridge` | newa (ne.wa) | DIM |
+| `lex:ridge` | neta (ne.ta) | AUG |
+| `lex:ridge` | neniwa (ne.ni.wa) | PL+DIM |
+| `lex:ridge` | nenita (ne.ni.ta) | PL+AUG |
+| `lex:ridge` | newata (ne.wa.ta) | DIM+AUG |
+| `lex:ridge` | neniwata (ne.ni.wa.ta) | PL+DIM+AUG |
+| `lex:cliff` | korihsol (ko.rih.sol) | CIT |
+| `lex:cliff` | korihsolni (ko.rih.sol.ni) | PL |
+| `lex:cliff` | korihsolle (ko.rih.sol.le) | DIM |
+| `lex:cliff` | korihsollu (ko.rih.sol.lu) | AUG |
+| `lex:cliff` | korihsolnile (ko.rih.sol.ni.le) | PL+DIM |
+| `lex:cliff` | korihsolnilu (ko.rih.sol.ni.lu) | PL+AUG |
+| `lex:cliff` | korihsollelu (ko.rih.sol.le.lu) | DIM+AUG |
+| `lex:cliff` | korihsolnilelu (ko.rih.sol.ni.le.lu) | PL+DIM+AUG |
+| `lex:cliffside` | setwo (set.wo) | CIT |
+| `lex:cliffside` | setwoni (set.wo.ni) | PL |
+| `lex:cliffside` | setwowa (set.wo.wa) | DIM |
+| `lex:cliffside` | setwota (set.wo.ta) | AUG |
+| `lex:cliffside` | setwoniwa (set.wo.ni.wa) | PL+DIM |
+| `lex:cliffside` | setwonita (set.wo.ni.ta) | PL+AUG |
+| `lex:cliffside` | setwowata (set.wo.wa.ta) | DIM+AUG |
+| `lex:cliffside` | setwoniwata (set.wo.ni.wa.ta) | PL+DIM+AUG |
+| `lex:garden` | morripe (mor.ri.pe) | CIT |
+| `lex:garden` | morripeni (mor.ri.pe.ni) | PL |
+| `lex:garden` | morripele (mor.ri.pe.le) | DIM |
+| `lex:garden` | morripelu (mor.ri.pe.lu) | AUG |
+| `lex:garden` | morripenile (mor.ri.pe.ni.le) | PL+DIM |
+| `lex:garden` | morripenilu (mor.ri.pe.ni.lu) | PL+AUG |
+| `lex:garden` | morripelelu (mor.ri.pe.le.lu) | DIM+AUG |
+| `lex:garden` | morripenilelu (mor.ri.pe.ni.le.lu) | PL+DIM+AUG |
+| `lex:dew` | kam (kam) | CIT |
+| `lex:dew` | kamni (kam.ni) | PL |
+| `lex:dew` | kamwa (kam.wa) | DIM |
+| `lex:dew` | kamta (kam.ta) | AUG |
+| `lex:dew` | kamniwa (kam.ni.wa) | PL+DIM |
+| `lex:dew` | kamnita (kam.ni.ta) | PL+AUG |
+| `lex:dew` | kamwata (kam.wa.ta) | DIM+AUG |
+| `lex:dew` | kamniwata (kam.ni.wa.ta) | PL+DIM+AUG |
+| `lex:sea-pink` | selo (se.lo) | CIT |
+| `lex:sea-pink` | seloni (se.lo.ni) | PL |
+| `lex:sea-pink` | selole (se.lo.le) | DIM |
+| `lex:sea-pink` | selolu (se.lo.lu) | AUG |
+| `lex:sea-pink` | selonile (se.lo.ni.le) | PL+DIM |
+| `lex:sea-pink` | selonilu (se.lo.ni.lu) | PL+AUG |
+| `lex:sea-pink` | selolelu (se.lo.le.lu) | DIM+AUG |
+| `lex:sea-pink` | selonilelu (se.lo.ni.le.lu) | PL+DIM+AUG |
+| `lex:rosemary` | sokas (so.kas) | CIT |
+| `lex:rosemary` | sokasni (so.kas.ni) | PL |
+| `lex:rosemary` | sokaswa (so.kas.wa) | DIM |
+| `lex:rosemary` | sokasta (so.kas.ta) | AUG |
+| `lex:rosemary` | sokasniwa (so.kas.ni.wa) | PL+DIM |
+| `lex:rosemary` | sokasnita (so.kas.ni.ta) | PL+AUG |
+| `lex:rosemary` | sokaswata (so.kas.wa.ta) | DIM+AUG |
+| `lex:rosemary` | sokasniwata (so.kas.ni.wa.ta) | PL+DIM+AUG |
+| `lex:thyme` | kunusma (ku.nus.ma) | CIT |
+| `lex:thyme` | kunusmani (ku.nus.ma.ni) | PL |
+| `lex:thyme` | kunusmale (ku.nus.ma.le) | DIM |
+| `lex:thyme` | kunusmalu (ku.nus.ma.lu) | AUG |
+| `lex:thyme` | kunusmanile (ku.nus.ma.ni.le) | PL+DIM |
+| `lex:thyme` | kunusmanilu (ku.nus.ma.ni.lu) | PL+AUG |
+| `lex:thyme` | kunusmalelu (ku.nus.ma.le.lu) | DIM+AUG |
+| `lex:thyme` | kunusmanilelu (ku.nus.ma.ni.le.lu) | PL+DIM+AUG |
+| `lex:lavender` | map (map) | CIT |
+| `lex:lavender` | mapni (map.ni) | PL |
+| `lex:lavender` | mapwa (map.wa) | DIM |
+| `lex:lavender` | mapta (map.ta) | AUG |
+| `lex:lavender` | mapniwa (map.ni.wa) | PL+DIM |
+| `lex:lavender` | mapnita (map.ni.ta) | PL+AUG |
+| `lex:lavender` | mapwata (map.wa.ta) | DIM+AUG |
+| `lex:lavender` | mapniwata (map.ni.wa.ta) | PL+DIM+AUG |
+| `lex:moss` | sak (sak) | CIT |
+| `lex:moss` | sakni (sak.ni) | PL |
+| `lex:moss` | sakle (sak.le) | DIM |
+| `lex:moss` | saklu (sak.lu) | AUG |
+| `lex:moss` | saknile (sak.ni.le) | PL+DIM |
+| `lex:moss` | saknilu (sak.ni.lu) | PL+AUG |
+| `lex:moss` | saklelu (sak.le.lu) | DIM+AUG |
+| `lex:moss` | saknilelu (sak.ni.le.lu) | PL+DIM+AUG |
+| `lex:oak` | lino (li.no) | CIT |
+| `lex:oak` | linoni (li.no.ni) | PL |
+| `lex:oak` | linowa (li.no.wa) | DIM |
+| `lex:oak` | linota (li.no.ta) | AUG |
+| `lex:oak` | linoniwa (li.no.ni.wa) | PL+DIM |
+| `lex:oak` | linonita (li.no.ni.ta) | PL+AUG |
+| `lex:oak` | linowata (li.no.wa.ta) | DIM+AUG |
+| `lex:oak` | linoniwata (li.no.ni.wa.ta) | PL+DIM+AUG |
+| `lex:cedar` | ruhnu (ruh.nu) | CIT |
+| `lex:cedar` | ruhnuni (ruh.nu.ni) | PL |
+| `lex:cedar` | ruhnule (ruh.nu.le) | DIM |
+| `lex:cedar` | ruhnulu (ruh.nu.lu) | AUG |
+| `lex:cedar` | ruhnunile (ruh.nu.ni.le) | PL+DIM |
+| `lex:cedar` | ruhnunilu (ruh.nu.ni.lu) | PL+AUG |
+| `lex:cedar` | ruhnulelu (ruh.nu.le.lu) | DIM+AUG |
+| `lex:cedar` | ruhnunilelu (ruh.nu.ni.le.lu) | PL+DIM+AUG |
+| `lex:timber` | ropotmi (ro.pot.mi) | CIT |
+| `lex:timber` | ropotmini (ro.pot.mi.ni) | PL |
+| `lex:timber` | ropotmiwa (ro.pot.mi.wa) | DIM |
+| `lex:timber` | ropotmita (ro.pot.mi.ta) | AUG |
+| `lex:timber` | ropotminiwa (ro.pot.mi.ni.wa) | PL+DIM |
+| `lex:timber` | ropotminita (ro.pot.mi.ni.ta) | PL+AUG |
+| `lex:timber` | ropotmiwata (ro.pot.mi.wa.ta) | DIM+AUG |
+| `lex:timber` | ropotminiwata (ro.pot.mi.ni.wa.ta) | PL+DIM+AUG |
+| `lex:plank` | rih (rih) | CIT |
+| `lex:plank` | rihni (rih.ni) | PL |
+| `lex:plank` | rihle (rih.le) | DIM |
+| `lex:plank` | rihlu (rih.lu) | AUG |
+| `lex:plank` | rihnile (rih.ni.le) | PL+DIM |
+| `lex:plank` | rihnilu (rih.ni.lu) | PL+AUG |
+| `lex:plank` | rihlelu (rih.le.lu) | DIM+AUG |
+| `lex:plank` | rihnilelu (rih.ni.le.lu) | PL+DIM+AUG |
+| `lex:gravel` | nunir (nu.nir) | CIT |
+| `lex:gravel` | nunirni (nu.nir.ni) | PL |
+| `lex:gravel` | nunirwa (nu.nir.wa) | DIM |
+| `lex:gravel` | nunirta (nu.nir.ta) | AUG |
+| `lex:gravel` | nunirniwa (nu.nir.ni.wa) | PL+DIM |
+| `lex:gravel` | nunirnita (nu.nir.ni.ta) | PL+AUG |
+| `lex:gravel` | nunirwata (nu.nir.wa.ta) | DIM+AUG |
+| `lex:gravel` | nunirniwata (nu.nir.ni.wa.ta) | PL+DIM+AUG |
+| `lex:granite` | saw (saw) | CIT |
+| `lex:granite` | sawni (saw.ni) | PL |
+| `lex:granite` | sawle (saw.le) | DIM |
+| `lex:granite` | sawlu (saw.lu) | AUG |
+| `lex:granite` | sawnile (saw.ni.le) | PL+DIM |
+| `lex:granite` | sawnilu (saw.ni.lu) | PL+AUG |
+| `lex:granite` | sawlelu (saw.le.lu) | DIM+AUG |
+| `lex:granite` | sawnilelu (saw.ni.le.lu) | PL+DIM+AUG |
+| `lex:shingle` | rehsalip (reh.sa.lip) | CIT |
+| `lex:shingle` | rehsalipni (reh.sa.lip.ni) | PL |
+| `lex:shingle` | rehsalipwa (reh.sa.lip.wa) | DIM |
+| `lex:shingle` | rehsalipta (reh.sa.lip.ta) | AUG |
+| `lex:shingle` | rehsalipniwa (reh.sa.lip.ni.wa) | PL+DIM |
+| `lex:shingle` | rehsalipnita (reh.sa.lip.ni.ta) | PL+AUG |
+| `lex:shingle` | rehsalipwata (reh.sa.lip.wa.ta) | DIM+AUG |
+| `lex:shingle` | rehsalipniwata (reh.sa.lip.ni.wa.ta) | PL+DIM+AUG |
+| `lex:nest` | tunnole (tun.no.le) | CIT |
+| `lex:nest` | tunnoleni (tun.no.le.ni) | PL |
+| `lex:nest` | tunnolele (tun.no.le.le) | DIM |
+| `lex:nest` | tunnolelu (tun.no.le.lu) | AUG |
+| `lex:nest` | tunnolenile (tun.no.le.ni.le) | PL+DIM |
+| `lex:nest` | tunnolenilu (tun.no.le.ni.lu) | PL+AUG |
+| `lex:nest` | tunnolelelu (tun.no.le.le.lu) | DIM+AUG |
+| `lex:nest` | tunnolenilelu (tun.no.le.ni.le.lu) | PL+DIM+AUG |
+| `lex:afternoon` | rispet (ris.pet) | CIT |
+| `lex:afternoon` | rispetni (ris.pet.ni) | PL |
+| `lex:afternoon` | rispetwa (ris.pet.wa) | DIM |
+| `lex:afternoon` | rispetta (ris.pet.ta) | AUG |
+| `lex:afternoon` | rispetniwa (ris.pet.ni.wa) | PL+DIM |
+| `lex:afternoon` | rispetnita (ris.pet.ni.ta) | PL+AUG |
+| `lex:afternoon` | rispetwata (ris.pet.wa.ta) | DIM+AUG |
+| `lex:afternoon` | rispetniwata (ris.pet.ni.wa.ta) | PL+DIM+AUG |
+| `lex:winter` | losal (lo.sal) | CIT |
+| `lex:winter` | losalni (lo.sal.ni) | PL |
+| `lex:winter` | losalle (lo.sal.le) | DIM |
+| `lex:winter` | losallu (lo.sal.lu) | AUG |
+| `lex:winter` | losalnile (lo.sal.ni.le) | PL+DIM |
+| `lex:winter` | losalnilu (lo.sal.ni.lu) | PL+AUG |
+| `lex:winter` | losallelu (lo.sal.le.lu) | DIM+AUG |
+| `lex:winter` | losalnilelu (lo.sal.ni.le.lu) | PL+DIM+AUG |
+| `lex:autumn` | pete (pe.te) | CIT |
+| `lex:autumn` | peteni (pe.te.ni) | PL |
+| `lex:autumn` | petewa (pe.te.wa) | DIM |
+| `lex:autumn` | peteta (pe.te.ta) | AUG |
+| `lex:autumn` | peteniwa (pe.te.ni.wa) | PL+DIM |
+| `lex:autumn` | petenita (pe.te.ni.ta) | PL+AUG |
+| `lex:autumn` | petewata (pe.te.wa.ta) | DIM+AUG |
+| `lex:autumn` | peteniwata (pe.te.ni.wa.ta) | PL+DIM+AUG |
+| `lex:hour` | sila (si.la) | CIT |
+| `lex:hour` | silani (si.la.ni) | PL |
+| `lex:hour` | silale (si.la.le) | DIM |
+| `lex:hour` | silalu (si.la.lu) | AUG |
+| `lex:hour` | silanile (si.la.ni.le) | PL+DIM |
+| `lex:hour` | silanilu (si.la.ni.lu) | PL+AUG |
+| `lex:hour` | silalelu (si.la.le.lu) | DIM+AUG |
+| `lex:hour` | silanilelu (si.la.ni.le.lu) | PL+DIM+AUG |
+| `lex:month` | liwluh (liw.luh) | CIT |
+| `lex:month` | liwluhni (liw.luh.ni) | PL |
+| `lex:month` | liwluhwa (liw.luh.wa) | DIM |
+| `lex:month` | liwluhta (liw.luh.ta) | AUG |
+| `lex:month` | liwluhniwa (liw.luh.ni.wa) | PL+DIM |
+| `lex:month` | liwluhnita (liw.luh.ni.ta) | PL+AUG |
+| `lex:month` | liwluhwata (liw.luh.wa.ta) | DIM+AUG |
+| `lex:month` | liwluhniwata (liw.luh.ni.wa.ta) | PL+DIM+AUG |
+| `lex:cheek` | miswet (mis.wet) | CIT |
+| `lex:cheek` | miswetni (mis.wet.ni) | PL |
+| `lex:cheek` | miswetle (mis.wet.le) | DIM |
+| `lex:cheek` | miswetlu (mis.wet.lu) | AUG |
+| `lex:cheek` | miswetnile (mis.wet.ni.le) | PL+DIM |
+| `lex:cheek` | miswetnilu (mis.wet.ni.lu) | PL+AUG |
+| `lex:cheek` | miswetlelu (mis.wet.le.lu) | DIM+AUG |
+| `lex:cheek` | miswetnilelu (mis.wet.ni.le.lu) | PL+DIM+AUG |
+| `lex:chest` | hitan (hi.tan) | CIT |
+| `lex:chest` | hitanni (hi.tan.ni) | PL |
+| `lex:chest` | hitanwa (hi.tan.wa) | DIM |
+| `lex:chest` | hitanta (hi.tan.ta) | AUG |
+| `lex:chest` | hitanniwa (hi.tan.ni.wa) | PL+DIM |
+| `lex:chest` | hitannita (hi.tan.ni.ta) | PL+AUG |
+| `lex:chest` | hitanwata (hi.tan.wa.ta) | DIM+AUG |
+| `lex:chest` | hitanniwata (hi.tan.ni.wa.ta) | PL+DIM+AUG |
+| `lex:palm` | nok (nok) | CIT |
+| `lex:palm` | nokni (nok.ni) | PL |
+| `lex:palm` | nokle (nok.le) | DIM |
+| `lex:palm` | noklu (nok.lu) | AUG |
+| `lex:palm` | noknile (nok.ni.le) | PL+DIM |
+| `lex:palm` | noknilu (nok.ni.lu) | PL+AUG |
+| `lex:palm` | noklelu (nok.le.lu) | DIM+AUG |
+| `lex:palm` | noknilelu (nok.ni.le.lu) | PL+DIM+AUG |
+| `lex:finger` | lono (lo.no) | CIT |
+| `lex:finger` | lononi (lo.no.ni) | PL |
+| `lex:finger` | lonowa (lo.no.wa) | DIM |
+| `lex:finger` | lonota (lo.no.ta) | AUG |
+| `lex:finger` | lononiwa (lo.no.ni.wa) | PL+DIM |
+| `lex:finger` | lononita (lo.no.ni.ta) | PL+AUG |
+| `lex:finger` | lonowata (lo.no.wa.ta) | DIM+AUG |
+| `lex:finger` | lononiwata (lo.no.ni.wa.ta) | PL+DIM+AUG |
+| `lex:lip` | sunul (su.nul) | CIT |
+| `lex:lip` | sunulni (su.nul.ni) | PL |
+| `lex:lip` | sunulle (su.nul.le) | DIM |
+| `lex:lip` | sunullu (su.nul.lu) | AUG |
+| `lex:lip` | sunulnile (su.nul.ni.le) | PL+DIM |
+| `lex:lip` | sunulnilu (su.nul.ni.lu) | PL+AUG |
+| `lex:lip` | sunullelu (su.nul.le.lu) | DIM+AUG |
+| `lex:lip` | sunulnilelu (su.nul.ni.le.lu) | PL+DIM+AUG |
+| `lex:breath` | wulon (wu.lon) | CIT |
+| `lex:breath` | wulonni (wu.lon.ni) | PL |
+| `lex:breath` | wulonwa (wu.lon.wa) | DIM |
+| `lex:breath` | wulonta (wu.lon.ta) | AUG |
+| `lex:breath` | wulonniwa (wu.lon.ni.wa) | PL+DIM |
+| `lex:breath` | wulonnita (wu.lon.ni.ta) | PL+AUG |
+| `lex:breath` | wulonwata (wu.lon.wa.ta) | DIM+AUG |
+| `lex:breath` | wulonniwata (wu.lon.ni.wa.ta) | PL+DIM+AUG |
+| `lex:voice` | lokopa (lo.ko.pa) | CIT |
+| `lex:voice` | lokopani (lo.ko.pa.ni) | PL |
+| `lex:voice` | lokopale (lo.ko.pa.le) | DIM |
+| `lex:voice` | lokopalu (lo.ko.pa.lu) | AUG |
+| `lex:voice` | lokopanile (lo.ko.pa.ni.le) | PL+DIM |
+| `lex:voice` | lokopanilu (lo.ko.pa.ni.lu) | PL+AUG |
+| `lex:voice` | lokopalelu (lo.ko.pa.le.lu) | DIM+AUG |
+| `lex:voice` | lokopanilelu (lo.ko.pa.ni.le.lu) | PL+DIM+AUG |
+| `lex:back` | summa (sum.ma) | CIT |
+| `lex:back` | summani (sum.ma.ni) | PL |
+| `lex:back` | summawa (sum.ma.wa) | DIM |
+| `lex:back` | summata (sum.ma.ta) | AUG |
+| `lex:back` | summaniwa (sum.ma.ni.wa) | PL+DIM |
+| `lex:back` | summanita (sum.ma.ni.ta) | PL+AUG |
+| `lex:back` | summawata (sum.ma.wa.ta) | DIM+AUG |
+| `lex:back` | summaniwata (sum.ma.ni.wa.ta) | PL+DIM+AUG |
+| `lex:sleeve` | tewmepe (tew.me.pe) | CIT |
+| `lex:sleeve` | tewmepeni (tew.me.pe.ni) | PL |
+| `lex:sleeve` | tewmepele (tew.me.pe.le) | DIM |
+| `lex:sleeve` | tewmepelu (tew.me.pe.lu) | AUG |
+| `lex:sleeve` | tewmepenile (tew.me.pe.ni.le) | PL+DIM |
+| `lex:sleeve` | tewmepenilu (tew.me.pe.ni.lu) | PL+AUG |
+| `lex:sleeve` | tewmepelelu (tew.me.pe.le.lu) | DIM+AUG |
+| `lex:sleeve` | tewmepenilelu (tew.me.pe.ni.le.lu) | PL+DIM+AUG |
+| `lex:pull` | kurero (ku.re.ro) | CIT |
+| `lex:pull` | kureromi (ku.re.ro.mi) | PST |
+| `lex:pull` | wuhkurero (wuh.ku.re.ro) | FUT |
+| `lex:pull` | kurerolop (ku.re.ro.lop) | PROG |
+| `lex:pull` | kurerokoh (ku.re.ro.koh) | PERF |
+| `lex:pull` | wuhkureromi (wuh.ku.re.ro.mi) | PST+FUT |
+| `lex:pull` | kureromilop (ku.re.ro.mi.lop) | PST+PROG |
+| `lex:pull` | kureromikoh (ku.re.ro.mi.koh) | PST+PERF |
+| `lex:pull` | wuhkurerolop (wuh.ku.re.ro.lop) | FUT+PROG |
+| `lex:pull` | wuhkurerokoh (wuh.ku.re.ro.koh) | FUT+PERF |
+| `lex:pull` | kurerolopkoh (ku.re.ro.lop.koh) | PROG+PERF |
+| `lex:pull` | wuhkureromilop (wuh.ku.re.ro.mi.lop) | PST+FUT+PROG |
+| `lex:pull` | wuhkureromikoh (wuh.ku.re.ro.mi.koh) | PST+FUT+PERF |
+| `lex:pull` | kureromilopkoh (ku.re.ro.mi.lop.koh) | PST+PROG+PERF |
+| `lex:pull` | wuhkurerolopkoh (wuh.ku.re.ro.lop.koh) | FUT+PROG+PERF |
+| `lex:pull` | wuhkureromilopkoh (wuh.ku.re.ro.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:push` | mahi (ma.hi) | CIT |
+| `lex:push` | mahirut (ma.hi.rut) | PST |
+| `lex:push` | hamahi (ha.ma.hi) | FUT |
+| `lex:push` | mahilop (ma.hi.lop) | PROG |
+| `lex:push` | mahimu (ma.hi.mu) | PERF |
+| `lex:push` | hamahirut (ha.ma.hi.rut) | PST+FUT |
+| `lex:push` | mahirutlop (ma.hi.rut.lop) | PST+PROG |
+| `lex:push` | mahirutmu (ma.hi.rut.mu) | PST+PERF |
+| `lex:push` | hamahilop (ha.ma.hi.lop) | FUT+PROG |
+| `lex:push` | hamahimu (ha.ma.hi.mu) | FUT+PERF |
+| `lex:push` | mahilopmu (ma.hi.lop.mu) | PROG+PERF |
+| `lex:push` | hamahirutlop (ha.ma.hi.rut.lop) | PST+FUT+PROG |
+| `lex:push` | hamahirutmu (ha.ma.hi.rut.mu) | PST+FUT+PERF |
+| `lex:push` | mahirutlopmu (ma.hi.rut.lop.mu) | PST+PROG+PERF |
+| `lex:push` | hamahilopmu (ha.ma.hi.lop.mu) | FUT+PROG+PERF |
+| `lex:push` | hamahirutlopmu (ha.ma.hi.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:row` | wenur (we.nur) | CIT |
+| `lex:row` | wenurmi (we.nur.mi) | PST |
+| `lex:row` | wuhwenur (wuh.we.nur) | FUT |
+| `lex:row` | wenurlop (we.nur.lop) | PROG |
+| `lex:row` | wenurkoh (we.nur.koh) | PERF |
+| `lex:row` | wuhwenurmi (wuh.we.nur.mi) | PST+FUT |
+| `lex:row` | wenurmilop (we.nur.mi.lop) | PST+PROG |
+| `lex:row` | wenurmikoh (we.nur.mi.koh) | PST+PERF |
+| `lex:row` | wuhwenurlop (wuh.we.nur.lop) | FUT+PROG |
+| `lex:row` | wuhwenurkoh (wuh.we.nur.koh) | FUT+PERF |
+| `lex:row` | wenurlopkoh (we.nur.lop.koh) | PROG+PERF |
+| `lex:row` | wuhwenurmilop (wuh.we.nur.mi.lop) | PST+FUT+PROG |
+| `lex:row` | wuhwenurmikoh (wuh.we.nur.mi.koh) | PST+FUT+PERF |
+| `lex:row` | wenurmilopkoh (we.nur.mi.lop.koh) | PST+PROG+PERF |
+| `lex:row` | wuhwenurlopkoh (wuh.we.nur.lop.koh) | FUT+PROG+PERF |
+| `lex:row` | wuhwenurmilopkoh (wuh.we.nur.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:climb` | nase (na.se) | CIT |
+| `lex:climb` | naserut (na.se.rut) | PST |
+| `lex:climb` | hanase (ha.na.se) | FUT |
+| `lex:climb` | naselop (na.se.lop) | PROG |
+| `lex:climb` | nasemu (na.se.mu) | PERF |
+| `lex:climb` | hanaserut (ha.na.se.rut) | PST+FUT |
+| `lex:climb` | naserutlop (na.se.rut.lop) | PST+PROG |
+| `lex:climb` | naserutmu (na.se.rut.mu) | PST+PERF |
+| `lex:climb` | hanaselop (ha.na.se.lop) | FUT+PROG |
+| `lex:climb` | hanasemu (ha.na.se.mu) | FUT+PERF |
+| `lex:climb` | naselopmu (na.se.lop.mu) | PROG+PERF |
+| `lex:climb` | hanaserutlop (ha.na.se.rut.lop) | PST+FUT+PROG |
+| `lex:climb` | hanaserutmu (ha.na.se.rut.mu) | PST+FUT+PERF |
+| `lex:climb` | naserutlopmu (na.se.rut.lop.mu) | PST+PROG+PERF |
+| `lex:climb` | hanaselopmu (ha.na.se.lop.mu) | FUT+PROG+PERF |
+| `lex:climb` | hanaserutlopmu (ha.na.se.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:kneel` | pak (pak) | CIT |
+| `lex:kneel` | pakmi (pak.mi) | PST |
+| `lex:kneel` | wuhpak (wuh.pak) | FUT |
+| `lex:kneel` | paklop (pak.lop) | PROG |
+| `lex:kneel` | pakkoh (pak.koh) | PERF |
+| `lex:kneel` | wuhpakmi (wuh.pak.mi) | PST+FUT |
+| `lex:kneel` | pakmilop (pak.mi.lop) | PST+PROG |
+| `lex:kneel` | pakmikoh (pak.mi.koh) | PST+PERF |
+| `lex:kneel` | wuhpaklop (wuh.pak.lop) | FUT+PROG |
+| `lex:kneel` | wuhpakkoh (wuh.pak.koh) | FUT+PERF |
+| `lex:kneel` | paklopkoh (pak.lop.koh) | PROG+PERF |
+| `lex:kneel` | wuhpakmilop (wuh.pak.mi.lop) | PST+FUT+PROG |
+| `lex:kneel` | wuhpakmikoh (wuh.pak.mi.koh) | PST+FUT+PERF |
+| `lex:kneel` | pakmilopkoh (pak.mi.lop.koh) | PST+PROG+PERF |
+| `lex:kneel` | wuhpaklopkoh (wuh.pak.lop.koh) | FUT+PROG+PERF |
+| `lex:kneel` | wuhpakmilopkoh (wuh.pak.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:step` | wurnop (wur.nop) | CIT |
+| `lex:step` | wurnopni (wur.nop.ni) | PL |
+| `lex:step` | wurnopwa (wur.nop.wa) | DIM |
+| `lex:step` | wurnopta (wur.nop.ta) | AUG |
+| `lex:step` | wurnopniwa (wur.nop.ni.wa) | PL+DIM |
+| `lex:step` | wurnopnita (wur.nop.ni.ta) | PL+AUG |
+| `lex:step` | wurnopwata (wur.nop.wa.ta) | DIM+AUG |
+| `lex:step` | wurnopniwata (wur.nop.ni.wa.ta) | PL+DIM+AUG |
+| `lex:pause` | hi (hi) | CIT |
+| `lex:pause` | hirut (hi.rut) | PST |
+| `lex:pause` | hahi (ha.hi) | FUT |
+| `lex:pause` | hilop (hi.lop) | PROG |
+| `lex:pause` | himu (hi.mu) | PERF |
+| `lex:pause` | hahirut (ha.hi.rut) | PST+FUT |
+| `lex:pause` | hirutlop (hi.rut.lop) | PST+PROG |
+| `lex:pause` | hirutmu (hi.rut.mu) | PST+PERF |
+| `lex:pause` | hahilop (ha.hi.lop) | FUT+PROG |
+| `lex:pause` | hahimu (ha.hi.mu) | FUT+PERF |
+| `lex:pause` | hilopmu (hi.lop.mu) | PROG+PERF |
+| `lex:pause` | hahirutlop (ha.hi.rut.lop) | PST+FUT+PROG |
+| `lex:pause` | hahirutmu (ha.hi.rut.mu) | PST+FUT+PERF |
+| `lex:pause` | hirutlopmu (hi.rut.lop.mu) | PST+PROG+PERF |
+| `lex:pause` | hahilopmu (ha.hi.lop.mu) | FUT+PROG+PERF |
+| `lex:pause` | hahirutlopmu (ha.hi.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:turn` | ninta (nin.ta) | CIT |
+| `lex:turn` | nintami (nin.ta.mi) | PST |
+| `lex:turn` | wuhninta (wuh.nin.ta) | FUT |
+| `lex:turn` | nintalop (nin.ta.lop) | PROG |
+| `lex:turn` | nintakoh (nin.ta.koh) | PERF |
+| `lex:turn` | wuhnintami (wuh.nin.ta.mi) | PST+FUT |
+| `lex:turn` | nintamilop (nin.ta.mi.lop) | PST+PROG |
+| `lex:turn` | nintamikoh (nin.ta.mi.koh) | PST+PERF |
+| `lex:turn` | wuhnintalop (wuh.nin.ta.lop) | FUT+PROG |
+| `lex:turn` | wuhnintakoh (wuh.nin.ta.koh) | FUT+PERF |
+| `lex:turn` | nintalopkoh (nin.ta.lop.koh) | PROG+PERF |
+| `lex:turn` | wuhnintamilop (wuh.nin.ta.mi.lop) | PST+FUT+PROG |
+| `lex:turn` | wuhnintamikoh (wuh.nin.ta.mi.koh) | PST+FUT+PERF |
+| `lex:turn` | nintamilopkoh (nin.ta.mi.lop.koh) | PST+PROG+PERF |
+| `lex:turn` | wuhnintalopkoh (wuh.nin.ta.lop.koh) | FUT+PROG+PERF |
+| `lex:turn` | wuhnintamilopkoh (wuh.nin.ta.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:look` | sanim (sa.nim) | CIT |
+| `lex:look` | sanimrut (sa.nim.rut) | PST |
+| `lex:look` | hasanim (ha.sa.nim) | FUT |
+| `lex:look` | sanimlop (sa.nim.lop) | PROG |
+| `lex:look` | sanimmu (sa.nim.mu) | PERF |
+| `lex:look` | hasanimrut (ha.sa.nim.rut) | PST+FUT |
+| `lex:look` | sanimrutlop (sa.nim.rut.lop) | PST+PROG |
+| `lex:look` | sanimrutmu (sa.nim.rut.mu) | PST+PERF |
+| `lex:look` | hasanimlop (ha.sa.nim.lop) | FUT+PROG |
+| `lex:look` | hasanimmu (ha.sa.nim.mu) | FUT+PERF |
+| `lex:look` | sanimlopmu (sa.nim.lop.mu) | PROG+PERF |
+| `lex:look` | hasanimrutlop (ha.sa.nim.rut.lop) | PST+FUT+PROG |
+| `lex:look` | hasanimrutmu (ha.sa.nim.rut.mu) | PST+FUT+PERF |
+| `lex:look` | sanimrutlopmu (sa.nim.rut.lop.mu) | PST+PROG+PERF |
+| `lex:look` | hasanimlopmu (ha.sa.nim.lop.mu) | FUT+PROG+PERF |
+| `lex:look` | hasanimrutlopmu (ha.sa.nim.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:watch` | pipi (pi.pi) | CIT |
+| `lex:watch` | pipimi (pi.pi.mi) | PST |
+| `lex:watch` | wuhpipi (wuh.pi.pi) | FUT |
+| `lex:watch` | pipilop (pi.pi.lop) | PROG |
+| `lex:watch` | pipikoh (pi.pi.koh) | PERF |
+| `lex:watch` | wuhpipimi (wuh.pi.pi.mi) | PST+FUT |
+| `lex:watch` | pipimilop (pi.pi.mi.lop) | PST+PROG |
+| `lex:watch` | pipimikoh (pi.pi.mi.koh) | PST+PERF |
+| `lex:watch` | wuhpipilop (wuh.pi.pi.lop) | FUT+PROG |
+| `lex:watch` | wuhpipikoh (wuh.pi.pi.koh) | FUT+PERF |
+| `lex:watch` | pipilopkoh (pi.pi.lop.koh) | PROG+PERF |
+| `lex:watch` | wuhpipimilop (wuh.pi.pi.mi.lop) | PST+FUT+PROG |
+| `lex:watch` | wuhpipimikoh (wuh.pi.pi.mi.koh) | PST+FUT+PERF |
+| `lex:watch` | pipimilopkoh (pi.pi.mi.lop.koh) | PST+PROG+PERF |
+| `lex:watch` | wuhpipilopkoh (wuh.pi.pi.lop.koh) | FUT+PROG+PERF |
+| `lex:watch` | wuhpipimilopkoh (wuh.pi.pi.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:smile` | samaru (sa.ma.ru) | CIT |
+| `lex:smile` | samarurut (sa.ma.ru.rut) | PST |
+| `lex:smile` | hasamaru (ha.sa.ma.ru) | FUT |
+| `lex:smile` | samarulop (sa.ma.ru.lop) | PROG |
+| `lex:smile` | samarumu (sa.ma.ru.mu) | PERF |
+| `lex:smile` | hasamarurut (ha.sa.ma.ru.rut) | PST+FUT |
+| `lex:smile` | samarurutlop (sa.ma.ru.rut.lop) | PST+PROG |
+| `lex:smile` | samarurutmu (sa.ma.ru.rut.mu) | PST+PERF |
+| `lex:smile` | hasamarulop (ha.sa.ma.ru.lop) | FUT+PROG |
+| `lex:smile` | hasamarumu (ha.sa.ma.ru.mu) | FUT+PERF |
+| `lex:smile` | samarulopmu (sa.ma.ru.lop.mu) | PROG+PERF |
+| `lex:smile` | hasamarurutlop (ha.sa.ma.ru.rut.lop) | PST+FUT+PROG |
+| `lex:smile` | hasamarurutmu (ha.sa.ma.ru.rut.mu) | PST+FUT+PERF |
+| `lex:smile` | samarurutlopmu (sa.ma.ru.rut.lop.mu) | PST+PROG+PERF |
+| `lex:smile` | hasamarulopmu (ha.sa.ma.ru.lop.mu) | FUT+PROG+PERF |
+| `lex:smile` | hasamarurutlopmu (ha.sa.ma.ru.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:nod` | wum (wum) | CIT |
+| `lex:nod` | wummi (wum.mi) | PST |
+| `lex:nod` | wuhwum (wuh.wum) | FUT |
+| `lex:nod` | wumlop (wum.lop) | PROG |
+| `lex:nod` | wumkoh (wum.koh) | PERF |
+| `lex:nod` | wuhwummi (wuh.wum.mi) | PST+FUT |
+| `lex:nod` | wummilop (wum.mi.lop) | PST+PROG |
+| `lex:nod` | wummikoh (wum.mi.koh) | PST+PERF |
+| `lex:nod` | wuhwumlop (wuh.wum.lop) | FUT+PROG |
+| `lex:nod` | wuhwumkoh (wuh.wum.koh) | FUT+PERF |
+| `lex:nod` | wumlopkoh (wum.lop.koh) | PROG+PERF |
+| `lex:nod` | wuhwummilop (wuh.wum.mi.lop) | PST+FUT+PROG |
+| `lex:nod` | wuhwummikoh (wuh.wum.mi.koh) | PST+FUT+PERF |
+| `lex:nod` | wummilopkoh (wum.mi.lop.koh) | PST+PROG+PERF |
+| `lex:nod` | wuhwumlopkoh (wuh.wum.lop.koh) | FUT+PROG+PERF |
+| `lex:nod` | wuhwummilopkoh (wuh.wum.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:reach` | runam (ru.nam) | CIT |
+| `lex:reach` | runamrut (ru.nam.rut) | PST |
+| `lex:reach` | harunam (ha.ru.nam) | FUT |
+| `lex:reach` | runamlop (ru.nam.lop) | PROG |
+| `lex:reach` | runammu (ru.nam.mu) | PERF |
+| `lex:reach` | harunamrut (ha.ru.nam.rut) | PST+FUT |
+| `lex:reach` | runamrutlop (ru.nam.rut.lop) | PST+PROG |
+| `lex:reach` | runamrutmu (ru.nam.rut.mu) | PST+PERF |
+| `lex:reach` | harunamlop (ha.ru.nam.lop) | FUT+PROG |
+| `lex:reach` | harunammu (ha.ru.nam.mu) | FUT+PERF |
+| `lex:reach` | runamlopmu (ru.nam.lop.mu) | PROG+PERF |
+| `lex:reach` | harunamrutlop (ha.ru.nam.rut.lop) | PST+FUT+PROG |
+| `lex:reach` | harunamrutmu (ha.ru.nam.rut.mu) | PST+FUT+PERF |
+| `lex:reach` | runamrutlopmu (ru.nam.rut.lop.mu) | PST+PROG+PERF |
+| `lex:reach` | harunamlopmu (ha.ru.nam.lop.mu) | FUT+PROG+PERF |
+| `lex:reach` | harunamrutlopmu (ha.ru.nam.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:continue` | mitunnu (mi.tun.nu) | CIT |
+| `lex:continue` | mitunnumi (mi.tun.nu.mi) | PST |
+| `lex:continue` | wuhmitunnu (wuh.mi.tun.nu) | FUT |
+| `lex:continue` | mitunnulop (mi.tun.nu.lop) | PROG |
+| `lex:continue` | mitunnukoh (mi.tun.nu.koh) | PERF |
+| `lex:continue` | wuhmitunnumi (wuh.mi.tun.nu.mi) | PST+FUT |
+| `lex:continue` | mitunnumilop (mi.tun.nu.mi.lop) | PST+PROG |
+| `lex:continue` | mitunnumikoh (mi.tun.nu.mi.koh) | PST+PERF |
+| `lex:continue` | wuhmitunnulop (wuh.mi.tun.nu.lop) | FUT+PROG |
+| `lex:continue` | wuhmitunnukoh (wuh.mi.tun.nu.koh) | FUT+PERF |
+| `lex:continue` | mitunnulopkoh (mi.tun.nu.lop.koh) | PROG+PERF |
+| `lex:continue` | wuhmitunnumilop (wuh.mi.tun.nu.mi.lop) | PST+FUT+PROG |
+| `lex:continue` | wuhmitunnumikoh (wuh.mi.tun.nu.mi.koh) | PST+FUT+PERF |
+| `lex:continue` | mitunnumilopkoh (mi.tun.nu.mi.lop.koh) | PST+PROG+PERF |
+| `lex:continue` | wuhmitunnulopkoh (wuh.mi.tun.nu.lop.koh) | FUT+PROG+PERF |
+| `lex:continue` | wuhmitunnumilopkoh (wuh.mi.tun.nu.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:slide` | lisom (li.som) | CIT |
+| `lex:slide` | lisomrut (li.som.rut) | PST |
+| `lex:slide` | halisom (ha.li.som) | FUT |
+| `lex:slide` | lisomlop (li.som.lop) | PROG |
+| `lex:slide` | lisommu (li.som.mu) | PERF |
+| `lex:slide` | halisomrut (ha.li.som.rut) | PST+FUT |
+| `lex:slide` | lisomrutlop (li.som.rut.lop) | PST+PROG |
+| `lex:slide` | lisomrutmu (li.som.rut.mu) | PST+PERF |
+| `lex:slide` | halisomlop (ha.li.som.lop) | FUT+PROG |
+| `lex:slide` | halisommu (ha.li.som.mu) | FUT+PERF |
+| `lex:slide` | lisomlopmu (li.som.lop.mu) | PROG+PERF |
+| `lex:slide` | halisomrutlop (ha.li.som.rut.lop) | PST+FUT+PROG |
+| `lex:slide` | halisomrutmu (ha.li.som.rut.mu) | PST+FUT+PERF |
+| `lex:slide` | lisomrutlopmu (li.som.rut.lop.mu) | PST+PROG+PERF |
+| `lex:slide` | halisomlopmu (ha.li.som.lop.mu) | FUT+PROG+PERF |
+| `lex:slide` | halisomrutlopmu (ha.li.som.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:dart` | rorope (ro.ro.pe) | CIT |
+| `lex:dart` | roropemi (ro.ro.pe.mi) | PST |
+| `lex:dart` | wuhrorope (wuh.ro.ro.pe) | FUT |
+| `lex:dart` | roropelop (ro.ro.pe.lop) | PROG |
+| `lex:dart` | roropekoh (ro.ro.pe.koh) | PERF |
+| `lex:dart` | wuhroropemi (wuh.ro.ro.pe.mi) | PST+FUT |
+| `lex:dart` | roropemilop (ro.ro.pe.mi.lop) | PST+PROG |
+| `lex:dart` | roropemikoh (ro.ro.pe.mi.koh) | PST+PERF |
+| `lex:dart` | wuhroropelop (wuh.ro.ro.pe.lop) | FUT+PROG |
+| `lex:dart` | wuhroropekoh (wuh.ro.ro.pe.koh) | FUT+PERF |
+| `lex:dart` | roropelopkoh (ro.ro.pe.lop.koh) | PROG+PERF |
+| `lex:dart` | wuhroropemilop (wuh.ro.ro.pe.mi.lop) | PST+FUT+PROG |
+| `lex:dart` | wuhroropemikoh (wuh.ro.ro.pe.mi.koh) | PST+FUT+PERF |
+| `lex:dart` | roropemilopkoh (ro.ro.pe.mi.lop.koh) | PST+PROG+PERF |
+| `lex:dart` | wuhroropelopkoh (wuh.ro.ro.pe.lop.koh) | FUT+PROG+PERF |
+| `lex:dart` | wuhroropemilopkoh (wuh.ro.ro.pe.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:brush` | ranle (ran.le) | CIT |
+| `lex:brush` | ranlerut (ran.le.rut) | PST |
+| `lex:brush` | haranle (ha.ran.le) | FUT |
+| `lex:brush` | ranlelop (ran.le.lop) | PROG |
+| `lex:brush` | ranlemu (ran.le.mu) | PERF |
+| `lex:brush` | haranlerut (ha.ran.le.rut) | PST+FUT |
+| `lex:brush` | ranlerutlop (ran.le.rut.lop) | PST+PROG |
+| `lex:brush` | ranlerutmu (ran.le.rut.mu) | PST+PERF |
+| `lex:brush` | haranlelop (ha.ran.le.lop) | FUT+PROG |
+| `lex:brush` | haranlemu (ha.ran.le.mu) | FUT+PERF |
+| `lex:brush` | ranlelopmu (ran.le.lop.mu) | PROG+PERF |
+| `lex:brush` | haranlerutlop (ha.ran.le.rut.lop) | PST+FUT+PROG |
+| `lex:brush` | haranlerutmu (ha.ran.le.rut.mu) | PST+FUT+PERF |
+| `lex:brush` | ranlerutlopmu (ran.le.rut.lop.mu) | PST+PROG+PERF |
+| `lex:brush` | haranlelopmu (ha.ran.le.lop.mu) | FUT+PROG+PERF |
+| `lex:brush` | haranlerutlopmu (ha.ran.le.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:sweep` | ranithuh (ra.nit.huh) | CIT |
+| `lex:sweep` | ranithuhmi (ra.nit.huh.mi) | PST |
+| `lex:sweep` | wuhranithuh (wuh.ra.nit.huh) | FUT |
+| `lex:sweep` | ranithuhlop (ra.nit.huh.lop) | PROG |
+| `lex:sweep` | ranithuhkoh (ra.nit.huh.koh) | PERF |
+| `lex:sweep` | wuhranithuhmi (wuh.ra.nit.huh.mi) | PST+FUT |
+| `lex:sweep` | ranithuhmilop (ra.nit.huh.mi.lop) | PST+PROG |
+| `lex:sweep` | ranithuhmikoh (ra.nit.huh.mi.koh) | PST+PERF |
+| `lex:sweep` | wuhranithuhlop (wuh.ra.nit.huh.lop) | FUT+PROG |
+| `lex:sweep` | wuhranithuhkoh (wuh.ra.nit.huh.koh) | FUT+PERF |
+| `lex:sweep` | ranithuhlopkoh (ra.nit.huh.lop.koh) | PROG+PERF |
+| `lex:sweep` | wuhranithuhmilop (wuh.ra.nit.huh.mi.lop) | PST+FUT+PROG |
+| `lex:sweep` | wuhranithuhmikoh (wuh.ra.nit.huh.mi.koh) | PST+FUT+PERF |
+| `lex:sweep` | ranithuhmilopkoh (ra.nit.huh.mi.lop.koh) | PST+PROG+PERF |
+| `lex:sweep` | wuhranithuhlopkoh (wuh.ra.nit.huh.lop.koh) | FUT+PROG+PERF |
+| `lex:sweep` | wuhranithuhmilopkoh (wuh.ra.nit.huh.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:shift` | merlarur (mer.la.rur) | CIT |
+| `lex:shift` | merlarurrut (mer.la.rur.rut) | PST |
+| `lex:shift` | hamerlarur (ha.mer.la.rur) | FUT |
+| `lex:shift` | merlarurlop (mer.la.rur.lop) | PROG |
+| `lex:shift` | merlarurmu (mer.la.rur.mu) | PERF |
+| `lex:shift` | hamerlarurrut (ha.mer.la.rur.rut) | PST+FUT |
+| `lex:shift` | merlarurrutlop (mer.la.rur.rut.lop) | PST+PROG |
+| `lex:shift` | merlarurrutmu (mer.la.rur.rut.mu) | PST+PERF |
+| `lex:shift` | hamerlarurlop (ha.mer.la.rur.lop) | FUT+PROG |
+| `lex:shift` | hamerlarurmu (ha.mer.la.rur.mu) | FUT+PERF |
+| `lex:shift` | merlarurlopmu (mer.la.rur.lop.mu) | PROG+PERF |
+| `lex:shift` | hamerlarurrutlop (ha.mer.la.rur.rut.lop) | PST+FUT+PROG |
+| `lex:shift` | hamerlarurrutmu (ha.mer.la.rur.rut.mu) | PST+FUT+PERF |
+| `lex:shift` | merlarurrutlopmu (mer.la.rur.rut.lop.mu) | PST+PROG+PERF |
+| `lex:shift` | hamerlarurlopmu (ha.mer.la.rur.lop.mu) | FUT+PROG+PERF |
+| `lex:shift` | hamerlarurrutlopmu (ha.mer.la.rur.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:bend` | wise (wi.se) | CIT |
+| `lex:bend` | wisemi (wi.se.mi) | PST |
+| `lex:bend` | wuhwise (wuh.wi.se) | FUT |
+| `lex:bend` | wiselop (wi.se.lop) | PROG |
+| `lex:bend` | wisekoh (wi.se.koh) | PERF |
+| `lex:bend` | wuhwisemi (wuh.wi.se.mi) | PST+FUT |
+| `lex:bend` | wisemilop (wi.se.mi.lop) | PST+PROG |
+| `lex:bend` | wisemikoh (wi.se.mi.koh) | PST+PERF |
+| `lex:bend` | wuhwiselop (wuh.wi.se.lop) | FUT+PROG |
+| `lex:bend` | wuhwisekoh (wuh.wi.se.koh) | FUT+PERF |
+| `lex:bend` | wiselopkoh (wi.se.lop.koh) | PROG+PERF |
+| `lex:bend` | wuhwisemilop (wuh.wi.se.mi.lop) | PST+FUT+PROG |
+| `lex:bend` | wuhwisemikoh (wuh.wi.se.mi.koh) | PST+FUT+PERF |
+| `lex:bend` | wisemilopkoh (wi.se.mi.lop.koh) | PST+PROG+PERF |
+| `lex:bend` | wuhwiselopkoh (wuh.wi.se.lop.koh) | FUT+PROG+PERF |
+| `lex:bend` | wuhwisemilopkoh (wuh.wi.se.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:hold` | leksu (lek.su) | CIT |
+| `lex:hold` | leksurut (lek.su.rut) | PST |
+| `lex:hold` | haleksu (ha.lek.su) | FUT |
+| `lex:hold` | leksulop (lek.su.lop) | PROG |
+| `lex:hold` | leksumu (lek.su.mu) | PERF |
+| `lex:hold` | haleksurut (ha.lek.su.rut) | PST+FUT |
+| `lex:hold` | leksurutlop (lek.su.rut.lop) | PST+PROG |
+| `lex:hold` | leksurutmu (lek.su.rut.mu) | PST+PERF |
+| `lex:hold` | haleksulop (ha.lek.su.lop) | FUT+PROG |
+| `lex:hold` | haleksumu (ha.lek.su.mu) | FUT+PERF |
+| `lex:hold` | leksulopmu (lek.su.lop.mu) | PROG+PERF |
+| `lex:hold` | haleksurutlop (ha.lek.su.rut.lop) | PST+FUT+PROG |
+| `lex:hold` | haleksurutmu (ha.lek.su.rut.mu) | PST+FUT+PERF |
+| `lex:hold` | leksurutlopmu (lek.su.rut.lop.mu) | PST+PROG+PERF |
+| `lex:hold` | haleksulopmu (ha.lek.su.lop.mu) | FUT+PROG+PERF |
+| `lex:hold` | haleksurutlopmu (ha.lek.su.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:wait` | wuti (wu.ti) | CIT |
+| `lex:wait` | wutimi (wu.ti.mi) | PST |
+| `lex:wait` | wuhwuti (wuh.wu.ti) | FUT |
+| `lex:wait` | wutilop (wu.ti.lop) | PROG |
+| `lex:wait` | wutikoh (wu.ti.koh) | PERF |
+| `lex:wait` | wuhwutimi (wuh.wu.ti.mi) | PST+FUT |
+| `lex:wait` | wutimilop (wu.ti.mi.lop) | PST+PROG |
+| `lex:wait` | wutimikoh (wu.ti.mi.koh) | PST+PERF |
+| `lex:wait` | wuhwutilop (wuh.wu.ti.lop) | FUT+PROG |
+| `lex:wait` | wuhwutikoh (wuh.wu.ti.koh) | FUT+PERF |
+| `lex:wait` | wutilopkoh (wu.ti.lop.koh) | PROG+PERF |
+| `lex:wait` | wuhwutimilop (wuh.wu.ti.mi.lop) | PST+FUT+PROG |
+| `lex:wait` | wuhwutimikoh (wuh.wu.ti.mi.koh) | PST+FUT+PERF |
+| `lex:wait` | wutimilopkoh (wu.ti.mi.lop.koh) | PST+PROG+PERF |
+| `lex:wait` | wuhwutilopkoh (wuh.wu.ti.lop.koh) | FUT+PROG+PERF |
+| `lex:wait` | wuhwutimilopkoh (wuh.wu.ti.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:catch` | retikop (re.ti.kop) | CIT |
+| `lex:catch` | retikoprut (re.ti.kop.rut) | PST |
+| `lex:catch` | haretikop (ha.re.ti.kop) | FUT |
+| `lex:catch` | retikoplop (re.ti.kop.lop) | PROG |
+| `lex:catch` | retikopmu (re.ti.kop.mu) | PERF |
+| `lex:catch` | haretikoprut (ha.re.ti.kop.rut) | PST+FUT |
+| `lex:catch` | retikoprutlop (re.ti.kop.rut.lop) | PST+PROG |
+| `lex:catch` | retikoprutmu (re.ti.kop.rut.mu) | PST+PERF |
+| `lex:catch` | haretikoplop (ha.re.ti.kop.lop) | FUT+PROG |
+| `lex:catch` | haretikopmu (ha.re.ti.kop.mu) | FUT+PERF |
+| `lex:catch` | retikoplopmu (re.ti.kop.lop.mu) | PROG+PERF |
+| `lex:catch` | haretikoprutlop (ha.re.ti.kop.rut.lop) | PST+FUT+PROG |
+| `lex:catch` | haretikoprutmu (ha.re.ti.kop.rut.mu) | PST+FUT+PERF |
+| `lex:catch` | retikoprutlopmu (re.ti.kop.rut.lop.mu) | PST+PROG+PERF |
+| `lex:catch` | haretikoplopmu (ha.re.ti.kop.lop.mu) | FUT+PROG+PERF |
+| `lex:catch` | haretikoprutlopmu (ha.re.ti.kop.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:carry` | tohi (to.hi) | CIT |
+| `lex:carry` | tohimi (to.hi.mi) | PST |
+| `lex:carry` | wuhtohi (wuh.to.hi) | FUT |
+| `lex:carry` | tohilop (to.hi.lop) | PROG |
+| `lex:carry` | tohikoh (to.hi.koh) | PERF |
+| `lex:carry` | wuhtohimi (wuh.to.hi.mi) | PST+FUT |
+| `lex:carry` | tohimilop (to.hi.mi.lop) | PST+PROG |
+| `lex:carry` | tohimikoh (to.hi.mi.koh) | PST+PERF |
+| `lex:carry` | wuhtohilop (wuh.to.hi.lop) | FUT+PROG |
+| `lex:carry` | wuhtohikoh (wuh.to.hi.koh) | FUT+PERF |
+| `lex:carry` | tohilopkoh (to.hi.lop.koh) | PROG+PERF |
+| `lex:carry` | wuhtohimilop (wuh.to.hi.mi.lop) | PST+FUT+PROG |
+| `lex:carry` | wuhtohimikoh (wuh.to.hi.mi.koh) | PST+FUT+PERF |
+| `lex:carry` | tohimilopkoh (to.hi.mi.lop.koh) | PST+PROG+PERF |
+| `lex:carry` | wuhtohilopkoh (wuh.to.hi.lop.koh) | FUT+PROG+PERF |
+| `lex:carry` | wuhtohimilopkoh (wuh.to.hi.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:lift` | kanow (ka.now) | CIT |
+| `lex:lift` | kanowrut (ka.now.rut) | PST |
+| `lex:lift` | hakanow (ha.ka.now) | FUT |
+| `lex:lift` | kanowlop (ka.now.lop) | PROG |
+| `lex:lift` | kanowmu (ka.now.mu) | PERF |
+| `lex:lift` | hakanowrut (ha.ka.now.rut) | PST+FUT |
+| `lex:lift` | kanowrutlop (ka.now.rut.lop) | PST+PROG |
+| `lex:lift` | kanowrutmu (ka.now.rut.mu) | PST+PERF |
+| `lex:lift` | hakanowlop (ha.ka.now.lop) | FUT+PROG |
+| `lex:lift` | hakanowmu (ha.ka.now.mu) | FUT+PERF |
+| `lex:lift` | kanowlopmu (ka.now.lop.mu) | PROG+PERF |
+| `lex:lift` | hakanowrutlop (ha.ka.now.rut.lop) | PST+FUT+PROG |
+| `lex:lift` | hakanowrutmu (ha.ka.now.rut.mu) | PST+FUT+PERF |
+| `lex:lift` | kanowrutlopmu (ka.now.rut.lop.mu) | PST+PROG+PERF |
+| `lex:lift` | hakanowlopmu (ha.ka.now.lop.mu) | FUT+PROG+PERF |
+| `lex:lift` | hakanowrutlopmu (ha.ka.now.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:build` | mumset (mum.set) | CIT |
+| `lex:build` | mumsetmi (mum.set.mi) | PST |
+| `lex:build` | wuhmumset (wuh.mum.set) | FUT |
+| `lex:build` | mumsetlop (mum.set.lop) | PROG |
+| `lex:build` | mumsetkoh (mum.set.koh) | PERF |
+| `lex:build` | wuhmumsetmi (wuh.mum.set.mi) | PST+FUT |
+| `lex:build` | mumsetmilop (mum.set.mi.lop) | PST+PROG |
+| `lex:build` | mumsetmikoh (mum.set.mi.koh) | PST+PERF |
+| `lex:build` | wuhmumsetlop (wuh.mum.set.lop) | FUT+PROG |
+| `lex:build` | wuhmumsetkoh (wuh.mum.set.koh) | FUT+PERF |
+| `lex:build` | mumsetlopkoh (mum.set.lop.koh) | PROG+PERF |
+| `lex:build` | wuhmumsetmilop (wuh.mum.set.mi.lop) | PST+FUT+PROG |
+| `lex:build` | wuhmumsetmikoh (wuh.mum.set.mi.koh) | PST+FUT+PERF |
+| `lex:build` | mumsetmilopkoh (mum.set.mi.lop.koh) | PST+PROG+PERF |
+| `lex:build` | wuhmumsetlopkoh (wuh.mum.set.lop.koh) | FUT+PROG+PERF |
+| `lex:build` | wuhmumsetmilopkoh (wuh.mum.set.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:fix` | lakesmop (la.kes.mop) | CIT |
+| `lex:fix` | lakesmoprut (la.kes.mop.rut) | PST |
+| `lex:fix` | halakesmop (ha.la.kes.mop) | FUT |
+| `lex:fix` | lakesmoplop (la.kes.mop.lop) | PROG |
+| `lex:fix` | lakesmopmu (la.kes.mop.mu) | PERF |
+| `lex:fix` | halakesmoprut (ha.la.kes.mop.rut) | PST+FUT |
+| `lex:fix` | lakesmoprutlop (la.kes.mop.rut.lop) | PST+PROG |
+| `lex:fix` | lakesmoprutmu (la.kes.mop.rut.mu) | PST+PERF |
+| `lex:fix` | halakesmoplop (ha.la.kes.mop.lop) | FUT+PROG |
+| `lex:fix` | halakesmopmu (ha.la.kes.mop.mu) | FUT+PERF |
+| `lex:fix` | lakesmoplopmu (la.kes.mop.lop.mu) | PROG+PERF |
+| `lex:fix` | halakesmoprutlop (ha.la.kes.mop.rut.lop) | PST+FUT+PROG |
+| `lex:fix` | halakesmoprutmu (ha.la.kes.mop.rut.mu) | PST+FUT+PERF |
+| `lex:fix` | lakesmoprutlopmu (la.kes.mop.rut.lop.mu) | PST+PROG+PERF |
+| `lex:fix` | halakesmoplopmu (ha.la.kes.mop.lop.mu) | FUT+PROG+PERF |
+| `lex:fix` | halakesmoprutlopmu (ha.la.kes.mop.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:cut` | tosor (to.sor) | CIT |
+| `lex:cut` | tosormi (to.sor.mi) | PST |
+| `lex:cut` | wuhtosor (wuh.to.sor) | FUT |
+| `lex:cut` | tosorlop (to.sor.lop) | PROG |
+| `lex:cut` | tosorkoh (to.sor.koh) | PERF |
+| `lex:cut` | wuhtosormi (wuh.to.sor.mi) | PST+FUT |
+| `lex:cut` | tosormilop (to.sor.mi.lop) | PST+PROG |
+| `lex:cut` | tosormikoh (to.sor.mi.koh) | PST+PERF |
+| `lex:cut` | wuhtosorlop (wuh.to.sor.lop) | FUT+PROG |
+| `lex:cut` | wuhtosorkoh (wuh.to.sor.koh) | FUT+PERF |
+| `lex:cut` | tosorlopkoh (to.sor.lop.koh) | PROG+PERF |
+| `lex:cut` | wuhtosormilop (wuh.to.sor.mi.lop) | PST+FUT+PROG |
+| `lex:cut` | wuhtosormikoh (wuh.to.sor.mi.koh) | PST+FUT+PERF |
+| `lex:cut` | tosormilopkoh (to.sor.mi.lop.koh) | PST+PROG+PERF |
+| `lex:cut` | wuhtosorlopkoh (wuh.to.sor.lop.koh) | FUT+PROG+PERF |
+| `lex:cut` | wuhtosormilopkoh (wuh.to.sor.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:carve` | lap (lap) | CIT |
+| `lex:carve` | laprut (lap.rut) | PST |
+| `lex:carve` | halap (ha.lap) | FUT |
+| `lex:carve` | laplop (lap.lop) | PROG |
+| `lex:carve` | lapmu (lap.mu) | PERF |
+| `lex:carve` | halaprut (ha.lap.rut) | PST+FUT |
+| `lex:carve` | laprutlop (lap.rut.lop) | PST+PROG |
+| `lex:carve` | laprutmu (lap.rut.mu) | PST+PERF |
+| `lex:carve` | halaplop (ha.lap.lop) | FUT+PROG |
+| `lex:carve` | halapmu (ha.lap.mu) | FUT+PERF |
+| `lex:carve` | laplopmu (lap.lop.mu) | PROG+PERF |
+| `lex:carve` | halaprutlop (ha.lap.rut.lop) | PST+FUT+PROG |
+| `lex:carve` | halaprutmu (ha.lap.rut.mu) | PST+FUT+PERF |
+| `lex:carve` | laprutlopmu (lap.rut.lop.mu) | PST+PROG+PERF |
+| `lex:carve` | halaplopmu (ha.lap.lop.mu) | FUT+PROG+PERF |
+| `lex:carve` | halaprutlopmu (ha.lap.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:measure` | rusew (ru.sew) | CIT |
+| `lex:measure` | rusewmi (ru.sew.mi) | PST |
+| `lex:measure` | wuhrusew (wuh.ru.sew) | FUT |
+| `lex:measure` | rusewlop (ru.sew.lop) | PROG |
+| `lex:measure` | rusewkoh (ru.sew.koh) | PERF |
+| `lex:measure` | wuhrusewmi (wuh.ru.sew.mi) | PST+FUT |
+| `lex:measure` | rusewmilop (ru.sew.mi.lop) | PST+PROG |
+| `lex:measure` | rusewmikoh (ru.sew.mi.koh) | PST+PERF |
+| `lex:measure` | wuhrusewlop (wuh.ru.sew.lop) | FUT+PROG |
+| `lex:measure` | wuhrusewkoh (wuh.ru.sew.koh) | FUT+PERF |
+| `lex:measure` | rusewlopkoh (ru.sew.lop.koh) | PROG+PERF |
+| `lex:measure` | wuhrusewmilop (wuh.ru.sew.mi.lop) | PST+FUT+PROG |
+| `lex:measure` | wuhrusewmikoh (wuh.ru.sew.mi.koh) | PST+FUT+PERF |
+| `lex:measure` | rusewmilopkoh (ru.sew.mi.lop.koh) | PST+PROG+PERF |
+| `lex:measure` | wuhrusewlopkoh (wuh.ru.sew.lop.koh) | FUT+PROG+PERF |
+| `lex:measure` | wuhrusewmilopkoh (wuh.ru.sew.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:saw` | kewel (ke.wel) | CIT |
+| `lex:saw` | kewelrut (ke.wel.rut) | PST |
+| `lex:saw` | hakewel (ha.ke.wel) | FUT |
+| `lex:saw` | kewellop (ke.wel.lop) | PROG |
+| `lex:saw` | kewelmu (ke.wel.mu) | PERF |
+| `lex:saw` | hakewelrut (ha.ke.wel.rut) | PST+FUT |
+| `lex:saw` | kewelrutlop (ke.wel.rut.lop) | PST+PROG |
+| `lex:saw` | kewelrutmu (ke.wel.rut.mu) | PST+PERF |
+| `lex:saw` | hakewellop (ha.ke.wel.lop) | FUT+PROG |
+| `lex:saw` | hakewelmu (ha.ke.wel.mu) | FUT+PERF |
+| `lex:saw` | kewellopmu (ke.wel.lop.mu) | PROG+PERF |
+| `lex:saw` | hakewelrutlop (ha.ke.wel.rut.lop) | PST+FUT+PROG |
+| `lex:saw` | hakewelrutmu (ha.ke.wel.rut.mu) | PST+FUT+PERF |
+| `lex:saw` | kewelrutlopmu (ke.wel.rut.lop.mu) | PST+PROG+PERF |
+| `lex:saw` | hakewellopmu (ha.ke.wel.lop.mu) | FUT+PROG+PERF |
+| `lex:saw` | hakewelrutlopmu (ha.ke.wel.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:tie` | rewse (rew.se) | CIT |
+| `lex:tie` | rewsemi (rew.se.mi) | PST |
+| `lex:tie` | wuhrewse (wuh.rew.se) | FUT |
+| `lex:tie` | rewselop (rew.se.lop) | PROG |
+| `lex:tie` | rewsekoh (rew.se.koh) | PERF |
+| `lex:tie` | wuhrewsemi (wuh.rew.se.mi) | PST+FUT |
+| `lex:tie` | rewsemilop (rew.se.mi.lop) | PST+PROG |
+| `lex:tie` | rewsemikoh (rew.se.mi.koh) | PST+PERF |
+| `lex:tie` | wuhrewselop (wuh.rew.se.lop) | FUT+PROG |
+| `lex:tie` | wuhrewsekoh (wuh.rew.se.koh) | FUT+PERF |
+| `lex:tie` | rewselopkoh (rew.se.lop.koh) | PROG+PERF |
+| `lex:tie` | wuhrewsemilop (wuh.rew.se.mi.lop) | PST+FUT+PROG |
+| `lex:tie` | wuhrewsemikoh (wuh.rew.se.mi.koh) | PST+FUT+PERF |
+| `lex:tie` | rewsemilopkoh (rew.se.mi.lop.koh) | PST+PROG+PERF |
+| `lex:tie` | wuhrewselopkoh (wuh.rew.se.lop.koh) | FUT+PROG+PERF |
+| `lex:tie` | wuhrewsemilopkoh (wuh.rew.se.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:wrap` | patota (pa.to.ta) | CIT |
+| `lex:wrap` | patotarut (pa.to.ta.rut) | PST |
+| `lex:wrap` | hapatota (ha.pa.to.ta) | FUT |
+| `lex:wrap` | patotalop (pa.to.ta.lop) | PROG |
+| `lex:wrap` | patotamu (pa.to.ta.mu) | PERF |
+| `lex:wrap` | hapatotarut (ha.pa.to.ta.rut) | PST+FUT |
+| `lex:wrap` | patotarutlop (pa.to.ta.rut.lop) | PST+PROG |
+| `lex:wrap` | patotarutmu (pa.to.ta.rut.mu) | PST+PERF |
+| `lex:wrap` | hapatotalop (ha.pa.to.ta.lop) | FUT+PROG |
+| `lex:wrap` | hapatotamu (ha.pa.to.ta.mu) | FUT+PERF |
+| `lex:wrap` | patotalopmu (pa.to.ta.lop.mu) | PROG+PERF |
+| `lex:wrap` | hapatotarutlop (ha.pa.to.ta.rut.lop) | PST+FUT+PROG |
+| `lex:wrap` | hapatotarutmu (ha.pa.to.ta.rut.mu) | PST+FUT+PERF |
+| `lex:wrap` | patotarutlopmu (pa.to.ta.rut.lop.mu) | PST+PROG+PERF |
+| `lex:wrap` | hapatotalopmu (ha.pa.to.ta.lop.mu) | FUT+PROG+PERF |
+| `lex:wrap` | hapatotarutlopmu (ha.pa.to.ta.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:reveal` | pan (pan) | CIT |
+| `lex:reveal` | panmi (pan.mi) | PST |
+| `lex:reveal` | wuhpan (wuh.pan) | FUT |
+| `lex:reveal` | panlop (pan.lop) | PROG |
+| `lex:reveal` | pankoh (pan.koh) | PERF |
+| `lex:reveal` | wuhpanmi (wuh.pan.mi) | PST+FUT |
+| `lex:reveal` | panmilop (pan.mi.lop) | PST+PROG |
+| `lex:reveal` | panmikoh (pan.mi.koh) | PST+PERF |
+| `lex:reveal` | wuhpanlop (wuh.pan.lop) | FUT+PROG |
+| `lex:reveal` | wuhpankoh (wuh.pan.koh) | FUT+PERF |
+| `lex:reveal` | panlopkoh (pan.lop.koh) | PROG+PERF |
+| `lex:reveal` | wuhpanmilop (wuh.pan.mi.lop) | PST+FUT+PROG |
+| `lex:reveal` | wuhpanmikoh (wuh.pan.mi.koh) | PST+FUT+PERF |
+| `lex:reveal` | panmilopkoh (pan.mi.lop.koh) | PST+PROG+PERF |
+| `lex:reveal` | wuhpanlopkoh (wuh.pan.lop.koh) | FUT+PROG+PERF |
+| `lex:reveal` | wuhpanmilopkoh (wuh.pan.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:hide` | mawho (maw.ho) | CIT |
+| `lex:hide` | mawhorut (maw.ho.rut) | PST |
+| `lex:hide` | hamawho (ha.maw.ho) | FUT |
+| `lex:hide` | mawholop (maw.ho.lop) | PROG |
+| `lex:hide` | mawhomu (maw.ho.mu) | PERF |
+| `lex:hide` | hamawhorut (ha.maw.ho.rut) | PST+FUT |
+| `lex:hide` | mawhorutlop (maw.ho.rut.lop) | PST+PROG |
+| `lex:hide` | mawhorutmu (maw.ho.rut.mu) | PST+PERF |
+| `lex:hide` | hamawholop (ha.maw.ho.lop) | FUT+PROG |
+| `lex:hide` | hamawhomu (ha.maw.ho.mu) | FUT+PERF |
+| `lex:hide` | mawholopmu (maw.ho.lop.mu) | PROG+PERF |
+| `lex:hide` | hamawhorutlop (ha.maw.ho.rut.lop) | PST+FUT+PROG |
+| `lex:hide` | hamawhorutmu (ha.maw.ho.rut.mu) | PST+FUT+PERF |
+| `lex:hide` | mawhorutlopmu (maw.ho.rut.lop.mu) | PST+PROG+PERF |
+| `lex:hide` | hamawholopmu (ha.maw.ho.lop.mu) | FUT+PROG+PERF |
+| `lex:hide` | hamawhorutlopmu (ha.maw.ho.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:escape` | meslen (mes.len) | CIT |
+| `lex:escape` | meslenmi (mes.len.mi) | PST |
+| `lex:escape` | wuhmeslen (wuh.mes.len) | FUT |
+| `lex:escape` | meslenlop (mes.len.lop) | PROG |
+| `lex:escape` | meslenkoh (mes.len.koh) | PERF |
+| `lex:escape` | wuhmeslenmi (wuh.mes.len.mi) | PST+FUT |
+| `lex:escape` | meslenmilop (mes.len.mi.lop) | PST+PROG |
+| `lex:escape` | meslenmikoh (mes.len.mi.koh) | PST+PERF |
+| `lex:escape` | wuhmeslenlop (wuh.mes.len.lop) | FUT+PROG |
+| `lex:escape` | wuhmeslenkoh (wuh.mes.len.koh) | FUT+PERF |
+| `lex:escape` | meslenlopkoh (mes.len.lop.koh) | PROG+PERF |
+| `lex:escape` | wuhmeslenmilop (wuh.mes.len.mi.lop) | PST+FUT+PROG |
+| `lex:escape` | wuhmeslenmikoh (wuh.mes.len.mi.koh) | PST+FUT+PERF |
+| `lex:escape` | meslenmilopkoh (mes.len.mi.lop.koh) | PST+PROG+PERF |
+| `lex:escape` | wuhmeslenlopkoh (wuh.mes.len.lop.koh) | FUT+PROG+PERF |
+| `lex:escape` | wuhmeslenmilopkoh (wuh.mes.len.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:begin` | hipan (hi.pan) | CIT |
+| `lex:begin` | hipanrut (hi.pan.rut) | PST |
+| `lex:begin` | hahipan (ha.hi.pan) | FUT |
+| `lex:begin` | hipanlop (hi.pan.lop) | PROG |
+| `lex:begin` | hipanmu (hi.pan.mu) | PERF |
+| `lex:begin` | hahipanrut (ha.hi.pan.rut) | PST+FUT |
+| `lex:begin` | hipanrutlop (hi.pan.rut.lop) | PST+PROG |
+| `lex:begin` | hipanrutmu (hi.pan.rut.mu) | PST+PERF |
+| `lex:begin` | hahipanlop (ha.hi.pan.lop) | FUT+PROG |
+| `lex:begin` | hahipanmu (ha.hi.pan.mu) | FUT+PERF |
+| `lex:begin` | hipanlopmu (hi.pan.lop.mu) | PROG+PERF |
+| `lex:begin` | hahipanrutlop (ha.hi.pan.rut.lop) | PST+FUT+PROG |
+| `lex:begin` | hahipanrutmu (ha.hi.pan.rut.mu) | PST+FUT+PERF |
+| `lex:begin` | hipanrutlopmu (hi.pan.rut.lop.mu) | PST+PROG+PERF |
+| `lex:begin` | hahipanlopmu (ha.hi.pan.lop.mu) | FUT+PROG+PERF |
+| `lex:begin` | hahipanrutlopmu (ha.hi.pan.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:open` | ro (ro) | CIT |
+| `lex:open` | romi (ro.mi) | PST |
+| `lex:open` | wuhro (wuh.ro) | FUT |
+| `lex:open` | rolop (ro.lop) | PROG |
+| `lex:open` | rokoh (ro.koh) | PERF |
+| `lex:open` | wuhromi (wuh.ro.mi) | PST+FUT |
+| `lex:open` | romilop (ro.mi.lop) | PST+PROG |
+| `lex:open` | romikoh (ro.mi.koh) | PST+PERF |
+| `lex:open` | wuhrolop (wuh.ro.lop) | FUT+PROG |
+| `lex:open` | wuhrokoh (wuh.ro.koh) | FUT+PERF |
+| `lex:open` | rolopkoh (ro.lop.koh) | PROG+PERF |
+| `lex:open` | wuhromilop (wuh.ro.mi.lop) | PST+FUT+PROG |
+| `lex:open` | wuhromikoh (wuh.ro.mi.koh) | PST+FUT+PERF |
+| `lex:open` | romilopkoh (ro.mi.lop.koh) | PST+PROG+PERF |
+| `lex:open` | wuhrolopkoh (wuh.ro.lop.koh) | FUT+PROG+PERF |
+| `lex:open` | wuhromilopkoh (wuh.ro.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:window` | wepwetmi (wep.wet.mi) | CIT |
+| `lex:window` | wepwetmini (wep.wet.mi.ni) | PL |
+| `lex:window` | wepwetmile (wep.wet.mi.le) | DIM |
+| `lex:window` | wepwetmilu (wep.wet.mi.lu) | AUG |
+| `lex:window` | wepwetminile (wep.wet.mi.ni.le) | PL+DIM |
+| `lex:window` | wepwetminilu (wep.wet.mi.ni.lu) | PL+AUG |
+| `lex:window` | wepwetmilelu (wep.wet.mi.le.lu) | DIM+AUG |
+| `lex:window` | wepwetminilelu (wep.wet.mi.ni.le.lu) | PL+DIM+AUG |
+| `lex:cottage` | hahu (ha.hu) | CIT |
+| `lex:cottage` | hahuni (ha.hu.ni) | PL |
+| `lex:cottage` | hahuwa (ha.hu.wa) | DIM |
+| `lex:cottage` | hahuta (ha.hu.ta) | AUG |
+| `lex:cottage` | hahuniwa (ha.hu.ni.wa) | PL+DIM |
+| `lex:cottage` | hahunita (ha.hu.ni.ta) | PL+AUG |
+| `lex:cottage` | hahuwata (ha.hu.wa.ta) | DIM+AUG |
+| `lex:cottage` | hahuniwata (ha.hu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:table` | nik (nik) | CIT |
+| `lex:table` | nikni (nik.ni) | PL |
+| `lex:table` | nikle (nik.le) | DIM |
+| `lex:table` | niklu (nik.lu) | AUG |
+| `lex:table` | niknile (nik.ni.le) | PL+DIM |
+| `lex:table` | niknilu (nik.ni.lu) | PL+AUG |
+| `lex:table` | niklelu (nik.le.lu) | DIM+AUG |
+| `lex:table` | niknilelu (nik.ni.le.lu) | PL+DIM+AUG |
+| `lex:chair` | rawulo (ra.wu.lo) | CIT |
+| `lex:chair` | rawuloni (ra.wu.lo.ni) | PL |
+| `lex:chair` | rawulowa (ra.wu.lo.wa) | DIM |
+| `lex:chair` | rawulota (ra.wu.lo.ta) | AUG |
+| `lex:chair` | rawuloniwa (ra.wu.lo.ni.wa) | PL+DIM |
+| `lex:chair` | rawulonita (ra.wu.lo.ni.ta) | PL+AUG |
+| `lex:chair` | rawulowata (ra.wu.lo.wa.ta) | DIM+AUG |
+| `lex:chair` | rawuloniwata (ra.wu.lo.ni.wa.ta) | PL+DIM+AUG |
+| `lex:box` | tu (tu) | CIT |
+| `lex:box` | tuni (tu.ni) | PL |
+| `lex:box` | tule (tu.le) | DIM |
+| `lex:box` | tulu (tu.lu) | AUG |
+| `lex:box` | tunile (tu.ni.le) | PL+DIM |
+| `lex:box` | tunilu (tu.ni.lu) | PL+AUG |
+| `lex:box` | tulelu (tu.le.lu) | DIM+AUG |
+| `lex:box` | tunilelu (tu.ni.le.lu) | PL+DIM+AUG |
+| `lex:bag` | laha (la.ha) | CIT |
+| `lex:bag` | lahani (la.ha.ni) | PL |
+| `lex:bag` | lahawa (la.ha.wa) | DIM |
+| `lex:bag` | lahata (la.ha.ta) | AUG |
+| `lex:bag` | lahaniwa (la.ha.ni.wa) | PL+DIM |
+| `lex:bag` | lahanita (la.ha.ni.ta) | PL+AUG |
+| `lex:bag` | lahawata (la.ha.wa.ta) | DIM+AUG |
+| `lex:bag` | lahaniwata (la.ha.ni.wa.ta) | PL+DIM+AUG |
+| `lex:boot` | risot (ri.sot) | CIT |
+| `lex:boot` | risotni (ri.sot.ni) | PL |
+| `lex:boot` | risotle (ri.sot.le) | DIM |
+| `lex:boot` | risotlu (ri.sot.lu) | AUG |
+| `lex:boot` | risotnile (ri.sot.ni.le) | PL+DIM |
+| `lex:boot` | risotnilu (ri.sot.ni.lu) | PL+AUG |
+| `lex:boot` | risotlelu (ri.sot.le.lu) | DIM+AUG |
+| `lex:boot` | risotnilelu (ri.sot.ni.le.lu) | PL+DIM+AUG |
+| `lex:jacket` | kaserki (ka.ser.ki) | CIT |
+| `lex:jacket` | kaserkini (ka.ser.ki.ni) | PL |
+| `lex:jacket` | kaserkiwa (ka.ser.ki.wa) | DIM |
+| `lex:jacket` | kaserkita (ka.ser.ki.ta) | AUG |
+| `lex:jacket` | kaserkiniwa (ka.ser.ki.ni.wa) | PL+DIM |
+| `lex:jacket` | kaserkinita (ka.ser.ki.ni.ta) | PL+AUG |
+| `lex:jacket` | kaserkiwata (ka.ser.ki.wa.ta) | DIM+AUG |
+| `lex:jacket` | kaserkiniwata (ka.ser.ki.ni.wa.ta) | PL+DIM+AUG |
+| `lex:pocket` | nitlo (nit.lo) | CIT |
+| `lex:pocket` | nitloni (nit.lo.ni) | PL |
+| `lex:pocket` | nitlole (nit.lo.le) | DIM |
+| `lex:pocket` | nitlolu (nit.lo.lu) | AUG |
+| `lex:pocket` | nitlonile (nit.lo.ni.le) | PL+DIM |
+| `lex:pocket` | nitlonilu (nit.lo.ni.lu) | PL+AUG |
+| `lex:pocket` | nitlolelu (nit.lo.le.lu) | DIM+AUG |
+| `lex:pocket` | nitlonilelu (nit.lo.ni.le.lu) | PL+DIM+AUG |
+| `lex:key` | noto (no.to) | CIT |
+| `lex:key` | notoni (no.to.ni) | PL |
+| `lex:key` | notowa (no.to.wa) | DIM |
+| `lex:key` | notota (no.to.ta) | AUG |
+| `lex:key` | notoniwa (no.to.ni.wa) | PL+DIM |
+| `lex:key` | notonita (no.to.ni.ta) | PL+AUG |
+| `lex:key` | notowata (no.to.wa.ta) | DIM+AUG |
+| `lex:key` | notoniwata (no.to.ni.wa.ta) | PL+DIM+AUG |
+| `lex:lock` | mipo (mi.po) | CIT |
+| `lex:lock` | miponi (mi.po.ni) | PL |
+| `lex:lock` | mipole (mi.po.le) | DIM |
+| `lex:lock` | mipolu (mi.po.lu) | AUG |
+| `lex:lock` | miponile (mi.po.ni.le) | PL+DIM |
+| `lex:lock` | miponilu (mi.po.ni.lu) | PL+AUG |
+| `lex:lock` | mipolelu (mi.po.le.lu) | DIM+AUG |
+| `lex:lock` | miponilelu (mi.po.ni.le.lu) | PL+DIM+AUG |
+| `lex:brass` | tekatam (te.ka.tam) | CIT |
+| `lex:brass` | tekatamni (te.ka.tam.ni) | PL |
+| `lex:brass` | tekatamwa (te.ka.tam.wa) | DIM |
+| `lex:brass` | tekatamta (te.ka.tam.ta) | AUG |
+| `lex:brass` | tekatamniwa (te.ka.tam.ni.wa) | PL+DIM |
+| `lex:brass` | tekatamnita (te.ka.tam.ni.ta) | PL+AUG |
+| `lex:brass` | tekatamwata (te.ka.tam.wa.ta) | DIM+AUG |
+| `lex:brass` | tekatamniwata (te.ka.tam.ni.wa.ta) | PL+DIM+AUG |
+| `lex:iron` | rakkapti (rak.kap.ti) | CIT |
+| `lex:iron` | rakkaptini (rak.kap.ti.ni) | PL |
+| `lex:iron` | rakkaptile (rak.kap.ti.le) | DIM |
+| `lex:iron` | rakkaptilu (rak.kap.ti.lu) | AUG |
+| `lex:iron` | rakkaptinile (rak.kap.ti.ni.le) | PL+DIM |
+| `lex:iron` | rakkaptinilu (rak.kap.ti.ni.lu) | PL+AUG |
+| `lex:iron` | rakkaptilelu (rak.kap.ti.le.lu) | DIM+AUG |
+| `lex:iron` | rakkaptinilelu (rak.kap.ti.ni.le.lu) | PL+DIM+AUG |
+| `lex:metal` | lim (lim) | CIT |
+| `lex:metal` | limni (lim.ni) | PL |
+| `lex:metal` | limwa (lim.wa) | DIM |
+| `lex:metal` | limta (lim.ta) | AUG |
+| `lex:metal` | limniwa (lim.ni.wa) | PL+DIM |
+| `lex:metal` | limnita (lim.ni.ta) | PL+AUG |
+| `lex:metal` | limwata (lim.wa.ta) | DIM+AUG |
+| `lex:metal` | limniwata (lim.ni.wa.ta) | PL+DIM+AUG |
+| `lex:ring` | wipah (wi.pah) | CIT |
+| `lex:ring` | wipahni (wi.pah.ni) | PL |
+| `lex:ring` | wipahle (wi.pah.le) | DIM |
+| `lex:ring` | wipahlu (wi.pah.lu) | AUG |
+| `lex:ring` | wipahnile (wi.pah.ni.le) | PL+DIM |
+| `lex:ring` | wipahnilu (wi.pah.ni.lu) | PL+AUG |
+| `lex:ring` | wipahlelu (wi.pah.le.lu) | DIM+AUG |
+| `lex:ring` | wipahnilelu (wi.pah.ni.le.lu) | PL+DIM+AUG |
+| `lex:hammer` | hem (hem) | CIT |
+| `lex:hammer` | hemni (hem.ni) | PL |
+| `lex:hammer` | hemwa (hem.wa) | DIM |
+| `lex:hammer` | hemta (hem.ta) | AUG |
+| `lex:hammer` | hemniwa (hem.ni.wa) | PL+DIM |
+| `lex:hammer` | hemnita (hem.ni.ta) | PL+AUG |
+| `lex:hammer` | hemwata (hem.wa.ta) | DIM+AUG |
+| `lex:hammer` | hemniwata (hem.ni.wa.ta) | PL+DIM+AUG |
+| `lex:shears` | ruhsetuw (ruh.se.tuw) | CIT |
+| `lex:shears` | ruhsetuwni (ruh.se.tuw.ni) | PL |
+| `lex:shears` | ruhsetuwle (ruh.se.tuw.le) | DIM |
+| `lex:shears` | ruhsetuwlu (ruh.se.tuw.lu) | AUG |
+| `lex:shears` | ruhsetuwnile (ruh.se.tuw.ni.le) | PL+DIM |
+| `lex:shears` | ruhsetuwnilu (ruh.se.tuw.ni.lu) | PL+AUG |
+| `lex:shears` | ruhsetuwlelu (ruh.se.tuw.le.lu) | DIM+AUG |
+| `lex:shears` | ruhsetuwnilelu (ruh.se.tuw.ni.le.lu) | PL+DIM+AUG |
+| `lex:twine` | werih (we.rih) | CIT |
+| `lex:twine` | werihni (we.rih.ni) | PL |
+| `lex:twine` | werihwa (we.rih.wa) | DIM |
+| `lex:twine` | werihta (we.rih.ta) | AUG |
+| `lex:twine` | werihniwa (we.rih.ni.wa) | PL+DIM |
+| `lex:twine` | werihnita (we.rih.ni.ta) | PL+AUG |
+| `lex:twine` | werihwata (we.rih.wa.ta) | DIM+AUG |
+| `lex:twine` | werihniwata (we.rih.ni.wa.ta) | PL+DIM+AUG |
+| `lex:leather` | morlantat (mor.lan.tat) | CIT |
+| `lex:leather` | morlantatni (mor.lan.tat.ni) | PL |
+| `lex:leather` | morlantatle (mor.lan.tat.le) | DIM |
+| `lex:leather` | morlantatlu (mor.lan.tat.lu) | AUG |
+| `lex:leather` | morlantatnile (mor.lan.tat.ni.le) | PL+DIM |
+| `lex:leather` | morlantatnilu (mor.lan.tat.ni.lu) | PL+AUG |
+| `lex:leather` | morlantatlelu (mor.lan.tat.le.lu) | DIM+AUG |
+| `lex:leather` | morlantatnilelu (mor.lan.tat.ni.le.lu) | PL+DIM+AUG |
+| `lex:canvas` | ruwa (ru.wa) | CIT |
+| `lex:canvas` | ruwani (ru.wa.ni) | PL |
+| `lex:canvas` | ruwawa (ru.wa.wa) | DIM |
+| `lex:canvas` | ruwata (ru.wa.ta) | AUG |
+| `lex:canvas` | ruwaniwa (ru.wa.ni.wa) | PL+DIM |
+| `lex:canvas` | ruwanita (ru.wa.ni.ta) | PL+AUG |
+| `lex:canvas` | ruwawata (ru.wa.wa.ta) | DIM+AUG |
+| `lex:canvas` | ruwaniwata (ru.wa.ni.wa.ta) | PL+DIM+AUG |
+| `lex:paper` | hinso (hin.so) | CIT |
+| `lex:paper` | hinsoni (hin.so.ni) | PL |
+| `lex:paper` | hinsole (hin.so.le) | DIM |
+| `lex:paper` | hinsolu (hin.so.lu) | AUG |
+| `lex:paper` | hinsonile (hin.so.ni.le) | PL+DIM |
+| `lex:paper` | hinsonilu (hin.so.ni.lu) | PL+AUG |
+| `lex:paper` | hinsolelu (hin.so.le.lu) | DIM+AUG |
+| `lex:paper` | hinsonilelu (hin.so.ni.le.lu) | PL+DIM+AUG |
+| `lex:book` | komalu (ko.ma.lu) | CIT |
+| `lex:book` | komaluni (ko.ma.lu.ni) | PL |
+| `lex:book` | komaluwa (ko.ma.lu.wa) | DIM |
+| `lex:book` | komaluta (ko.ma.lu.ta) | AUG |
+| `lex:book` | komaluniwa (ko.ma.lu.ni.wa) | PL+DIM |
+| `lex:book` | komalunita (ko.ma.lu.ni.ta) | PL+AUG |
+| `lex:book` | komaluwata (ko.ma.lu.wa.ta) | DIM+AUG |
+| `lex:book` | komaluniwata (ko.ma.lu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:ledger` | suku (su.ku) | CIT |
+| `lex:ledger` | sukuni (su.ku.ni) | PL |
+| `lex:ledger` | sukule (su.ku.le) | DIM |
+| `lex:ledger` | sukulu (su.ku.lu) | AUG |
+| `lex:ledger` | sukunile (su.ku.ni.le) | PL+DIM |
+| `lex:ledger` | sukunilu (su.ku.ni.lu) | PL+AUG |
+| `lex:ledger` | sukulelu (su.ku.le.lu) | DIM+AUG |
+| `lex:ledger` | sukunilelu (su.ku.ni.le.lu) | PL+DIM+AUG |
+| `lex:journal` | rutaw (ru.taw) | CIT |
+| `lex:journal` | rutawni (ru.taw.ni) | PL |
+| `lex:journal` | rutawwa (ru.taw.wa) | DIM |
+| `lex:journal` | rutawta (ru.taw.ta) | AUG |
+| `lex:journal` | rutawniwa (ru.taw.ni.wa) | PL+DIM |
+| `lex:journal` | rutawnita (ru.taw.ni.ta) | PL+AUG |
+| `lex:journal` | rutawwata (ru.taw.wa.ta) | DIM+AUG |
+| `lex:journal` | rutawniwata (ru.taw.ni.wa.ta) | PL+DIM+AUG |
+| `lex:note` | pewen (pe.wen) | CIT |
+| `lex:note` | pewenni (pe.wen.ni) | PL |
+| `lex:note` | pewenle (pe.wen.le) | DIM |
+| `lex:note` | pewenlu (pe.wen.lu) | AUG |
+| `lex:note` | pewennile (pe.wen.ni.le) | PL+DIM |
+| `lex:note` | pewennilu (pe.wen.ni.lu) | PL+AUG |
+| `lex:note` | pewenlelu (pe.wen.le.lu) | DIM+AUG |
+| `lex:note` | pewennilelu (pe.wen.ni.le.lu) | PL+DIM+AUG |
+| `lex:page` | wukho (wuk.ho) | CIT |
+| `lex:page` | wukhoni (wuk.ho.ni) | PL |
+| `lex:page` | wukhowa (wuk.ho.wa) | DIM |
+| `lex:page` | wukhota (wuk.ho.ta) | AUG |
+| `lex:page` | wukhoniwa (wuk.ho.ni.wa) | PL+DIM |
+| `lex:page` | wukhonita (wuk.ho.ni.ta) | PL+AUG |
+| `lex:page` | wukhowata (wuk.ho.wa.ta) | DIM+AUG |
+| `lex:page` | wukhoniwata (wuk.ho.ni.wa.ta) | PL+DIM+AUG |
+| `lex:blueprint` | hin (hin) | CIT |
+| `lex:blueprint` | hinni (hin.ni) | PL |
+| `lex:blueprint` | hinle (hin.le) | DIM |
+| `lex:blueprint` | hinlu (hin.lu) | AUG |
+| `lex:blueprint` | hinnile (hin.ni.le) | PL+DIM |
+| `lex:blueprint` | hinnilu (hin.ni.lu) | PL+AUG |
+| `lex:blueprint` | hinlelu (hin.le.lu) | DIM+AUG |
+| `lex:blueprint` | hinnilelu (hin.ni.le.lu) | PL+DIM+AUG |
+| `lex:diagram` | wowon (wo.won) | CIT |
+| `lex:diagram` | wowonni (wo.won.ni) | PL |
+| `lex:diagram` | wowonwa (wo.won.wa) | DIM |
+| `lex:diagram` | wowonta (wo.won.ta) | AUG |
+| `lex:diagram` | wowonniwa (wo.won.ni.wa) | PL+DIM |
+| `lex:diagram` | wowonnita (wo.won.ni.ta) | PL+AUG |
+| `lex:diagram` | wowonwata (wo.won.wa.ta) | DIM+AUG |
+| `lex:diagram` | wowonniwata (wo.won.ni.wa.ta) | PL+DIM+AUG |
+| `lex:dinghy` | molet (mo.let) | CIT |
+| `lex:dinghy` | moletni (mo.let.ni) | PL |
+| `lex:dinghy` | moletle (mo.let.le) | DIM |
+| `lex:dinghy` | moletlu (mo.let.lu) | AUG |
+| `lex:dinghy` | moletnile (mo.let.ni.le) | PL+DIM |
+| `lex:dinghy` | moletnilu (mo.let.ni.lu) | PL+AUG |
+| `lex:dinghy` | moletlelu (mo.let.le.lu) | DIM+AUG |
+| `lex:dinghy` | moletnilelu (mo.let.ni.le.lu) | PL+DIM+AUG |
+| `lex:oar` | sele (se.le) | CIT |
+| `lex:oar` | seleni (se.le.ni) | PL |
+| `lex:oar` | selewa (se.le.wa) | DIM |
+| `lex:oar` | seleta (se.le.ta) | AUG |
+| `lex:oar` | seleniwa (se.le.ni.wa) | PL+DIM |
+| `lex:oar` | selenita (se.le.ni.ta) | PL+AUG |
+| `lex:oar` | selewata (se.le.wa.ta) | DIM+AUG |
+| `lex:oar` | seleniwata (se.le.ni.wa.ta) | PL+DIM+AUG |
+| `lex:keel` | sapham (sap.ham) | CIT |
+| `lex:keel` | saphamni (sap.ham.ni) | PL |
+| `lex:keel` | saphamle (sap.ham.le) | DIM |
+| `lex:keel` | saphamlu (sap.ham.lu) | AUG |
+| `lex:keel` | saphamnile (sap.ham.ni.le) | PL+DIM |
+| `lex:keel` | saphamnilu (sap.ham.ni.lu) | PL+AUG |
+| `lex:keel` | saphamlelu (sap.ham.le.lu) | DIM+AUG |
+| `lex:keel` | saphamnilelu (sap.ham.ni.le.lu) | PL+DIM+AUG |
+| `lex:rowlock` | wo (wo) | CIT |
+| `lex:rowlock` | woni (wo.ni) | PL |
+| `lex:rowlock` | wowa (wo.wa) | DIM |
+| `lex:rowlock` | wota (wo.ta) | AUG |
+| `lex:rowlock` | woniwa (wo.ni.wa) | PL+DIM |
+| `lex:rowlock` | wonita (wo.ni.ta) | PL+AUG |
+| `lex:rowlock` | wowata (wo.wa.ta) | DIM+AUG |
+| `lex:rowlock` | woniwata (wo.ni.wa.ta) | PL+DIM+AUG |
+| `lex:bow` | hira (hi.ra) | CIT |
+| `lex:bow` | hirani (hi.ra.ni) | PL |
+| `lex:bow` | hirale (hi.ra.le) | DIM |
+| `lex:bow` | hiralu (hi.ra.lu) | AUG |
+| `lex:bow` | hiranile (hi.ra.ni.le) | PL+DIM |
+| `lex:bow` | hiranilu (hi.ra.ni.lu) | PL+AUG |
+| `lex:bow` | hiralelu (hi.ra.le.lu) | DIM+AUG |
+| `lex:bow` | hiranilelu (hi.ra.ni.le.lu) | PL+DIM+AUG |
+| `lex:stern` | sepo (se.po) | CIT |
+| `lex:stern` | seponi (se.po.ni) | PL |
+| `lex:stern` | sepowa (se.po.wa) | DIM |
+| `lex:stern` | sepota (se.po.ta) | AUG |
+| `lex:stern` | seponiwa (se.po.ni.wa) | PL+DIM |
+| `lex:stern` | seponita (se.po.ni.ta) | PL+AUG |
+| `lex:stern` | sepowata (se.po.wa.ta) | DIM+AUG |
+| `lex:stern` | seponiwata (se.po.ni.wa.ta) | PL+DIM+AUG |
+| `lex:anchor` | tuhhisop (tuh.hi.sop) | CIT |
+| `lex:anchor` | tuhhisopni (tuh.hi.sop.ni) | PL |
+| `lex:anchor` | tuhhisople (tuh.hi.sop.le) | DIM |
+| `lex:anchor` | tuhhisoplu (tuh.hi.sop.lu) | AUG |
+| `lex:anchor` | tuhhisopnile (tuh.hi.sop.ni.le) | PL+DIM |
+| `lex:anchor` | tuhhisopnilu (tuh.hi.sop.ni.lu) | PL+AUG |
+| `lex:anchor` | tuhhisoplelu (tuh.hi.sop.le.lu) | DIM+AUG |
+| `lex:anchor` | tuhhisopnilelu (tuh.hi.sop.ni.le.lu) | PL+DIM+AUG |
+| `lex:compass` | kersi (ker.si) | CIT |
+| `lex:compass` | kersini (ker.si.ni) | PL |
+| `lex:compass` | kersiwa (ker.si.wa) | DIM |
+| `lex:compass` | kersita (ker.si.ta) | AUG |
+| `lex:compass` | kersiniwa (ker.si.ni.wa) | PL+DIM |
+| `lex:compass` | kersinita (ker.si.ni.ta) | PL+AUG |
+| `lex:compass` | kersiwata (ker.si.wa.ta) | DIM+AUG |
+| `lex:compass` | kersiniwata (ker.si.ni.wa.ta) | PL+DIM+AUG |
+| `lex:mirror` | ripi (ri.pi) | CIT |
+| `lex:mirror` | ripini (ri.pi.ni) | PL |
+| `lex:mirror` | ripile (ri.pi.le) | DIM |
+| `lex:mirror` | ripilu (ri.pi.lu) | AUG |
+| `lex:mirror` | ripinile (ri.pi.ni.le) | PL+DIM |
+| `lex:mirror` | ripinilu (ri.pi.ni.lu) | PL+AUG |
+| `lex:mirror` | ripilelu (ri.pi.le.lu) | DIM+AUG |
+| `lex:mirror` | ripinilelu (ri.pi.ni.le.lu) | PL+DIM+AUG |
+| `lex:latch` | pihok (pi.hok) | CIT |
+| `lex:latch` | pihokni (pi.hok.ni) | PL |
+| `lex:latch` | pihokwa (pi.hok.wa) | DIM |
+| `lex:latch` | pihokta (pi.hok.ta) | AUG |
+| `lex:latch` | pihokniwa (pi.hok.ni.wa) | PL+DIM |
+| `lex:latch` | pihoknita (pi.hok.ni.ta) | PL+AUG |
+| `lex:latch` | pihokwata (pi.hok.wa.ta) | DIM+AUG |
+| `lex:latch` | pihokniwata (pi.hok.ni.wa.ta) | PL+DIM+AUG |
+| `lex:gate` | lahase (la.ha.se) | CIT |
+| `lex:gate` | lahaseni (la.ha.se.ni) | PL |
+| `lex:gate` | lahasele (la.ha.se.le) | DIM |
+| `lex:gate` | lahaselu (la.ha.se.lu) | AUG |
+| `lex:gate` | lahasenile (la.ha.se.ni.le) | PL+DIM |
+| `lex:gate` | lahasenilu (la.ha.se.ni.lu) | PL+AUG |
+| `lex:gate` | lahaselelu (la.ha.se.le.lu) | DIM+AUG |
+| `lex:gate` | lahasenilelu (la.ha.se.ni.le.lu) | PL+DIM+AUG |
+| `lex:shutter` | kos (kos) | CIT |
+| `lex:shutter` | kosni (kos.ni) | PL |
+| `lex:shutter` | koswa (kos.wa) | DIM |
+| `lex:shutter` | kosta (kos.ta) | AUG |
+| `lex:shutter` | kosniwa (kos.ni.wa) | PL+DIM |
+| `lex:shutter` | kosnita (kos.ni.ta) | PL+AUG |
+| `lex:shutter` | koswata (kos.wa.ta) | DIM+AUG |
+| `lex:shutter` | kosniwata (kos.ni.wa.ta) | PL+DIM+AUG |
+| `lex:pedestal` | rew (rew) | CIT |
+| `lex:pedestal` | rewni (rew.ni) | PL |
+| `lex:pedestal` | rewle (rew.le) | DIM |
+| `lex:pedestal` | rewlu (rew.lu) | AUG |
+| `lex:pedestal` | rewnile (rew.ni.le) | PL+DIM |
+| `lex:pedestal` | rewnilu (rew.ni.lu) | PL+AUG |
+| `lex:pedestal` | rewlelu (rew.le.lu) | DIM+AUG |
+| `lex:pedestal` | rewnilelu (rew.ni.le.lu) | PL+DIM+AUG |
+| `lex:beacon` | lewes (le.wes) | CIT |
+| `lex:beacon` | lewesni (le.wes.ni) | PL |
+| `lex:beacon` | leweswa (le.wes.wa) | DIM |
+| `lex:beacon` | lewesta (le.wes.ta) | AUG |
+| `lex:beacon` | lewesniwa (le.wes.ni.wa) | PL+DIM |
+| `lex:beacon` | lewesnita (le.wes.ni.ta) | PL+AUG |
+| `lex:beacon` | leweswata (le.wes.wa.ta) | DIM+AUG |
+| `lex:beacon` | lewesniwata (le.wes.ni.wa.ta) | PL+DIM+AUG |
+| `lex:pouch` | neho (ne.ho) | CIT |
+| `lex:pouch` | nehoni (ne.ho.ni) | PL |
+| `lex:pouch` | nehole (ne.ho.le) | DIM |
+| `lex:pouch` | neholu (ne.ho.lu) | AUG |
+| `lex:pouch` | nehonile (ne.ho.ni.le) | PL+DIM |
+| `lex:pouch` | nehonilu (ne.ho.ni.lu) | PL+AUG |
+| `lex:pouch` | neholelu (ne.ho.le.lu) | DIM+AUG |
+| `lex:pouch` | nehonilelu (ne.ho.ni.le.lu) | PL+DIM+AUG |
+| `lex:varnish` | nahapsi (na.hap.si) | CIT |
+| `lex:varnish` | nahapsini (na.hap.si.ni) | PL |
+| `lex:varnish` | nahapsiwa (na.hap.si.wa) | DIM |
+| `lex:varnish` | nahapsita (na.hap.si.ta) | AUG |
+| `lex:varnish` | nahapsiniwa (na.hap.si.ni.wa) | PL+DIM |
+| `lex:varnish` | nahapsinita (na.hap.si.ni.ta) | PL+AUG |
+| `lex:varnish` | nahapsiwata (na.hap.si.wa.ta) | DIM+AUG |
+| `lex:varnish` | nahapsiniwata (na.hap.si.ni.wa.ta) | PL+DIM+AUG |
+| `lex:oil` | kela (ke.la) | CIT |
+| `lex:oil` | kelani (ke.la.ni) | PL |
+| `lex:oil` | kelale (ke.la.le) | DIM |
+| `lex:oil` | kelalu (ke.la.lu) | AUG |
+| `lex:oil` | kelanile (ke.la.ni.le) | PL+DIM |
+| `lex:oil` | kelanilu (ke.la.ni.lu) | PL+AUG |
+| `lex:oil` | kelalelu (ke.la.le.lu) | DIM+AUG |
+| `lex:oil` | kelanilelu (ke.la.ni.le.lu) | PL+DIM+AUG |
+| `lex:oilcloth` | sawiha (sa.wi.ha) | CIT |
+| `lex:oilcloth` | sawihani (sa.wi.ha.ni) | PL |
+| `lex:oilcloth` | sawihawa (sa.wi.ha.wa) | DIM |
+| `lex:oilcloth` | sawihata (sa.wi.ha.ta) | AUG |
+| `lex:oilcloth` | sawihaniwa (sa.wi.ha.ni.wa) | PL+DIM |
+| `lex:oilcloth` | sawihanita (sa.wi.ha.ni.ta) | PL+AUG |
+| `lex:oilcloth` | sawihawata (sa.wi.ha.wa.ta) | DIM+AUG |
+| `lex:oilcloth` | sawihaniwata (sa.wi.ha.ni.wa.ta) | PL+DIM+AUG |
+| `lex:ammunition` | sit (sit) | CIT |
+| `lex:ammunition` | sitni (sit.ni) | PL |
+| `lex:ammunition` | sitle (sit.le) | DIM |
+| `lex:ammunition` | sitlu (sit.lu) | AUG |
+| `lex:ammunition` | sitnile (sit.ni.le) | PL+DIM |
+| `lex:ammunition` | sitnilu (sit.ni.lu) | PL+AUG |
+| `lex:ammunition` | sitlelu (sit.le.lu) | DIM+AUG |
+| `lex:ammunition` | sitnilelu (sit.ni.le.lu) | PL+DIM+AUG |
+| `lex:frame` | pum (pum) | CIT |
+| `lex:frame` | pumni (pum.ni) | PL |
+| `lex:frame` | pumwa (pum.wa) | DIM |
+| `lex:frame` | pumta (pum.ta) | AUG |
+| `lex:frame` | pumniwa (pum.ni.wa) | PL+DIM |
+| `lex:frame` | pumnita (pum.ni.ta) | PL+AUG |
+| `lex:frame` | pumwata (pum.wa.ta) | DIM+AUG |
+| `lex:frame` | pumniwata (pum.ni.wa.ta) | PL+DIM+AUG |
+| `lex:handle` | mam (mam) | CIT |
+| `lex:handle` | mamni (mam.ni) | PL |
+| `lex:handle` | mamle (mam.le) | DIM |
+| `lex:handle` | mamlu (mam.lu) | AUG |
+| `lex:handle` | mamnile (mam.ni.le) | PL+DIM |
+| `lex:handle` | mamnilu (mam.ni.lu) | PL+AUG |
+| `lex:handle` | mamlelu (mam.le.lu) | DIM+AUG |
+| `lex:handle` | mamnilelu (mam.ni.le.lu) | PL+DIM+AUG |
+| `lex:blade` | womwo (wom.wo) | CIT |
+| `lex:blade` | womwoni (wom.wo.ni) | PL |
+| `lex:blade` | womwowa (wom.wo.wa) | DIM |
+| `lex:blade` | womwota (wom.wo.ta) | AUG |
+| `lex:blade` | womwoniwa (wom.wo.ni.wa) | PL+DIM |
+| `lex:blade` | womwonita (wom.wo.ni.ta) | PL+AUG |
+| `lex:blade` | womwowata (wom.wo.wa.ta) | DIM+AUG |
+| `lex:blade` | womwoniwata (wom.wo.ni.wa.ta) | PL+DIM+AUG |
+| `lex:mind` | mene (me.ne) | CIT |
+| `lex:mind` | meneni (me.ne.ni) | PL |
+| `lex:mind` | menele (me.ne.le) | DIM |
+| `lex:mind` | menelu (me.ne.lu) | AUG |
+| `lex:mind` | menenile (me.ne.ni.le) | PL+DIM |
+| `lex:mind` | menenilu (me.ne.ni.lu) | PL+AUG |
+| `lex:mind` | menelelu (me.ne.le.lu) | DIM+AUG |
+| `lex:mind` | menenilelu (me.ne.ni.le.lu) | PL+DIM+AUG |
+| `lex:memory` | tat (tat) | CIT |
+| `lex:memory` | tatni (tat.ni) | PL |
+| `lex:memory` | tatwa (tat.wa) | DIM |
+| `lex:memory` | tatta (tat.ta) | AUG |
+| `lex:memory` | tatniwa (tat.ni.wa) | PL+DIM |
+| `lex:memory` | tatnita (tat.ni.ta) | PL+AUG |
+| `lex:memory` | tatwata (tat.wa.ta) | DIM+AUG |
+| `lex:memory` | tatniwata (tat.ni.wa.ta) | PL+DIM+AUG |
+| `lex:thought` | ner (ner) | CIT |
+| `lex:thought` | nerni (ner.ni) | PL |
+| `lex:thought` | nerle (ner.le) | DIM |
+| `lex:thought` | nerlu (ner.lu) | AUG |
+| `lex:thought` | nernile (ner.ni.le) | PL+DIM |
+| `lex:thought` | nernilu (ner.ni.lu) | PL+AUG |
+| `lex:thought` | nerlelu (ner.le.lu) | DIM+AUG |
+| `lex:thought` | nernilelu (ner.ni.le.lu) | PL+DIM+AUG |
+| `lex:mood` | nup (nup) | CIT |
+| `lex:mood` | nupni (nup.ni) | PL |
+| `lex:mood` | nupwa (nup.wa) | DIM |
+| `lex:mood` | nupta (nup.ta) | AUG |
+| `lex:mood` | nupniwa (nup.ni.wa) | PL+DIM |
+| `lex:mood` | nupnita (nup.ni.ta) | PL+AUG |
+| `lex:mood` | nupwata (nup.wa.ta) | DIM+AUG |
+| `lex:mood` | nupniwata (nup.ni.wa.ta) | PL+DIM+AUG |
+| `lex:chance` | rip (rip) | CIT |
+| `lex:chance` | ripni (rip.ni) | PL |
+| `lex:chance` | riple (rip.le) | DIM |
+| `lex:chance` | riplu (rip.lu) | AUG |
+| `lex:chance` | ripnile (rip.ni.le) | PL+DIM |
+| `lex:chance` | ripnilu (rip.ni.lu) | PL+AUG |
+| `lex:chance` | riplelu (rip.le.lu) | DIM+AUG |
+| `lex:chance` | ripnilelu (rip.ni.le.lu) | PL+DIM+AUG |
+| `lex:permission` | tanhirmo (tan.hir.mo) | CIT |
+| `lex:permission` | tanhirmoni (tan.hir.mo.ni) | PL |
+| `lex:permission` | tanhirmowa (tan.hir.mo.wa) | DIM |
+| `lex:permission` | tanhirmota (tan.hir.mo.ta) | AUG |
+| `lex:permission` | tanhirmoniwa (tan.hir.mo.ni.wa) | PL+DIM |
+| `lex:permission` | tanhirmonita (tan.hir.mo.ni.ta) | PL+AUG |
+| `lex:permission` | tanhirmowata (tan.hir.mo.wa.ta) | DIM+AUG |
+| `lex:permission` | tanhirmoniwata (tan.hir.mo.ni.wa.ta) | PL+DIM+AUG |
+| `lex:history` | ropa (ro.pa) | CIT |
+| `lex:history` | ropani (ro.pa.ni) | PL |
+| `lex:history` | ropale (ro.pa.le) | DIM |
+| `lex:history` | ropalu (ro.pa.lu) | AUG |
+| `lex:history` | ropanile (ro.pa.ni.le) | PL+DIM |
+| `lex:history` | ropanilu (ro.pa.ni.lu) | PL+AUG |
+| `lex:history` | ropalelu (ro.pa.le.lu) | DIM+AUG |
+| `lex:history` | ropanilelu (ro.pa.ni.le.lu) | PL+DIM+AUG |
+| `lex:future` | hesso (hes.so) | CIT |
+| `lex:future` | hessoni (hes.so.ni) | PL |
+| `lex:future` | hessowa (hes.so.wa) | DIM |
+| `lex:future` | hessota (hes.so.ta) | AUG |
+| `lex:future` | hessoniwa (hes.so.ni.wa) | PL+DIM |
+| `lex:future` | hessonita (hes.so.ni.ta) | PL+AUG |
+| `lex:future` | hessowata (hes.so.wa.ta) | DIM+AUG |
+| `lex:future` | hessoniwata (hes.so.ni.wa.ta) | PL+DIM+AUG |
+| `lex:present` | molpoloh (mol.po.loh) | CIT |
+| `lex:present` | molpolohni (mol.po.loh.ni) | PL |
+| `lex:present` | molpolohle (mol.po.loh.le) | DIM |
+| `lex:present` | molpolohlu (mol.po.loh.lu) | AUG |
+| `lex:present` | molpolohnile (mol.po.loh.ni.le) | PL+DIM |
+| `lex:present` | molpolohnilu (mol.po.loh.ni.lu) | PL+AUG |
+| `lex:present` | molpolohlelu (mol.po.loh.le.lu) | DIM+AUG |
+| `lex:present` | molpolohnilelu (mol.po.loh.ni.le.lu) | PL+DIM+AUG |
+| `lex:understanding` | nowsa (now.sa) | CIT |
+| `lex:understanding` | nowsani (now.sa.ni) | PL |
+| `lex:understanding` | nowsawa (now.sa.wa) | DIM |
+| `lex:understanding` | nowsata (now.sa.ta) | AUG |
+| `lex:understanding` | nowsaniwa (now.sa.ni.wa) | PL+DIM |
+| `lex:understanding` | nowsanita (now.sa.ni.ta) | PL+AUG |
+| `lex:understanding` | nowsawata (now.sa.wa.ta) | DIM+AUG |
+| `lex:understanding` | nowsaniwata (now.sa.ni.wa.ta) | PL+DIM+AUG |
+| `lex:presence` | norus (no.rus) | CIT |
+| `lex:presence` | norusni (no.rus.ni) | PL |
+| `lex:presence` | norusle (no.rus.le) | DIM |
+| `lex:presence` | noruslu (no.rus.lu) | AUG |
+| `lex:presence` | norusnile (no.rus.ni.le) | PL+DIM |
+| `lex:presence` | norusnilu (no.rus.ni.lu) | PL+AUG |
+| `lex:presence` | noruslelu (no.rus.le.lu) | DIM+AUG |
+| `lex:presence` | norusnilelu (no.rus.ni.le.lu) | PL+DIM+AUG |
+| `lex:reality` | wawe (wa.we) | CIT |
+| `lex:reality` | waweni (wa.we.ni) | PL |
+| `lex:reality` | wawewa (wa.we.wa) | DIM |
+| `lex:reality` | waweta (wa.we.ta) | AUG |
+| `lex:reality` | waweniwa (wa.we.ni.wa) | PL+DIM |
+| `lex:reality` | wawenita (wa.we.ni.ta) | PL+AUG |
+| `lex:reality` | wawewata (wa.we.wa.ta) | DIM+AUG |
+| `lex:reality` | waweniwata (wa.we.ni.wa.ta) | PL+DIM+AUG |
+| `lex:grief` | mopohwer (mo.poh.wer) | CIT |
+| `lex:grief` | mopohwerni (mo.poh.wer.ni) | PL |
+| `lex:grief` | mopohwerle (mo.poh.wer.le) | DIM |
+| `lex:grief` | mopohwerlu (mo.poh.wer.lu) | AUG |
+| `lex:grief` | mopohwernile (mo.poh.wer.ni.le) | PL+DIM |
+| `lex:grief` | mopohwernilu (mo.poh.wer.ni.lu) | PL+AUG |
+| `lex:grief` | mopohwerlelu (mo.poh.wer.le.lu) | DIM+AUG |
+| `lex:grief` | mopohwernilelu (mo.poh.wer.ni.le.lu) | PL+DIM+AUG |
+| `lex:exhaustion` | latanil (la.ta.nil) | CIT |
+| `lex:exhaustion` | latanilni (la.ta.nil.ni) | PL |
+| `lex:exhaustion` | latanilwa (la.ta.nil.wa) | DIM |
+| `lex:exhaustion` | latanilta (la.ta.nil.ta) | AUG |
+| `lex:exhaustion` | latanilniwa (la.ta.nil.ni.wa) | PL+DIM |
+| `lex:exhaustion` | latanilnita (la.ta.nil.ni.ta) | PL+AUG |
+| `lex:exhaustion` | latanilwata (la.ta.nil.wa.ta) | DIM+AUG |
+| `lex:exhaustion` | latanilniwata (la.ta.nil.ni.wa.ta) | PL+DIM+AUG |
+| `lex:burden` | pusi (pu.si) | CIT |
+| `lex:burden` | pusini (pu.si.ni) | PL |
+| `lex:burden` | pusile (pu.si.le) | DIM |
+| `lex:burden` | pusilu (pu.si.lu) | AUG |
+| `lex:burden` | pusinile (pu.si.ni.le) | PL+DIM |
+| `lex:burden` | pusinilu (pu.si.ni.lu) | PL+AUG |
+| `lex:burden` | pusilelu (pu.si.le.lu) | DIM+AUG |
+| `lex:burden` | pusinilelu (pu.si.ni.le.lu) | PL+DIM+AUG |
+| `lex:pressure` | menamto (me.nam.to) | CIT |
+| `lex:pressure` | menamtoni (me.nam.to.ni) | PL |
+| `lex:pressure` | menamtowa (me.nam.to.wa) | DIM |
+| `lex:pressure` | menamtota (me.nam.to.ta) | AUG |
+| `lex:pressure` | menamtoniwa (me.nam.to.ni.wa) | PL+DIM |
+| `lex:pressure` | menamtonita (me.nam.to.ni.ta) | PL+AUG |
+| `lex:pressure` | menamtowata (me.nam.to.wa.ta) | DIM+AUG |
+| `lex:pressure` | menamtoniwata (me.nam.to.ni.wa.ta) | PL+DIM+AUG |
+| `lex:urge` | lomsok (lom.sok) | CIT |
+| `lex:urge` | lomsokni (lom.sok.ni) | PL |
+| `lex:urge` | lomsokle (lom.sok.le) | DIM |
+| `lex:urge` | lomsoklu (lom.sok.lu) | AUG |
+| `lex:urge` | lomsoknile (lom.sok.ni.le) | PL+DIM |
+| `lex:urge` | lomsoknilu (lom.sok.ni.lu) | PL+AUG |
+| `lex:urge` | lomsoklelu (lom.sok.le.lu) | DIM+AUG |
+| `lex:urge` | lomsoknilelu (lom.sok.ni.le.lu) | PL+DIM+AUG |
+| `lex:knack` | wohem (wo.hem) | CIT |
+| `lex:knack` | wohemni (wo.hem.ni) | PL |
+| `lex:knack` | wohemwa (wo.hem.wa) | DIM |
+| `lex:knack` | wohemta (wo.hem.ta) | AUG |
+| `lex:knack` | wohemniwa (wo.hem.ni.wa) | PL+DIM |
+| `lex:knack` | wohemnita (wo.hem.ni.ta) | PL+AUG |
+| `lex:knack` | wohemwata (wo.hem.wa.ta) | DIM+AUG |
+| `lex:knack` | wohemniwata (wo.hem.ni.wa.ta) | PL+DIM+AUG |
+| `lex:silence` | sot (sot) | CIT |
+| `lex:silence` | sotni (sot.ni) | PL |
+| `lex:silence` | sotle (sot.le) | DIM |
+| `lex:silence` | sotlu (sot.lu) | AUG |
+| `lex:silence` | sotnile (sot.ni.le) | PL+DIM |
+| `lex:silence` | sotnilu (sot.ni.lu) | PL+AUG |
+| `lex:silence` | sotlelu (sot.le.lu) | DIM+AUG |
+| `lex:silence` | sotnilelu (sot.ni.le.lu) | PL+DIM+AUG |
+| `lex:sound` | nemso (nem.so) | CIT |
+| `lex:sound` | nemsoni (nem.so.ni) | PL |
+| `lex:sound` | nemsowa (nem.so.wa) | DIM |
+| `lex:sound` | nemsota (nem.so.ta) | AUG |
+| `lex:sound` | nemsoniwa (nem.so.ni.wa) | PL+DIM |
+| `lex:sound` | nemsonita (nem.so.ni.ta) | PL+AUG |
+| `lex:sound` | nemsowata (nem.so.wa.ta) | DIM+AUG |
+| `lex:sound` | nemsoniwata (nem.so.ni.wa.ta) | PL+DIM+AUG |
+| `lex:noise` | renuh (re.nuh) | CIT |
+| `lex:noise` | renuhni (re.nuh.ni) | PL |
+| `lex:noise` | renuhle (re.nuh.le) | DIM |
+| `lex:noise` | renuhlu (re.nuh.lu) | AUG |
+| `lex:noise` | renuhnile (re.nuh.ni.le) | PL+DIM |
+| `lex:noise` | renuhnilu (re.nuh.ni.lu) | PL+AUG |
+| `lex:noise` | renuhlelu (re.nuh.le.lu) | DIM+AUG |
+| `lex:noise` | renuhnilelu (re.nuh.ni.le.lu) | PL+DIM+AUG |
+| `lex:hum` | wullanhu (wul.lan.hu) | CIT |
+| `lex:hum` | wullanhuni (wul.lan.hu.ni) | PL |
+| `lex:hum` | wullanhuwa (wul.lan.hu.wa) | DIM |
+| `lex:hum` | wullanhuta (wul.lan.hu.ta) | AUG |
+| `lex:hum` | wullanhuniwa (wul.lan.hu.ni.wa) | PL+DIM |
+| `lex:hum` | wullanhunita (wul.lan.hu.ni.ta) | PL+AUG |
+| `lex:hum` | wullanhuwata (wul.lan.hu.wa.ta) | DIM+AUG |
+| `lex:hum` | wullanhuniwata (wul.lan.hu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:handwriting` | pew (pew) | CIT |
+| `lex:handwriting` | pewni (pew.ni) | PL |
+| `lex:handwriting` | pewle (pew.le) | DIM |
+| `lex:handwriting` | pewlu (pew.lu) | AUG |
+| `lex:handwriting` | pewnile (pew.ni.le) | PL+DIM |
+| `lex:handwriting` | pewnilu (pew.ni.lu) | PL+AUG |
+| `lex:handwriting` | pewlelu (pew.le.lu) | DIM+AUG |
+| `lex:handwriting` | pewnilelu (pew.ni.le.lu) | PL+DIM+AUG |
+| `lex:manifesto` | te (te) | CIT |
+| `lex:manifesto` | teni (te.ni) | PL |
+| `lex:manifesto` | tewa (te.wa) | DIM |
+| `lex:manifesto` | teta (te.ta) | AUG |
+| `lex:manifesto` | teniwa (te.ni.wa) | PL+DIM |
+| `lex:manifesto` | tenita (te.ni.ta) | PL+AUG |
+| `lex:manifesto` | tewata (te.wa.ta) | DIM+AUG |
+| `lex:manifesto` | teniwata (te.ni.wa.ta) | PL+DIM+AUG |
+| `lex:log` | nili (ni.li) | CIT |
+| `lex:log` | nilini (ni.li.ni) | PL |
+| `lex:log` | nilile (ni.li.le) | DIM |
+| `lex:log` | nililu (ni.li.lu) | AUG |
+| `lex:log` | nilinile (ni.li.ni.le) | PL+DIM |
+| `lex:log` | nilinilu (ni.li.ni.lu) | PL+AUG |
+| `lex:log` | nililelu (ni.li.le.lu) | DIM+AUG |
+| `lex:log` | nilinilelu (ni.li.ni.le.lu) | PL+DIM+AUG |
+| `lex:journey` | miwpomu (miw.po.mu) | CIT |
+| `lex:journey` | miwpomuni (miw.po.mu.ni) | PL |
+| `lex:journey` | miwpomuwa (miw.po.mu.wa) | DIM |
+| `lex:journey` | miwpomuta (miw.po.mu.ta) | AUG |
+| `lex:journey` | miwpomuniwa (miw.po.mu.ni.wa) | PL+DIM |
+| `lex:journey` | miwpomunita (miw.po.mu.ni.ta) | PL+AUG |
+| `lex:journey` | miwpomuwata (miw.po.mu.wa.ta) | DIM+AUG |
+| `lex:journey` | miwpomuniwata (miw.po.mu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:project` | tinwensa (tin.wen.sa) | CIT |
+| `lex:project` | tinwensani (tin.wen.sa.ni) | PL |
+| `lex:project` | tinwensale (tin.wen.sa.le) | DIM |
+| `lex:project` | tinwensalu (tin.wen.sa.lu) | AUG |
+| `lex:project` | tinwensanile (tin.wen.sa.ni.le) | PL+DIM |
+| `lex:project` | tinwensanilu (tin.wen.sa.ni.lu) | PL+AUG |
+| `lex:project` | tinwensalelu (tin.wen.sa.le.lu) | DIM+AUG |
+| `lex:project` | tinwensanilelu (tin.wen.sa.ni.le.lu) | PL+DIM+AUG |
+| `lex:task` | lunse (lun.se) | CIT |
+| `lex:task` | lunseni (lun.se.ni) | PL |
+| `lex:task` | lunsewa (lun.se.wa) | DIM |
+| `lex:task` | lunseta (lun.se.ta) | AUG |
+| `lex:task` | lunseniwa (lun.se.ni.wa) | PL+DIM |
+| `lex:task` | lunsenita (lun.se.ni.ta) | PL+AUG |
+| `lex:task` | lunsewata (lun.se.wa.ta) | DIM+AUG |
+| `lex:task` | lunseniwata (lun.se.ni.wa.ta) | PL+DIM+AUG |
+| `lex:drama` | sopotwa (so.pot.wa) | CIT |
+| `lex:drama` | sopotwani (so.pot.wa.ni) | PL |
+| `lex:drama` | sopotwale (so.pot.wa.le) | DIM |
+| `lex:drama` | sopotwalu (so.pot.wa.lu) | AUG |
+| `lex:drama` | sopotwanile (so.pot.wa.ni.le) | PL+DIM |
+| `lex:drama` | sopotwanilu (so.pot.wa.ni.lu) | PL+AUG |
+| `lex:drama` | sopotwalelu (so.pot.wa.le.lu) | DIM+AUG |
+| `lex:drama` | sopotwanilelu (so.pot.wa.ni.le.lu) | PL+DIM+AUG |
+| `lex:pattern` | kenon (ke.non) | CIT |
+| `lex:pattern` | kenonni (ke.non.ni) | PL |
+| `lex:pattern` | kenonwa (ke.non.wa) | DIM |
+| `lex:pattern` | kenonta (ke.non.ta) | AUG |
+| `lex:pattern` | kenonniwa (ke.non.ni.wa) | PL+DIM |
+| `lex:pattern` | kenonnita (ke.non.ni.ta) | PL+AUG |
+| `lex:pattern` | kenonwata (ke.non.wa.ta) | DIM+AUG |
+| `lex:pattern` | kenonniwata (ke.non.ni.wa.ta) | PL+DIM+AUG |
+| `lex:behaviour` | wisto (wis.to) | CIT |
+| `lex:behaviour` | wistoni (wis.to.ni) | PL |
+| `lex:behaviour` | wistole (wis.to.le) | DIM |
+| `lex:behaviour` | wistolu (wis.to.lu) | AUG |
+| `lex:behaviour` | wistonile (wis.to.ni.le) | PL+DIM |
+| `lex:behaviour` | wistonilu (wis.to.ni.lu) | PL+AUG |
+| `lex:behaviour` | wistolelu (wis.to.le.lu) | DIM+AUG |
+| `lex:behaviour` | wistonilelu (wis.to.ni.le.lu) | PL+DIM+AUG |
+| `lex:design` | kut (kut) | CIT |
+| `lex:design` | kutni (kut.ni) | PL |
+| `lex:design` | kutwa (kut.wa) | DIM |
+| `lex:design` | kutta (kut.ta) | AUG |
+| `lex:design` | kutniwa (kut.ni.wa) | PL+DIM |
+| `lex:design` | kutnita (kut.ni.ta) | PL+AUG |
+| `lex:design` | kutwata (kut.wa.ta) | DIM+AUG |
+| `lex:design` | kutniwata (kut.ni.wa.ta) | PL+DIM+AUG |
+| `lex:weight` | rutwaksoh (rut.wak.soh) | CIT |
+| `lex:weight` | rutwaksohni (rut.wak.soh.ni) | PL |
+| `lex:weight` | rutwaksohle (rut.wak.soh.le) | DIM |
+| `lex:weight` | rutwaksohlu (rut.wak.soh.lu) | AUG |
+| `lex:weight` | rutwaksohnile (rut.wak.soh.ni.le) | PL+DIM |
+| `lex:weight` | rutwaksohnilu (rut.wak.soh.ni.lu) | PL+AUG |
+| `lex:weight` | rutwaksohlelu (rut.wak.soh.le.lu) | DIM+AUG |
+| `lex:weight` | rutwaksohnilelu (rut.wak.soh.ni.le.lu) | PL+DIM+AUG |
+| `lex:space` | hew (hew) | CIT |
+| `lex:space` | hewni (hew.ni) | PL |
+| `lex:space` | hewwa (hew.wa) | DIM |
+| `lex:space` | hewta (hew.ta) | AUG |
+| `lex:space` | hewniwa (hew.ni.wa) | PL+DIM |
+| `lex:space` | hewnita (hew.ni.ta) | PL+AUG |
+| `lex:space` | hewwata (hew.wa.ta) | DIM+AUG |
+| `lex:space` | hewniwata (hew.ni.wa.ta) | PL+DIM+AUG |
+| `lex:edge` | len (len) | CIT |
+| `lex:edge` | lenni (len.ni) | PL |
+| `lex:edge` | lenle (len.le) | DIM |
+| `lex:edge` | lenlu (len.lu) | AUG |
+| `lex:edge` | lennile (len.ni.le) | PL+DIM |
+| `lex:edge` | lennilu (len.ni.lu) | PL+AUG |
+| `lex:edge` | lenlelu (len.le.lu) | DIM+AUG |
+| `lex:edge` | lennilelu (len.ni.le.lu) | PL+DIM+AUG |
+| `lex:centre` | teko (te.ko) | CIT |
+| `lex:centre` | tekoni (te.ko.ni) | PL |
+| `lex:centre` | tekowa (te.ko.wa) | DIM |
+| `lex:centre` | tekota (te.ko.ta) | AUG |
+| `lex:centre` | tekoniwa (te.ko.ni.wa) | PL+DIM |
+| `lex:centre` | tekonita (te.ko.ni.ta) | PL+AUG |
+| `lex:centre` | tekowata (te.ko.wa.ta) | DIM+AUG |
+| `lex:centre` | tekoniwata (te.ko.ni.wa.ta) | PL+DIM+AUG |
+| `lex:base` | nunwulti (nun.wul.ti) | CIT |
+| `lex:base` | nunwultini (nun.wul.ti.ni) | PL |
+| `lex:base` | nunwultile (nun.wul.ti.le) | DIM |
+| `lex:base` | nunwultilu (nun.wul.ti.lu) | AUG |
+| `lex:base` | nunwultinile (nun.wul.ti.ni.le) | PL+DIM |
+| `lex:base` | nunwultinilu (nun.wul.ti.ni.lu) | PL+AUG |
+| `lex:base` | nunwultilelu (nun.wul.ti.le.lu) | DIM+AUG |
+| `lex:base` | nunwultinilelu (nun.wul.ti.ni.le.lu) | PL+DIM+AUG |
+| `lex:top` | komel (ko.mel) | CIT |
+| `lex:top` | komelni (ko.mel.ni) | PL |
+| `lex:top` | komelwa (ko.mel.wa) | DIM |
+| `lex:top` | komelta (ko.mel.ta) | AUG |
+| `lex:top` | komelniwa (ko.mel.ni.wa) | PL+DIM |
+| `lex:top` | komelnita (ko.mel.ni.ta) | PL+AUG |
+| `lex:top` | komelwata (ko.mel.wa.ta) | DIM+AUG |
+| `lex:top` | komelniwata (ko.mel.ni.wa.ta) | PL+DIM+AUG |
+| `lex:layer` | hewo (he.wo) | CIT |
+| `lex:layer` | hewoni (he.wo.ni) | PL |
+| `lex:layer` | hewole (he.wo.le) | DIM |
+| `lex:layer` | hewolu (he.wo.lu) | AUG |
+| `lex:layer` | hewonile (he.wo.ni.le) | PL+DIM |
+| `lex:layer` | hewonilu (he.wo.ni.lu) | PL+AUG |
+| `lex:layer` | hewolelu (he.wo.le.lu) | DIM+AUG |
+| `lex:layer` | hewonilelu (he.wo.ni.le.lu) | PL+DIM+AUG |
+| `lex:niche` | lotu (lo.tu) | CIT |
+| `lex:niche` | lotuni (lo.tu.ni) | PL |
+| `lex:niche` | lotuwa (lo.tu.wa) | DIM |
+| `lex:niche` | lotuta (lo.tu.ta) | AUG |
+| `lex:niche` | lotuniwa (lo.tu.ni.wa) | PL+DIM |
+| `lex:niche` | lotunita (lo.tu.ni.ta) | PL+AUG |
+| `lex:niche` | lotuwata (lo.tu.wa.ta) | DIM+AUG |
+| `lex:niche` | lotuniwata (lo.tu.ni.wa.ta) | PL+DIM+AUG |
+| `lex:ruin` | mamanpi (ma.man.pi) | CIT |
+| `lex:ruin` | mamanpini (ma.man.pi.ni) | PL |
+| `lex:ruin` | mamanpile (ma.man.pi.le) | DIM |
+| `lex:ruin` | mamanpilu (ma.man.pi.lu) | AUG |
+| `lex:ruin` | mamanpinile (ma.man.pi.ni.le) | PL+DIM |
+| `lex:ruin` | mamanpinilu (ma.man.pi.ni.lu) | PL+AUG |
+| `lex:ruin` | mamanpilelu (ma.man.pi.le.lu) | DIM+AUG |
+| `lex:ruin` | mamanpinilelu (ma.man.pi.ni.le.lu) | PL+DIM+AUG |
+| `lex:interior` | seku (se.ku) | CIT |
+| `lex:interior` | sekuni (se.ku.ni) | PL |
+| `lex:interior` | sekuwa (se.ku.wa) | DIM |
+| `lex:interior` | sekuta (se.ku.ta) | AUG |
+| `lex:interior` | sekuniwa (se.ku.ni.wa) | PL+DIM |
+| `lex:interior` | sekunita (se.ku.ni.ta) | PL+AUG |
+| `lex:interior` | sekuwata (se.ku.wa.ta) | DIM+AUG |
+| `lex:interior` | sekuniwata (se.ku.ni.wa.ta) | PL+DIM+AUG |
+| `lex:threshold` | huseso (hu.se.so) | CIT |
+| `lex:threshold` | husesoni (hu.se.so.ni) | PL |
+| `lex:threshold` | husesole (hu.se.so.le) | DIM |
+| `lex:threshold` | husesolu (hu.se.so.lu) | AUG |
+| `lex:threshold` | husesonile (hu.se.so.ni.le) | PL+DIM |
+| `lex:threshold` | husesonilu (hu.se.so.ni.lu) | PL+AUG |
+| `lex:threshold` | husesolelu (hu.se.so.le.lu) | DIM+AUG |
+| `lex:threshold` | husesonilelu (hu.se.so.ni.le.lu) | PL+DIM+AUG |
+| `lex:doorway` | toret (to.ret) | CIT |
+| `lex:doorway` | toretni (to.ret.ni) | PL |
+| `lex:doorway` | toretwa (to.ret.wa) | DIM |
+| `lex:doorway` | toretta (to.ret.ta) | AUG |
+| `lex:doorway` | toretniwa (to.ret.ni.wa) | PL+DIM |
+| `lex:doorway` | toretnita (to.ret.ni.ta) | PL+AUG |
+| `lex:doorway` | toretwata (to.ret.wa.ta) | DIM+AUG |
+| `lex:doorway` | toretniwata (to.ret.ni.wa.ta) | PL+DIM+AUG |
+| `lex:shaft` | nap (nap) | CIT |
+| `lex:shaft` | napni (nap.ni) | PL |
+| `lex:shaft` | naple (nap.le) | DIM |
+| `lex:shaft` | naplu (nap.lu) | AUG |
+| `lex:shaft` | napnile (nap.ni.le) | PL+DIM |
+| `lex:shaft` | napnilu (nap.ni.lu) | PL+AUG |
+| `lex:shaft` | naplelu (nap.le.lu) | DIM+AUG |
+| `lex:shaft` | napnilelu (nap.ni.le.lu) | PL+DIM+AUG |
+| `lex:grace` | tatnuk (tat.nuk) | CIT |
+| `lex:grace` | tatnukni (tat.nuk.ni) | PL |
+| `lex:grace` | tatnukwa (tat.nuk.wa) | DIM |
+| `lex:grace` | tatnukta (tat.nuk.ta) | AUG |
+| `lex:grace` | tatnukniwa (tat.nuk.ni.wa) | PL+DIM |
+| `lex:grace` | tatnuknita (tat.nuk.ni.ta) | PL+AUG |
+| `lex:grace` | tatnukwata (tat.nuk.wa.ta) | DIM+AUG |
+| `lex:grace` | tatnukniwata (tat.nuk.ni.wa.ta) | PL+DIM+AUG |
+| `lex:rhythm` | wita (wi.ta) | CIT |
+| `lex:rhythm` | witani (wi.ta.ni) | PL |
+| `lex:rhythm` | witale (wi.ta.le) | DIM |
+| `lex:rhythm` | witalu (wi.ta.lu) | AUG |
+| `lex:rhythm` | witanile (wi.ta.ni.le) | PL+DIM |
+| `lex:rhythm` | witanilu (wi.ta.ni.lu) | PL+AUG |
+| `lex:rhythm` | witalelu (wi.ta.le.lu) | DIM+AUG |
+| `lex:rhythm` | witanilelu (wi.ta.ni.le.lu) | PL+DIM+AUG |
+| `lex:stroke` | nuresa (nu.re.sa) | CIT |
+| `lex:stroke` | nuresani (nu.re.sa.ni) | PL |
+| `lex:stroke` | nuresawa (nu.re.sa.wa) | DIM |
+| `lex:stroke` | nuresata (nu.re.sa.ta) | AUG |
+| `lex:stroke` | nuresaniwa (nu.re.sa.ni.wa) | PL+DIM |
+| `lex:stroke` | nuresanita (nu.re.sa.ni.ta) | PL+AUG |
+| `lex:stroke` | nuresawata (nu.re.sa.wa.ta) | DIM+AUG |
+| `lex:stroke` | nuresaniwata (nu.re.sa.ni.wa.ta) | PL+DIM+AUG |
+| `lex:grip` | tekro (tek.ro) | CIT |
+| `lex:grip` | tekroni (tek.ro.ni) | PL |
+| `lex:grip` | tekrole (tek.ro.le) | DIM |
+| `lex:grip` | tekrolu (tek.ro.lu) | AUG |
+| `lex:grip` | tekronile (tek.ro.ni.le) | PL+DIM |
+| `lex:grip` | tekronilu (tek.ro.ni.lu) | PL+AUG |
+| `lex:grip` | tekrolelu (tek.ro.le.lu) | DIM+AUG |
+| `lex:grip` | tekronilelu (tek.ro.ni.le.lu) | PL+DIM+AUG |
+| `lex:initial` | rapi (ra.pi) | CIT |
+| `lex:initial` | rapini (ra.pi.ni) | PL |
+| `lex:initial` | rapiwa (ra.pi.wa) | DIM |
+| `lex:initial` | rapita (ra.pi.ta) | AUG |
+| `lex:initial` | rapiniwa (ra.pi.ni.wa) | PL+DIM |
+| `lex:initial` | rapinita (ra.pi.ni.ta) | PL+AUG |
+| `lex:initial` | rapiwata (ra.pi.wa.ta) | DIM+AUG |
+| `lex:initial` | rapiniwata (ra.pi.ni.wa.ta) | PL+DIM+AUG |
+| `lex:mile` | notut (no.tut) | CIT |
+| `lex:mile` | notutni (no.tut.ni) | PL |
+| `lex:mile` | notutle (no.tut.le) | DIM |
+| `lex:mile` | notutlu (no.tut.lu) | AUG |
+| `lex:mile` | notutnile (no.tut.ni.le) | PL+DIM |
+| `lex:mile` | notutnilu (no.tut.ni.lu) | PL+AUG |
+| `lex:mile` | notutlelu (no.tut.le.lu) | DIM+AUG |
+| `lex:mile` | notutnilelu (no.tut.ni.le.lu) | PL+DIM+AUG |
+| `lex:lot` | kiprat (kip.rat) | CIT |
+| `lex:lot` | kipratni (kip.rat.ni) | PL |
+| `lex:lot` | kipratwa (kip.rat.wa) | DIM |
+| `lex:lot` | kipratta (kip.rat.ta) | AUG |
+| `lex:lot` | kipratniwa (kip.rat.ni.wa) | PL+DIM |
+| `lex:lot` | kipratnita (kip.rat.ni.ta) | PL+AUG |
+| `lex:lot` | kipratwata (kip.rat.wa.ta) | DIM+AUG |
+| `lex:lot` | kipratniwata (kip.rat.ni.wa.ta) | PL+DIM+AUG |
+| `lex:tell` | leri (le.ri) | CIT |
+| `lex:tell` | lerirut (le.ri.rut) | PST |
+| `lex:tell` | haleri (ha.le.ri) | FUT |
+| `lex:tell` | lerilop (le.ri.lop) | PROG |
+| `lex:tell` | lerimu (le.ri.mu) | PERF |
+| `lex:tell` | halerirut (ha.le.ri.rut) | PST+FUT |
+| `lex:tell` | lerirutlop (le.ri.rut.lop) | PST+PROG |
+| `lex:tell` | lerirutmu (le.ri.rut.mu) | PST+PERF |
+| `lex:tell` | halerilop (ha.le.ri.lop) | FUT+PROG |
+| `lex:tell` | halerimu (ha.le.ri.mu) | FUT+PERF |
+| `lex:tell` | lerilopmu (le.ri.lop.mu) | PROG+PERF |
+| `lex:tell` | halerirutlop (ha.le.ri.rut.lop) | PST+FUT+PROG |
+| `lex:tell` | halerirutmu (ha.le.ri.rut.mu) | PST+FUT+PERF |
+| `lex:tell` | lerirutlopmu (le.ri.rut.lop.mu) | PST+PROG+PERF |
+| `lex:tell` | halerilopmu (ha.le.ri.lop.mu) | FUT+PROG+PERF |
+| `lex:tell` | halerirutlopmu (ha.le.ri.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:remember` | tepre (tep.re) | CIT |
+| `lex:remember` | tepremi (tep.re.mi) | PST |
+| `lex:remember` | wuhtepre (wuh.tep.re) | FUT |
+| `lex:remember` | teprelop (tep.re.lop) | PROG |
+| `lex:remember` | teprekoh (tep.re.koh) | PERF |
+| `lex:remember` | wuhtepremi (wuh.tep.re.mi) | PST+FUT |
+| `lex:remember` | tepremilop (tep.re.mi.lop) | PST+PROG |
+| `lex:remember` | tepremikoh (tep.re.mi.koh) | PST+PERF |
+| `lex:remember` | wuhteprelop (wuh.tep.re.lop) | FUT+PROG |
+| `lex:remember` | wuhteprekoh (wuh.tep.re.koh) | FUT+PERF |
+| `lex:remember` | teprelopkoh (tep.re.lop.koh) | PROG+PERF |
+| `lex:remember` | wuhtepremilop (wuh.tep.re.mi.lop) | PST+FUT+PROG |
+| `lex:remember` | wuhtepremikoh (wuh.tep.re.mi.koh) | PST+FUT+PERF |
+| `lex:remember` | tepremilopkoh (tep.re.mi.lop.koh) | PST+PROG+PERF |
+| `lex:remember` | wuhteprelopkoh (wuh.tep.re.lop.koh) | FUT+PROG+PERF |
+| `lex:remember` | wuhtepremilopkoh (wuh.tep.re.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:understand` | konarun (ko.na.run) | CIT |
+| `lex:understand` | konarunrut (ko.na.run.rut) | PST |
+| `lex:understand` | hakonarun (ha.ko.na.run) | FUT |
+| `lex:understand` | konarunlop (ko.na.run.lop) | PROG |
+| `lex:understand` | konarunmu (ko.na.run.mu) | PERF |
+| `lex:understand` | hakonarunrut (ha.ko.na.run.rut) | PST+FUT |
+| `lex:understand` | konarunrutlop (ko.na.run.rut.lop) | PST+PROG |
+| `lex:understand` | konarunrutmu (ko.na.run.rut.mu) | PST+PERF |
+| `lex:understand` | hakonarunlop (ha.ko.na.run.lop) | FUT+PROG |
+| `lex:understand` | hakonarunmu (ha.ko.na.run.mu) | FUT+PERF |
+| `lex:understand` | konarunlopmu (ko.na.run.lop.mu) | PROG+PERF |
+| `lex:understand` | hakonarunrutlop (ha.ko.na.run.rut.lop) | PST+FUT+PROG |
+| `lex:understand` | hakonarunrutmu (ha.ko.na.run.rut.mu) | PST+FUT+PERF |
+| `lex:understand` | konarunrutlopmu (ko.na.run.rut.lop.mu) | PST+PROG+PERF |
+| `lex:understand` | hakonarunlopmu (ha.ko.na.run.lop.mu) | FUT+PROG+PERF |
+| `lex:understand` | hakonarunrutlopmu (ha.ko.na.run.rut.lop.mu) | PST+FUT+PROG+PERF |
+| `lex:mean` | herlu (her.lu) | CIT |
+| `lex:mean` | herlumi (her.lu.mi) | PST |
+| `lex:mean` | wuhherlu (wuh.her.lu) | FUT |
+| `lex:mean` | herlulop (her.lu.lop) | PROG |
+| `lex:mean` | herlukoh (her.lu.koh) | PERF |
+| `lex:mean` | wuhherlumi (wuh.her.lu.mi) | PST+FUT |
+| `lex:mean` | herlumilop (her.lu.mi.lop) | PST+PROG |
+| `lex:mean` | herlumikoh (her.lu.mi.koh) | PST+PERF |
+| `lex:mean` | wuhherlulop (wuh.her.lu.lop) | FUT+PROG |
+| `lex:mean` | wuhherlukoh (wuh.her.lu.koh) | FUT+PERF |
+| `lex:mean` | herlulopkoh (her.lu.lop.koh) | PROG+PERF |
+| `lex:mean` | wuhherlumilop (wuh.her.lu.mi.lop) | PST+FUT+PROG |
+| `lex:mean` | wuhherlumikoh (wuh.her.lu.mi.koh) | PST+FUT+PERF |
+| `lex:mean` | herlumilopkoh (her.lu.mi.lop.koh) | PST+PROG+PERF |
+| `lex:mean` | wuhherlulopkoh (wuh.her.lu.lop.koh) | FUT+PROG+PERF |
+| `lex:mean` | wuhherlumilopkoh (wuh.her.lu.mi.lop.koh) | PST+FUT+PROG+PERF |
+| `lex:calm` | mekhotup (mek.ho.tup) | CIT |
+| `lex:quiet` | tis (tis) | CIT |
+| `lex:still` | sam (sam) | CIT |
+| `lex:motionless` | telpa (tel.pa) | CIT |
+| `lex:rhythmic` | lako (la.ko) | CIT |
+| `lex:distant` | sok (sok) | CIT |
+| `lex:melodic` | wohta (woh.ta) | CIT |
+| `lex:whitewashed` | nopmok (nop.mok) | CIT |
+| `lex:weathered` | lesen (le.sen) | CIT |
+| `lex:wild` | nurwanat (nur.wa.nat) | CIT |
+| `lex:vast` | teh (teh) | CIT |
+| `lex:glassy` | mumusi (mu.mu.si) | CIT |
+| `lex:persistent` | larir (la.rir) | CIT |
+| `lex:crisp` | kakaki (ka.ka.ki) | CIT |
+| `lex:worn` | moku (mo.ku) | CIT |
+| `lex:rough` | sihtoluw (sih.to.luw) | CIT |
+| `lex:observant` | res (res) | CIT |
+| `lex:soft` | womma (wom.ma) | CIT |
+| `lex:lone` | rot (rot) | CIT |
+| `lex:grateful` | so (so) | CIT |
+| `lex:shared` | renal (re.nal) | CIT |
+| `lex:narrow` | lip (lip) | CIT |
+| `lex:clear` | nusawtih (nu.saw.tih) | CIT |
+| `lex:deep` | sus (sus) | CIT |
+| `lex:thick` | rentu (ren.tu) | CIT |
+| `lex:cool` | tuwi (tu.wi) | CIT |
+| `lex:smooth` | pemuw (pe.muw) | CIT |
+| `lex:solid` | miku (mi.ku) | CIT |
+| `lex:broken` | kir (kir) | CIT |
+| `lex:neat` | kolim (ko.lim) | CIT |
+| `lex:meticulous` | tuko (tu.ko) | CIT |
+| `lex:physical` | mirakiw (mi.ra.kiw) | CIT |
+| `lex:simple` | karo (ka.ro) | CIT |
+| `lex:honest` | lut (lut) | CIT |
+| `lex:fresh` | mil (mil) | CIT |
+| `lex:frantic` | roliso (ro.li.so) | CIT |
+| `lex:overwhelming` | kane (ka.ne) | CIT |
+| `lex:manageable` | komlehsen (kom.leh.sen) | CIT |
+| `lex:comforting` | wepilo (we.pi.lo) | CIT |
+| `lex:steady` | rara (ra.ra) | CIT |
+| `lex:natural` | mawe (ma.we) | CIT |
+| `lex:gentle` | nehes (ne.hes) | CIT |
+| `lex:deliberate` | wenaw (we.naw) | CIT |
+| `lex:rusty` | sekpeh (sek.peh) | CIT |
+| `lex:gravelly` | kakun (ka.kun) | CIT |
+| `lex:overgrown` | meh (meh) | CIT |
+| `lex:craggy` | ritina (ri.ti.na) | CIT |
+| `lex:hollow` | lekro (lek.ro) | CIT |
+| `lex:grey` | wankutum (wan.ku.tum) | CIT |
+| `lex:arched` | was (was) | CIT |
+| `lex:protected` | nupu (nu.pu) | CIT |
+| `lex:unexpected` | manurno (ma.nur.no) | CIT |
+| `lex:stiff` | kohin (ko.hin) | CIT |
+| `lex:dense` | kassu (kas.su) | CIT |
+| `lex:elegant` | pela (pe.la) | CIT |
+| `lex:brilliant` | ser (ser) | CIT |
+| `lex:turquoise` | sul (sul) | CIT |
+| `lex:shallow` | mat (mat) | CIT |
+| `lex:visible` | lohe (lo.he) | CIT |
+| `lex:pristine` | wamroni (wam.ro.ni) | CIT |
+| `lex:complete` | nolti (nol.ti) | CIT |
+| `lex:marine` | tile (ti.le) | CIT |
+| `lex:rich` | wimilo (wi.mi.lo) | CIT |
+| `lex:frequent` | rasnu (ras.nu) | CIT |
+| `lex:sudden` | nima (ni.ma) | CIT |
+| `lex:familiar` | rorno (ror.no) | CIT |
+| `lex:faint` | newsowek (new.so.wek) | CIT |
+| `lex:ready` | rehhe (reh.he) | CIT |
+| `lex:perfect` | nuli (nu.li) | CIT |
+| `lex:coordinated` | pulumros (pu.lum.ros) | CIT |
+| `lex:welcoming` | lalu (la.lu) | CIT |
+| `lex:alive` | tus (tus) | CIT |
+| `lex:loud` | sa (sa) | CIT |
+| `lex:best` | runpepta (run.pep.ta) | CIT |
+| `lex:i` | wippu (wip.pu) | CIT |
+| `lex:you` | simo (si.mo) | CIT |
+| `lex:he` | leka (le.ka) | CIT |
+| `lex:she` | nakwehsir (nak.weh.sir) | CIT |
+| `lex:it` | nuwuwneh (nu.wuw.neh) | CIT |
+| `lex:we` | kimor (ki.mor) | CIT |
+| `lex:they` | teno (te.no) | CIT |
+| `lex:the` | sapuro (sa.pu.ro) | CIT |
+| `lex:a` | wehihu (we.hi.hu) | CIT |
+| `lex:this` | simrop (sim.rop) | CIT |
+| `lex:that` | posso (pos.so) | CIT |
+| `lex:every` | murmo (mur.mo) | CIT |
+| `lex:each` | kum (kum) | CIT |
+| `lex:both` | tok (tok) | CIT |
+| `lex:few` | mer (mer) | CIT |
+| `lex:four` | sapu (sa.pu) | CIT |
+| `lex:four` | sapukow (sa.pu.kow) | ORD |
+| `lex:five` | pip (pip) | CIT |
+| `lex:five` | pipkow (pip.kow) | ORD |
+| `lex:six` | wutwu (wut.wu) | CIT |
+| `lex:six` | wutwukow (wut.wu.kow) | ORD |
+| `lex:fifty` | resrossi (res.ros.si) | CIT |
+| `lex:fifty` | resrossikow (res.ros.si.kow) | ORD |
+| `lex:half` | wopuswer (wo.pus.wer) | CIT |
+| `lex:half` | wopuswerkow (wo.pus.wer.kow) | ORD |
+| `lex:pair` | nopheh (nop.heh) | CIT |
+| `lex:pair` | nophehkow (nop.heh.kow) | ORD |
+| `lex:decade` | kolep (ko.lep) | CIT |
+| `lex:decade` | kolepkow (ko.lep.kow) | ORD |
+| `lex:while` | mohuko (mo.hu.ko) | CIT |
+| `lex:when` | serneta (ser.ne.ta) | CIT |
+| `lex:where` | memwa (mem.wa) | CIT |
+| `lex:because` | kapiko (ka.pi.ko) | CIT |
+| `lex:until` | hapnu (hap.nu) | CIT |
+| `lex:can` | kernih (ker.nih) | CIT |
+| `lex:could` | kuw (kuw) | CIT |
+| `lex:would` | hon (hon) | CIT |
+| `lex:should` | satopwo (sa.top.wo) | CIT |
+| `lex:must` | pepo (pe.po) | CIT |
+| `lex:will` | not (not) | CIT |
+| `lex:slowly` | wemu (we.mu) | CIT |
+| `lex:finally` | kewi (ke.wi) | CIT |
+| `lex:carefully` | pulki (pul.ki) | CIT |
+| `lex:tightly` | wahra (wah.ra) | CIT |
+| `lex:completely` | rah (rah) | CIT |
+| `lex:entirely` | nule (nu.le) | CIT |
+| `lex:exactly` | lemom (le.mom) | CIT |
+| `lex:simply` | kaki (ka.ki) | CIT |
+| `lex:always` | himolta (hi.mol.ta) | CIT |
+| `lex:often` | kawwu (kaw.wu) | CIT |
+| `lex:together` | lomap (lo.map) | CIT |
+| `lex:effortlessly` | pitikkow (pi.tik.kow) | CIT |
+| `lex:faintly` | nikisot (ni.ki.sot) | CIT |
+| `lex:later` | lero (le.ro) | CIT |
+| `lex:upward` | luwe (lu.we) | CIT |
+| `lex:inward` | to (to) | CIT |
+| `lex:forward` | huwasti (hu.was.ti) | CIT |
+| `lex:squarely` | tuk (tuk) | CIT |
+| `lex:never` | tes (tes) | CIT |
+| `lex:more` | munlihsa (mun.lih.sa) | CIT |
+| `lex:same` | sili (si.li) | CIT |
+| `lex:most` | lewpu (lew.pu) | CIT |
 | `lex:adp:in` | wumnorpi (wum.nor.pi) | CIT |
 | `lex:adp:on` | tiluso (ti.lu.so) | CIT |
 | `lex:adp:at` | horle (hor.le) | CIT |
