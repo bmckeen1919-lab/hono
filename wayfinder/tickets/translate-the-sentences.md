@@ -51,4 +51,8 @@ resolved when those rows are filled and the validator is clean.
 - **Batch 9 (rows 81–90)** — done. Lexicon grew by *aim, constant, creak,
   destination, east, gap, get, landmark, navigate, pass, plague, point, school,
   tiny*. Validator: **90/111 translated · 2 slots · 0 errors**.
-- Next: batch 10 (rows 91–100).
+- **Batch 10 (rows 91–100)** — done. Lexicon grew by *adjust, ago, collapse,
+  crumble, echo, embed, fill, guide, land, scrape, secure, securely, shell,
+  shelter, shoreline, spot*. Validator: **100/111 translated · 2 slots · 0
+  errors**.
+- Next: batch 11 (rows 101–111, the last).
