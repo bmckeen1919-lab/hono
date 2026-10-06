@@ -11,4 +11,5 @@ the `[slot]` in the CSV.
 
 | # | english | why (no root / no construction) | resolution |
 | --- | --- | --- | --- |
-| _(none yet — the language is grown to cover the story before translating)_ | | | |
+| 9 | cicada | no root — fine-grained fauna | add a root, or paraphrase as "insect" |
+| 9 | stonechat | no root — fine-grained fauna | add a root, or paraphrase as "bird" |

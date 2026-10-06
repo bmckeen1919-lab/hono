@@ -2410,6 +2410,65 @@ lexicon:
   root: lewpu
   pos: adv
   locked: true
+- gloss: iain
+  root: malah
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: clara
+  root: puskup
+  pos: noun
+  inflection_class: noun-II
+  locked: true
+- gloss: neighbor
+  root: ruho
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: smell
+  root: homma
+  pos: noun
+  inflection_class: noun-II
+  locked: true
+- gloss: light
+  root: kissih
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: return
+  root: huhsu
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: move
+  root: rak
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: sing
+  root: narwo
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: leave
+  root: lopitak
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: blend
+  root: kom
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: whistle
+  root: topraknuk
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: again
+  root: kor
+  pos: adv
+  locked: true
 - gloss: in
   root: wumnorpi
   pos: adp

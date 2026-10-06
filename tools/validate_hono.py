@@ -58,6 +58,9 @@ def main() -> int:
             continue
         translated += 1
         for token in hono.split():
+            if token.startswith("[") and token.endswith("]"):
+                slots += 1  # an inline quarantined item
+                continue
             word = token.strip(STRIP)
             if not word:
                 continue
