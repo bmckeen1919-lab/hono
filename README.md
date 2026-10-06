@@ -82,6 +82,18 @@ locative), quarantining anything irreducible as a logged `[slot]`.
 *The Quiet Morning* is also translated into sibling languages (Kah, Muna,
 Volapük), which is why one fixed story is used.
 
+## Reuse this for a new language
+
+`NEW-LANGUAGE.md` is a runbook for repeating the whole process with a different
+generated language, and `template/` holds the reusable kit:
+
+| script | does |
+| --- | --- |
+| `template/tools/new_language.py` | scaffold + freeze a base language from a spec |
+| `template/tools/add_words.py` | grow the lexicon (translation-driven, collision-free roots) |
+| `template/tools/compose.py` | `Composer` — compose surface forms and gloss them back |
+| `template/tools/validate.py` | check a translation CSV against a model |
+
 ## License
 
 Code and generated language under MIT. The `conlang` toolkit lives at
