@@ -3046,6 +3046,63 @@ lexicon:
   pos: noun
   inflection_class: noun-II
   locked: true
+- gloss: arch
+  root: tehitha
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: crunch
+  root: ronmoh
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: engrave
+  root: hik
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: fall
+  root: wawlih
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: logbook
+  root: hopeki
+  pos: noun
+  inflection_class: noun-II
+  locked: true
+- gloss: mortar
+  root: misersar
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: once
+  root: lesmike
+  pos: adv
+  locked: true
+- gloss: plan
+  root: romma
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: tight
+  root: nolpe
+  pos: adj
+  locked: true
+- gloss: tuck
+  root: wokel
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: waterproof
+  root: waplaras
+  pos: adj
+  locked: true
+- gloss: whisper
+  root: rini
+  pos: verb
+  inflection_class: verb-II
+  locked: true
 - gloss: in
   root: wumnorpi
   pos: adp

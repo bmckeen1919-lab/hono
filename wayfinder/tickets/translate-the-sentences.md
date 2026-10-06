@@ -1,7 +1,7 @@
 ---
 title: Translate the 111 sentences
 label: wayfinder:task
-status: in-progress
+status: closed
 assignee: opencode
 blocked-by: []
 ---
@@ -55,4 +55,19 @@ resolved when those rows are filled and the validator is clean.
   crumble, echo, embed, fill, guide, land, scrape, secure, securely, shell,
   shelter, shoreline, spot*. Validator: **100/111 translated · 2 slots · 0
   errors**.
-- Next: batch 11 (rows 101–111, the last).
+- **Batch 11 (rows 101–111, the last)** — done. Lexicon grew by *arch, crunch,
+  engrave, fall, logbook, mortar, once, plan, tight, tuck, waterproof, whisper*.
+  Validator: **111/111 translated · 2 slots · 0 errors**.
+
+## Resolved — the destination is reached
+
+All 111 rows of `the_quiet_morning_hono.csv` are translated, and the validator
+reports `translated 111/111 · slots 2 · errors 0`. The 2 remaining slots
+(*cicada*, *stonechat*; sentence 9) are logged as data in
+`reference/hono-slots.md` — the definition of done allows marked slots.
+
+The translation grew Hono from **199 to 679 lexemes** across the 11 batches;
+`reference/hono-lexicon.md` is refreshed. The work used the method throughout:
+lookup → verify → paraphrase (passive→active, relatives/reported speech→parataxis,
+non-finites→clauses, analytic comparatives, compounds→word sequences,
+existential→locative), with tense/aspect taken from the verb paradigm.

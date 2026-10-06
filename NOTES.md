@@ -2,10 +2,11 @@
 
 ## Status
 
-Workspace scaffolded; the language is built — **536 lexemes / 3577 word forms**,
-lint `valid` — and the working method is written. The destination — translate all
-111 sentences of *The Quiet Morning* into Hono — and the route are charted in
-`wayfinder/map.md`. Remaining: the CSV validator, then the translation batches.
+**Destination reached.** All **111 sentences** of *The Quiet Morning* are
+translated in `the_quiet_morning_hono.csv`; the validator reports
+`111/111 translated · 2 slots · 0 errors`. Hono grew to **679 lexemes** (5167
+word forms), lint `valid`. The 2 slots (*cicada*, *stonechat*) are logged in
+`reference/hono-slots.md`. The map (`wayfinder/map.md`) is complete.
 
 ## Charting constraints (Q1–Q12)
 

@@ -45,8 +45,9 @@ Precedents to consult every session: `learn_kah/learning-records/0039-quiet-morn
 - [Author the translation method and slot policy](tickets/translation-method-and-slots.md): `reference/hono-translation-method.md` (the lookup/verify/paraphrase loop, paraphrase strategies, CSV format, worked examples) and `reference/hono-slots.md` (the `[slot]` log).
 - [Build the Hono CSV validator](tickets/csv-validator.md): `tools/validate_hono.py` (111 rows, legal forms, `[slot]` marking; empty = untranslated) plus the 111-row CSV skeleton, ready to translate.
 
-**The decision map is clear.** Every route ticket is closed; what remains is the
-execution hand-off — [Translate the 111 sentences](tickets/translate-the-sentences.md).
+- [Translate the 111 sentences](tickets/translate-the-sentences.md): **111/111 rows translated**, validator `111/111 · 2 slots · 0 errors`. Hono grew 199 → **679 lexemes** over 11 batches; 2 slots (*cicada*, *stonechat*) logged.
+
+**Destination reached.** The map is complete: the 111-sentence translation is delivered in `the_quiet_morning_hono.csv`.
 
 ## Not yet specified
 
