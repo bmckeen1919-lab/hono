@@ -53,3 +53,14 @@ translated in `the_quiet_morning_hono.csv`; the validator reports
 - Lexicon: `reference/hono-lexicon.md` · grammar: `reference/hono-grammar.md`
 - Glossary: `GLOSSARY.md`
 - Research findings: `research/grammar-gaps.md`, `research/concept-inventory.md`
+
+## Optional extras
+
+- **Glossed parallel text**: `the_quiet_morning_hono_gloss.csv`
+  (`index,english,hono,gloss`) — the gloss column is auto-derived from the model's
+  exact word forms and affix surface forms.
+- **Word document**: `the_quiet_morning_hono.docx` — the parallel text (English,
+  Hono, gloss) as a `.docx` (built directly as OOXML; `python-docx` is not
+  installed).
+- **Recall deck**: `reference/hono-deck.html` — a self-contained flashcard deck
+  (gloss → root/pos) for all 680 lexemes.
