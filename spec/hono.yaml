@@ -2469,6 +2469,50 @@ lexicon:
   root: kor
   pos: adv
   locked: true
+- gloss: burst
+  root: kih
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: expanse
+  root: rilowsi
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: own
+  root: sestu
+  pos: det
+  locked: true
+- gloss: feel
+  root: nihihuk
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: click
+  root: torhuni
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: lace
+  root: nepo
+  pos: noun
+  inflection_class: noun-II
+  locked: true
+- gloss: startle
+  root: puteh
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: disturb
+  root: sinum
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: gull
+  root: sonik
+  pos: noun
+  inflection_class: noun-I
+  locked: true
 - gloss: in
   root: wumnorpi
   pos: adp

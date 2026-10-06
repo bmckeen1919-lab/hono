@@ -25,4 +25,8 @@ resolved when those rows are filled and the validator is clean.
   *clara*, *neighbor*, *smell*, *light*, *return*, *move*, *sing*, *leave*,
   *blend*, *whistle*, *again*). Validator: **10/111 translated · 2 slots · 0
   errors**. Slots: *cicada*, *stonechat* (logged in `reference/hono-slots.md`).
-- Next: batch 2 (rows 11–20).
+- **Batch 2 (rows 11–20)** — done. Lexicon grew by *burst, expanse, own, feel,
+  click, lace, startle, disturb, gull* (and `down`/`age`, tried as `adp`, were
+  rejected by the reserved adposition class and paraphrased). Validator:
+  **20/111 translated · 2 slots · 0 errors**.
+- Next: batch 3 (rows 21–30).
