@@ -43,13 +43,17 @@ Precedents to consult every session: `learn_kah/learning-records/0039-quiet-morn
 - [Scaffold the Hono workspace](tickets/scaffold-workspace.md): MISSION/NOTES/RESOURCES/reference/learning-records in place; `reference/hono-grammar.md` rendered from the model; the workspace is now a git repo with the frozen spec + model committed.
 - [Design the Hono lexicon](tickets/design-lexicon.md): appended the growth vocabulary to the explicit lexicon — **536 lexemes / 3577 forms**, roots pinned, compounds paraphrased, function words (pronouns, determiners, numerals, modals, subordinators, adverbs) added; `reference/hono-lexicon.md` rendered.
 - [Author the translation method and slot policy](tickets/translation-method-and-slots.md): `reference/hono-translation-method.md` (the lookup/verify/paraphrase loop, paraphrase strategies, CSV format, worked examples) and `reference/hono-slots.md` (the `[slot]` log).
+- [Build the Hono CSV validator](tickets/csv-validator.md): `tools/validate_hono.py` (111 rows, legal forms, `[slot]` marking; empty = untranslated) plus the 111-row CSV skeleton, ready to translate.
+
+**The decision map is clear.** Every route ticket is closed; what remains is the
+execution hand-off — [Translate the 111 sentences](tickets/translate-the-sentences.md).
 
 ## Not yet specified
 
-Fog — in scope, not yet sharp enough to ticket:
+The route is clear; the translation is the execution hand-off (ticketed). No
+decision fog remains.
 
-- The translation batches themselves — they graduate once the lexicon and grammar clear.
-- Optional: gloss column, DOCX export, recall deck.
+- Optional extras, in scope but not required: a gloss column, a DOCX export, a recall deck.
 
 ## Out of scope
 
