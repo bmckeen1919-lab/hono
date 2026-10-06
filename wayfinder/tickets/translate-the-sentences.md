@@ -38,4 +38,8 @@ resolved when those rows are filled and the validator is clean.
 - **Batch 5 (rows 41–50)** — done. Lexicon grew by *dance, fit, follow, groan,
   kitchen, mechanism, object, pile, retreat, room, rush, sink, stack, sunlight,
   swing, tightness*. Validator: **50/111 translated · 2 slots · 0 errors**.
-- Next: batch 6 (rows 51–60).
+- **Batch 6 (rows 51–60)** — done. Lexicon grew by *argue, collect, focus,
+  ground, intricate, last, learn, line, map, murmur, nearby, need, pick, roll,
+  start, touch, transform, way, wood*. Validator: **60/111 translated · 2 slots ·
+  0 errors**.
+- Next: batch 7 (rows 61–70).
