@@ -2,7 +2,7 @@
   "schema_version": "0.1",
   "id": "hono",
   "seed": 1,
-  "spec_hash": "3cc5855ba9fa4ce4",
+  "spec_hash": "0aea3cc4eddc7bc7",
   "lineage": {
     "parent": null,
     "rules": []
@@ -5548,6 +5548,132 @@
       "gloss": "right",
       "pos": "adj",
       "root": "wuwek",
+      "inflection_class": null,
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:aim",
+      "gloss": "aim",
+      "pos": "verb",
+      "root": "wuw",
+      "inflection_class": "verb-I",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:constant",
+      "gloss": "constant",
+      "pos": "adj",
+      "root": "rusawo",
+      "inflection_class": null,
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:creak",
+      "gloss": "creak",
+      "pos": "noun",
+      "root": "kipawis",
+      "inflection_class": "noun-I",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:destination",
+      "gloss": "destination",
+      "pos": "noun",
+      "root": "reme",
+      "inflection_class": "noun-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:east",
+      "gloss": "east",
+      "pos": "noun",
+      "root": "hemenaw",
+      "inflection_class": "noun-I",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:gap",
+      "gloss": "gap",
+      "pos": "noun",
+      "root": "lusukli",
+      "inflection_class": "noun-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:get",
+      "gloss": "get",
+      "pos": "verb",
+      "root": "koma",
+      "inflection_class": "verb-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:landmark",
+      "gloss": "landmark",
+      "pos": "noun",
+      "root": "tirop",
+      "inflection_class": "noun-I",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:navigate",
+      "gloss": "navigate",
+      "pos": "verb",
+      "root": "noken",
+      "inflection_class": "verb-I",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:pass",
+      "gloss": "pass",
+      "pos": "verb",
+      "root": "manrunih",
+      "inflection_class": "verb-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:plague",
+      "gloss": "plague",
+      "pos": "verb",
+      "root": "na",
+      "inflection_class": "verb-I",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:point",
+      "gloss": "point",
+      "pos": "verb",
+      "root": "hutmih",
+      "inflection_class": "verb-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:school",
+      "gloss": "school",
+      "pos": "noun",
+      "root": "nakpirer",
+      "inflection_class": "noun-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:tiny",
+      "gloss": "tiny",
+      "pos": "adj",
+      "root": "nutenap",
       "inflection_class": null,
       "origin": "specified",
       "locked": true
@@ -90850,6 +90976,2728 @@
       ],
       "morphemes": [
         "wuwek"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuw",
+      "syllables": [
+        "wuw"
+      ],
+      "morphemes": [
+        "wuw"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwrut",
+      "syllables": [
+        "wuw",
+        "rut"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut"
+      ],
+      "tags": [
+        "PST"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuw",
+      "syllables": [
+        "ha",
+        "wuw"
+      ],
+      "morphemes": [
+        "wuw",
+        "ha"
+      ],
+      "tags": [
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwlop",
+      "syllables": [
+        "wuw",
+        "lop"
+      ],
+      "morphemes": [
+        "wuw",
+        "lop"
+      ],
+      "tags": [
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwmu",
+      "syllables": [
+        "wuw",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "mu"
+      ],
+      "tags": [
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwrut",
+      "syllables": [
+        "ha",
+        "wuw",
+        "rut"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "ha"
+      ],
+      "tags": [
+        "PST",
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwrutlop",
+      "syllables": [
+        "wuw",
+        "rut",
+        "lop"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwrutmu",
+      "syllables": [
+        "wuw",
+        "rut",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwlop",
+      "syllables": [
+        "ha",
+        "wuw",
+        "lop"
+      ],
+      "morphemes": [
+        "wuw",
+        "ha",
+        "lop"
+      ],
+      "tags": [
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwmu",
+      "syllables": [
+        "ha",
+        "wuw",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "ha",
+        "mu"
+      ],
+      "tags": [
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwlopmu",
+      "syllables": [
+        "wuw",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwrutlop",
+      "syllables": [
+        "ha",
+        "wuw",
+        "rut",
+        "lop"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "ha",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwrutmu",
+      "syllables": [
+        "ha",
+        "wuw",
+        "rut",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "ha",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "wuwrutlopmu",
+      "syllables": [
+        "wuw",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwlopmu",
+      "syllables": [
+        "ha",
+        "wuw",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "ha",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:aim",
+      "form": "hawuwrutlopmu",
+      "syllables": [
+        "ha",
+        "wuw",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "wuw",
+        "rut",
+        "ha",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:constant",
+      "form": "rusawo",
+      "syllables": [
+        "ru",
+        "sa",
+        "wo"
+      ],
+      "morphemes": [
+        "rusawo"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawis",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis"
+      ],
+      "morphemes": [
+        "kipawis"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawisni",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "ni"
+      ],
+      "morphemes": [
+        "kipawis",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawisle",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "le"
+      ],
+      "morphemes": [
+        "kipawis",
+        "le"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawislu",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "lu"
+      ],
+      "morphemes": [
+        "kipawis",
+        "lu"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawisnile",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "ni",
+        "le"
+      ],
+      "morphemes": [
+        "kipawis",
+        "ni",
+        "le"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawisnilu",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "ni",
+        "lu"
+      ],
+      "morphemes": [
+        "kipawis",
+        "ni",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawislelu",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "kipawis",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:creak",
+      "form": "kipawisnilelu",
+      "syllables": [
+        "ki",
+        "pa",
+        "wis",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "kipawis",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "reme",
+      "syllables": [
+        "re",
+        "me"
+      ],
+      "morphemes": [
+        "reme"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remeni",
+      "syllables": [
+        "re",
+        "me",
+        "ni"
+      ],
+      "morphemes": [
+        "reme",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remewa",
+      "syllables": [
+        "re",
+        "me",
+        "wa"
+      ],
+      "morphemes": [
+        "reme",
+        "wa"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remeta",
+      "syllables": [
+        "re",
+        "me",
+        "ta"
+      ],
+      "morphemes": [
+        "reme",
+        "ta"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remeniwa",
+      "syllables": [
+        "re",
+        "me",
+        "ni",
+        "wa"
+      ],
+      "morphemes": [
+        "reme",
+        "ni",
+        "wa"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remenita",
+      "syllables": [
+        "re",
+        "me",
+        "ni",
+        "ta"
+      ],
+      "morphemes": [
+        "reme",
+        "ni",
+        "ta"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remewata",
+      "syllables": [
+        "re",
+        "me",
+        "wa",
+        "ta"
+      ],
+      "morphemes": [
+        "reme",
+        "wa",
+        "ta"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:destination",
+      "form": "remeniwata",
+      "syllables": [
+        "re",
+        "me",
+        "ni",
+        "wa",
+        "ta"
+      ],
+      "morphemes": [
+        "reme",
+        "ni",
+        "wa",
+        "ta"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenaw",
+      "syllables": [
+        "he",
+        "me",
+        "naw"
+      ],
+      "morphemes": [
+        "hemenaw"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawni",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "ni"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawle",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "le"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "le"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawlu",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "lu"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "lu"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawnile",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "ni",
+        "le"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "ni",
+        "le"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawnilu",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "ni",
+        "lu"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "ni",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawlelu",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:east",
+      "form": "hemenawnilelu",
+      "syllables": [
+        "he",
+        "me",
+        "naw",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "hemenaw",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusukli",
+      "syllables": [
+        "lu",
+        "suk",
+        "li"
+      ],
+      "morphemes": [
+        "lusukli"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusuklini",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "ni"
+      ],
+      "morphemes": [
+        "lusukli",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusukliwa",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "wa"
+      ],
+      "morphemes": [
+        "lusukli",
+        "wa"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusuklita",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "ta"
+      ],
+      "morphemes": [
+        "lusukli",
+        "ta"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusukliniwa",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "ni",
+        "wa"
+      ],
+      "morphemes": [
+        "lusukli",
+        "ni",
+        "wa"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusuklinita",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "ni",
+        "ta"
+      ],
+      "morphemes": [
+        "lusukli",
+        "ni",
+        "ta"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusukliwata",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "wa",
+        "ta"
+      ],
+      "morphemes": [
+        "lusukli",
+        "wa",
+        "ta"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:gap",
+      "form": "lusukliniwata",
+      "syllables": [
+        "lu",
+        "suk",
+        "li",
+        "ni",
+        "wa",
+        "ta"
+      ],
+      "morphemes": [
+        "lusukli",
+        "ni",
+        "wa",
+        "ta"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "koma",
+      "syllables": [
+        "ko",
+        "ma"
+      ],
+      "morphemes": [
+        "koma"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komami",
+      "syllables": [
+        "ko",
+        "ma",
+        "mi"
+      ],
+      "morphemes": [
+        "koma",
+        "mi"
+      ],
+      "tags": [
+        "PST"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkoma",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma"
+      ],
+      "morphemes": [
+        "koma",
+        "wuh"
+      ],
+      "tags": [
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komalop",
+      "syllables": [
+        "ko",
+        "ma",
+        "lop"
+      ],
+      "morphemes": [
+        "koma",
+        "lop"
+      ],
+      "tags": [
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komakoh",
+      "syllables": [
+        "ko",
+        "ma",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "koh"
+      ],
+      "tags": [
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomami",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "mi"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "wuh"
+      ],
+      "tags": [
+        "PST",
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komamilop",
+      "syllables": [
+        "ko",
+        "ma",
+        "mi",
+        "lop"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komamikoh",
+      "syllables": [
+        "ko",
+        "ma",
+        "mi",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomalop",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "lop"
+      ],
+      "morphemes": [
+        "koma",
+        "wuh",
+        "lop"
+      ],
+      "tags": [
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomakoh",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "wuh",
+        "koh"
+      ],
+      "tags": [
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komalopkoh",
+      "syllables": [
+        "ko",
+        "ma",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomamilop",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "mi",
+        "lop"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "wuh",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomamikoh",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "mi",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "wuh",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "komamilopkoh",
+      "syllables": [
+        "ko",
+        "ma",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomalopkoh",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "wuh",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:get",
+      "form": "wuhkomamilopkoh",
+      "syllables": [
+        "wuh",
+        "ko",
+        "ma",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "koma",
+        "mi",
+        "wuh",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tirop",
+      "syllables": [
+        "ti",
+        "rop"
+      ],
+      "morphemes": [
+        "tirop"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tiropni",
+      "syllables": [
+        "ti",
+        "rop",
+        "ni"
+      ],
+      "morphemes": [
+        "tirop",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tirople",
+      "syllables": [
+        "ti",
+        "rop",
+        "le"
+      ],
+      "morphemes": [
+        "tirop",
+        "le"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tiroplu",
+      "syllables": [
+        "ti",
+        "rop",
+        "lu"
+      ],
+      "morphemes": [
+        "tirop",
+        "lu"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tiropnile",
+      "syllables": [
+        "ti",
+        "rop",
+        "ni",
+        "le"
+      ],
+      "morphemes": [
+        "tirop",
+        "ni",
+        "le"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tiropnilu",
+      "syllables": [
+        "ti",
+        "rop",
+        "ni",
+        "lu"
+      ],
+      "morphemes": [
+        "tirop",
+        "ni",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tiroplelu",
+      "syllables": [
+        "ti",
+        "rop",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "tirop",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:landmark",
+      "form": "tiropnilelu",
+      "syllables": [
+        "ti",
+        "rop",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "tirop",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "noken",
+      "syllables": [
+        "no",
+        "ken"
+      ],
+      "morphemes": [
+        "noken"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenrut",
+      "syllables": [
+        "no",
+        "ken",
+        "rut"
+      ],
+      "morphemes": [
+        "noken",
+        "rut"
+      ],
+      "tags": [
+        "PST"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanoken",
+      "syllables": [
+        "ha",
+        "no",
+        "ken"
+      ],
+      "morphemes": [
+        "noken",
+        "ha"
+      ],
+      "tags": [
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenlop",
+      "syllables": [
+        "no",
+        "ken",
+        "lop"
+      ],
+      "morphemes": [
+        "noken",
+        "lop"
+      ],
+      "tags": [
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenmu",
+      "syllables": [
+        "no",
+        "ken",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "mu"
+      ],
+      "tags": [
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenrut",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "rut"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "ha"
+      ],
+      "tags": [
+        "PST",
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenrutlop",
+      "syllables": [
+        "no",
+        "ken",
+        "rut",
+        "lop"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenrutmu",
+      "syllables": [
+        "no",
+        "ken",
+        "rut",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenlop",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "lop"
+      ],
+      "morphemes": [
+        "noken",
+        "ha",
+        "lop"
+      ],
+      "tags": [
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenmu",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "ha",
+        "mu"
+      ],
+      "tags": [
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenlopmu",
+      "syllables": [
+        "no",
+        "ken",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenrutlop",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "rut",
+        "lop"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "ha",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenrutmu",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "rut",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "ha",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "nokenrutlopmu",
+      "syllables": [
+        "no",
+        "ken",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenlopmu",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "ha",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:navigate",
+      "form": "hanokenrutlopmu",
+      "syllables": [
+        "ha",
+        "no",
+        "ken",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "noken",
+        "rut",
+        "ha",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunih",
+      "syllables": [
+        "man",
+        "ru",
+        "nih"
+      ],
+      "morphemes": [
+        "manrunih"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihmi",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "mi"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi"
+      ],
+      "tags": [
+        "PST"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunih",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih"
+      ],
+      "morphemes": [
+        "manrunih",
+        "wuh"
+      ],
+      "tags": [
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihlop",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "lop"
+      ],
+      "morphemes": [
+        "manrunih",
+        "lop"
+      ],
+      "tags": [
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihkoh",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "koh"
+      ],
+      "tags": [
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihmi",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "mi"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "wuh"
+      ],
+      "tags": [
+        "PST",
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihmilop",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "mi",
+        "lop"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihmikoh",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "mi",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihlop",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "lop"
+      ],
+      "morphemes": [
+        "manrunih",
+        "wuh",
+        "lop"
+      ],
+      "tags": [
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihkoh",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "wuh",
+        "koh"
+      ],
+      "tags": [
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihlopkoh",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihmilop",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "mi",
+        "lop"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "wuh",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihmikoh",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "mi",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "wuh",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "manrunihmilopkoh",
+      "syllables": [
+        "man",
+        "ru",
+        "nih",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihlopkoh",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "wuh",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:pass",
+      "form": "wuhmanrunihmilopkoh",
+      "syllables": [
+        "wuh",
+        "man",
+        "ru",
+        "nih",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "manrunih",
+        "mi",
+        "wuh",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "na",
+      "syllables": [
+        "na"
+      ],
+      "morphemes": [
+        "na"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "narut",
+      "syllables": [
+        "na",
+        "rut"
+      ],
+      "morphemes": [
+        "na",
+        "rut"
+      ],
+      "tags": [
+        "PST"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hana",
+      "syllables": [
+        "ha",
+        "na"
+      ],
+      "morphemes": [
+        "na",
+        "ha"
+      ],
+      "tags": [
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "nalop",
+      "syllables": [
+        "na",
+        "lop"
+      ],
+      "morphemes": [
+        "na",
+        "lop"
+      ],
+      "tags": [
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "namu",
+      "syllables": [
+        "na",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "mu"
+      ],
+      "tags": [
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanarut",
+      "syllables": [
+        "ha",
+        "na",
+        "rut"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "ha"
+      ],
+      "tags": [
+        "PST",
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "narutlop",
+      "syllables": [
+        "na",
+        "rut",
+        "lop"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "narutmu",
+      "syllables": [
+        "na",
+        "rut",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanalop",
+      "syllables": [
+        "ha",
+        "na",
+        "lop"
+      ],
+      "morphemes": [
+        "na",
+        "ha",
+        "lop"
+      ],
+      "tags": [
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanamu",
+      "syllables": [
+        "ha",
+        "na",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "ha",
+        "mu"
+      ],
+      "tags": [
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "nalopmu",
+      "syllables": [
+        "na",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanarutlop",
+      "syllables": [
+        "ha",
+        "na",
+        "rut",
+        "lop"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "ha",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanarutmu",
+      "syllables": [
+        "ha",
+        "na",
+        "rut",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "ha",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "narutlopmu",
+      "syllables": [
+        "na",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanalopmu",
+      "syllables": [
+        "ha",
+        "na",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "ha",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:plague",
+      "form": "hanarutlopmu",
+      "syllables": [
+        "ha",
+        "na",
+        "rut",
+        "lop",
+        "mu"
+      ],
+      "morphemes": [
+        "na",
+        "rut",
+        "ha",
+        "lop",
+        "mu"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmih",
+      "syllables": [
+        "hut",
+        "mih"
+      ],
+      "morphemes": [
+        "hutmih"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihmi",
+      "syllables": [
+        "hut",
+        "mih",
+        "mi"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi"
+      ],
+      "tags": [
+        "PST"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmih",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih"
+      ],
+      "morphemes": [
+        "hutmih",
+        "wuh"
+      ],
+      "tags": [
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihlop",
+      "syllables": [
+        "hut",
+        "mih",
+        "lop"
+      ],
+      "morphemes": [
+        "hutmih",
+        "lop"
+      ],
+      "tags": [
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihkoh",
+      "syllables": [
+        "hut",
+        "mih",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "koh"
+      ],
+      "tags": [
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihmi",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "mi"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "wuh"
+      ],
+      "tags": [
+        "PST",
+        "FUT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihmilop",
+      "syllables": [
+        "hut",
+        "mih",
+        "mi",
+        "lop"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihmikoh",
+      "syllables": [
+        "hut",
+        "mih",
+        "mi",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihlop",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "lop"
+      ],
+      "morphemes": [
+        "hutmih",
+        "wuh",
+        "lop"
+      ],
+      "tags": [
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihkoh",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "wuh",
+        "koh"
+      ],
+      "tags": [
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihlopkoh",
+      "syllables": [
+        "hut",
+        "mih",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihmilop",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "mi",
+        "lop"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "wuh",
+        "lop"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihmikoh",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "mi",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "wuh",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "hutmihmilopkoh",
+      "syllables": [
+        "hut",
+        "mih",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihlopkoh",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "wuh",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:point",
+      "form": "wuhhutmihmilopkoh",
+      "syllables": [
+        "wuh",
+        "hut",
+        "mih",
+        "mi",
+        "lop",
+        "koh"
+      ],
+      "morphemes": [
+        "hutmih",
+        "mi",
+        "wuh",
+        "lop",
+        "koh"
+      ],
+      "tags": [
+        "PST",
+        "FUT",
+        "PROG",
+        "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirer",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer"
+      ],
+      "morphemes": [
+        "nakpirer"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirerni",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "ni"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirerwa",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "wa"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "wa"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirerta",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "ta"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "ta"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirerniwa",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "ni",
+        "wa"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "ni",
+        "wa"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirernita",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "ni",
+        "ta"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "ni",
+        "ta"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirerwata",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "wa",
+        "ta"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "wa",
+        "ta"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:school",
+      "form": "nakpirerniwata",
+      "syllables": [
+        "nak",
+        "pi",
+        "rer",
+        "ni",
+        "wa",
+        "ta"
+      ],
+      "morphemes": [
+        "nakpirer",
+        "ni",
+        "wa",
+        "ta"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:tiny",
+      "form": "nutenap",
+      "syllables": [
+        "nu",
+        "te",
+        "nap"
+      ],
+      "morphemes": [
+        "nutenap"
       ],
       "tags": [
         "CIT"

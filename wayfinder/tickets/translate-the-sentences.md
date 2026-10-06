@@ -48,4 +48,7 @@ resolved when those rows are filled and the validator is clean.
 - **Batch 8 (rows 71–80)** — done. Lexicon grew by *break, callous, labor,
   launch, only, realize, reflect, right*. Validator: **80/111 translated · 2
   slots · 0 errors**.
-- Next: batch 9 (rows 81–90).
+- **Batch 9 (rows 81–90)** — done. Lexicon grew by *aim, constant, creak,
+  destination, east, gap, get, landmark, navigate, pass, plague, point, school,
+  tiny*. Validator: **90/111 translated · 2 slots · 0 errors**.
+- Next: batch 10 (rows 91–100).
