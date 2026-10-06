@@ -29,4 +29,7 @@ resolved when those rows are filled and the validator is clean.
   click, lace, startle, disturb, gull* (and `down`/`age`, tried as `adp`, were
   rejected by the reserved adposition class and paraphrased). Validator:
   **20/111 translated · 2 slots · 0 errors**.
-- Next: batch 3 (rows 21–30).
+- **Batch 3 (rows 21–30)** — done. Lexicon grew by *all, claim, everyone, help,
+  keep, offer, place, predict, set, sort, town, use, weekend*. Validator:
+  **30/111 translated · 2 slots · 0 errors**.
+- Next: batch 4 (rows 31–40).
