@@ -93,6 +93,7 @@ generated language, and `template/` holds the reusable kit:
 | `template/tools/add_words.py` | grow the lexicon (translation-driven, collision-free roots) |
 | `template/tools/compose.py` | `Composer` — compose surface forms and gloss them back |
 | `template/tools/validate.py` | check a translation CSV against a model |
+| `template/tools/build_extras.py` | render the glossed CSV, `.docx`, and recall deck |
 
 ## License
 

@@ -38,10 +38,13 @@ class Composer:
             for w in self.lang.words
             if w.tags != ["CIT"]
         }
-        self._case = {
-            "se": "ERG", "ser": "ERG", "pe": "ERG", "ke": "ERG",
-            "wiw": "ABS", "pon": "ABS", "lum": "ABS", "ti": "ABS",
-        }
+        # derive the case surface forms from the model (language-agnostic)
+        case_labels = {"NOM", "ACC", "ERG", "ABS"}
+        self._case: dict[str, str] = {}
+        for affix in self.lang.affixes:
+            if affix.gloss in case_labels and affix.position == "suffix":
+                for form in [affix.form, *affix.allomorphs]:
+                    self._case[form] = affix.gloss
 
     def root(self, gloss: str) -> str:
         return self.by[gloss].root
