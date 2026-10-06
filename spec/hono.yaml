@@ -2863,6 +2863,43 @@ lexicon:
   pos: verb
   inflection_class: verb-I
   locked: true
+- gloss: break
+  root: kaploh
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: callous
+  root: mippeh
+  pos: adj
+  locked: true
+- gloss: labor
+  root: luhi
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: launch
+  root: lamo
+  pos: noun
+  inflection_class: noun-II
+  locked: true
+- gloss: only
+  root: somtersi
+  pos: adv
+  locked: true
+- gloss: realize
+  root: wat
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: reflect
+  root: rommul
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: right
+  root: wuwek
+  pos: adj
+  locked: true
 - gloss: in
   root: wumnorpi
   pos: adp
