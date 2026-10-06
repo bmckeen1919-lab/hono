@@ -1,8 +1,8 @@
 ---
 title: Author the translation method and slot policy
 label: wayfinder:task
-status: open
-assignee:
+status: in-progress
+assignee: opencode
 blocked-by: []
 ---
 

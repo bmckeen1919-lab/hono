@@ -2,8 +2,10 @@
 
 ## Status
 
-Scaffolding the workspace. The destination — translate all 111 sentences of
-*The Quiet Morning* into Hono — and the route are charted in `wayfinder/map.md`.
+Workspace scaffolded; the language is built — **536 lexemes / 3577 word forms**,
+lint `valid` — and the working method is written. The destination — translate all
+111 sentences of *The Quiet Morning* into Hono — and the route are charted in
+`wayfinder/map.md`. Remaining: the CSV validator, then the translation batches.
 
 ## Charting constraints (Q1–Q12)
 
@@ -41,5 +43,8 @@ Scaffolding the workspace. The destination — translate all 111 sentences of
 ## References
 
 - Workspace map: `wayfinder/map.md`
+- **Translation method & slot policy**: `reference/hono-translation-method.md`
+- Slot log: `reference/hono-slots.md`
+- Lexicon: `reference/hono-lexicon.md` · grammar: `reference/hono-grammar.md`
 - Glossary: `GLOSSARY.md`
 - Research findings: `research/grammar-gaps.md`, `research/concept-inventory.md`
