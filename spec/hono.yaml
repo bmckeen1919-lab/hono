@@ -3103,6 +3103,11 @@ lexicon:
   pos: verb
   inflection_class: verb-II
   locked: true
+- gloss: cicada
+  root: kelupre
+  pos: noun
+  inflection_class: noun-I
+  locked: true
 - gloss: in
   root: wumnorpi
   pos: adp

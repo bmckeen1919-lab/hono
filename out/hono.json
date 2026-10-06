@@ -2,7 +2,7 @@
   "schema_version": "0.1",
   "id": "hono",
   "seed": 1,
-  "spec_hash": "3120f9792b4b7dad",
+  "spec_hash": "40d3fb774b9058b3",
   "lineage": {
     "parent": null,
     "rules": []
@@ -5927,6 +5927,15 @@
       "pos": "verb",
       "root": "rini",
       "inflection_class": "verb-II",
+      "origin": "specified",
+      "locked": true
+    },
+    {
+      "id": "lex:cicada",
+      "gloss": "cicada",
+      "pos": "noun",
+      "root": "kelupre",
+      "inflection_class": "noun-I",
       "origin": "specified",
       "locked": true
     },
@@ -99653,6 +99662,155 @@
         "FUT",
         "PROG",
         "PERF"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "kelupre",
+      "syllables": [
+        "ke",
+        "lup",
+        "re"
+      ],
+      "morphemes": [
+        "kelupre"
+      ],
+      "tags": [
+        "CIT"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "kelupreni",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "ni"
+      ],
+      "morphemes": [
+        "kelupre",
+        "ni"
+      ],
+      "tags": [
+        "PL"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "keluprele",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "le"
+      ],
+      "morphemes": [
+        "kelupre",
+        "le"
+      ],
+      "tags": [
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "keluprelu",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "lu"
+      ],
+      "morphemes": [
+        "kelupre",
+        "lu"
+      ],
+      "tags": [
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "keluprenile",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "ni",
+        "le"
+      ],
+      "morphemes": [
+        "kelupre",
+        "ni",
+        "le"
+      ],
+      "tags": [
+        "PL",
+        "DIM"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "keluprenilu",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "ni",
+        "lu"
+      ],
+      "morphemes": [
+        "kelupre",
+        "ni",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "keluprelelu",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "kelupre",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "DIM",
+        "AUG"
+      ]
+    },
+    {
+      "lexeme_id": "lex:cicada",
+      "form": "keluprenilelu",
+      "syllables": [
+        "ke",
+        "lup",
+        "re",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "morphemes": [
+        "kelupre",
+        "ni",
+        "le",
+        "lu"
+      ],
+      "tags": [
+        "PL",
+        "DIM",
+        "AUG"
       ]
     },
     {

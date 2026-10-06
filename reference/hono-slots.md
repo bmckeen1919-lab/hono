@@ -11,5 +11,7 @@ the `[slot]` in the CSV.
 
 | # | english | why (no root / no construction) | resolution |
 | --- | --- | --- | --- |
-| 9 | cicada | no root — fine-grained fauna | add a root, or paraphrase as "insect" |
-| 9 | stonechat | no root — fine-grained fauna | add a root, or paraphrase as "bird" |
+| 9 | cicada | no root — fine-grained fauna | **resolved** — root `kelupre` added |
+| 9 | stonechat | false positive — the root existed as `pamwu` | **resolved** — `pamwu` used |
+
+**No open slots.** The translation is `111/111` with `0` slots.

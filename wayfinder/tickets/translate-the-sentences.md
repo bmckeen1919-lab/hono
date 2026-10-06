@@ -66,7 +66,12 @@ reports `translated 111/111 · slots 2 · errors 0`. The 2 remaining slots
 (*cicada*, *stonechat*; sentence 9) are logged as data in
 `reference/hono-slots.md` — the definition of done allows marked slots.
 
-The translation grew Hono from **199 to 679 lexemes** across the 11 batches;
+**Slots resolved.** The two slots (*cicada*, *stonechat*) were cleared — *cicada*
+got a new root `kelupre`, and *stonechat* turned out to be a false positive
+(its root `pamwu` already existed). The validator now reports
+`111/111 · 0 slots · 0 errors`.
+
+The translation grew Hono from **199 to 680 lexemes** across the 11 batches;
 `reference/hono-lexicon.md` is refreshed. The work used the method throughout:
 lookup → verify → paraphrase (passive→active, relatives/reported speech→parataxis,
 non-finites→clauses, analytic comparatives, compounds→word sequences,

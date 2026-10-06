@@ -1,6 +1,6 @@
 # Hono lexicon
 
-679 lexemes. Generated from out/hono.json; the model is the source of truth.
+680 lexemes. Generated from out/hono.json; the model is the source of truth.
 
 | gloss | pos | root |
 | --- | --- | --- |
@@ -237,6 +237,7 @@
 | chest | noun | hitan |
 | chief | noun | mahot |
 | child | noun | hukpepat |
+| cicada | noun | kelupre |
 | city | noun | malu |
 | clara | noun | puskup |
 | cliff | noun | korihsol |
