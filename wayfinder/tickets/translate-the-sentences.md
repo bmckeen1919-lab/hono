@@ -42,4 +42,7 @@ resolved when those rows are filled and the validator is clean.
   ground, intricate, last, learn, line, map, murmur, nearby, need, pick, roll,
   start, touch, transform, way, wood*. Validator: **60/111 translated · 2 slots ·
   0 errors**.
-- Next: batch 7 (rows 61–70).
+- **Batch 7 (rows 61–70)** — done. Lexicon grew by *arrive, chase, coat,
+  gleam, musty, piece, punctuate, replace, rest, tap*. Validator: **70/111
+  translated · 2 slots · 0 errors**.
+- Next: batch 8 (rows 71–80).

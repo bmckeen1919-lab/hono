@@ -2814,6 +2814,55 @@ lexicon:
   pos: noun
   inflection_class: noun-II
   locked: true
+- gloss: arrive
+  root: pukimmos
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: chase
+  root: memim
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: coat
+  root: wisarsi
+  pos: noun
+  inflection_class: noun-I
+  locked: true
+- gloss: gleam
+  root: nitri
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: musty
+  root: nin
+  pos: adj
+  locked: true
+- gloss: piece
+  root: has
+  pos: noun
+  inflection_class: noun-II
+  locked: true
+- gloss: punctuate
+  root: siru
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: replace
+  root: neki
+  pos: verb
+  inflection_class: verb-I
+  locked: true
+- gloss: rest
+  root: kim
+  pos: verb
+  inflection_class: verb-II
+  locked: true
+- gloss: tap
+  root: pah
+  pos: verb
+  inflection_class: verb-I
+  locked: true
 - gloss: in
   root: wumnorpi
   pos: adp
