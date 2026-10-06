@@ -1,8 +1,8 @@
 ---
 title: Build the Hono CSV validator
 label: wayfinder:task
-status: open
-assignee:
+status: in-progress
+assignee: opencode
 blocked-by: [freeze-base-language]
 ---
 

@@ -42,6 +42,7 @@ Precedents to consult every session: `learn_kah/learning-records/0039-quiet-morn
 - [Build aspect (progressive, perfect, pluperfect)](tickets/feature-aspect.md): verb categories `progressive`/`perfect` stack with tense (pluperfect = past+perfect; "had been …-ing" = past+perfect+progressive); class-specific suffixes; reach the copula. Hono re-frozen with **re-derived affixes**: **18 affixes / 1409 forms**; golden refreshed; **147 tests pass**.
 - [Scaffold the Hono workspace](tickets/scaffold-workspace.md): MISSION/NOTES/RESOURCES/reference/learning-records in place; `reference/hono-grammar.md` rendered from the model; the workspace is now a git repo with the frozen spec + model committed.
 - [Design the Hono lexicon](tickets/design-lexicon.md): appended the growth vocabulary to the explicit lexicon — **536 lexemes / 3577 forms**, roots pinned, compounds paraphrased, function words (pronouns, determiners, numerals, modals, subordinators, adverbs) added; `reference/hono-lexicon.md` rendered.
+- [Author the translation method and slot policy](tickets/translation-method-and-slots.md): `reference/hono-translation-method.md` (the lookup/verify/paraphrase loop, paraphrase strategies, CSV format, worked examples) and `reference/hono-slots.md` (the `[slot]` log).
 
 ## Not yet specified
 

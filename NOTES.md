@@ -39,6 +39,10 @@ lint `valid` — and the working method is written. The destination — translat
   affix list must be re-derived (regenerate with `affixes`/`category_order`
   unpinned, lexicon kept) and re-`accept`ed. See the *Build aspect* ticket.
 - Hono's grammar sketch and dictionary are rendered to `reference/hono-grammar.md`.
+- Validate the translation:
+  `C:\Users\bmcke\conlang\.venv\Scripts\python.exe tools\validate_hono.py` —
+  checks the 111-row shape, that every Hono token is phonotactically legal, and
+  that slots are marked; an empty cell reports as *untranslated*, not an error.
 
 ## References
 
