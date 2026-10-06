@@ -32,4 +32,7 @@ resolved when those rows are filled and the validator is clean.
 - **Batch 3 (rows 21–30)** — done. Lexicon grew by *all, claim, everyone, help,
   keep, offer, place, predict, set, sort, town, use, weekend*. Validator:
   **30/111 translated · 2 slots · 0 errors**.
-- Next: batch 4 (rows 31–40).
+- **Batch 4 (rows 31–40)** — done. Lexicon grew by *center, city, change, live,
+  moment, recognize, require, scrawl, single, slanted, solve, try, some, just*.
+  Validator: **40/111 translated · 2 slots · 0 errors**.
+- Next: batch 5 (rows 41–50).
