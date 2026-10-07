@@ -1,5 +1,11 @@
 # Repeat this with a new generated language
 
+> **Superseded.** This runbook is now canonical in the toolkit itself:
+> [`conlang/docs/pipeline.md`](https://github.com/bmckeen1919-lab/conlanggen/blob/main/docs/pipeline.md).
+> The process ships as `conlang new` / `grow` / `translate` /
+> `validate-translation` / `extras`; this file is kept for the Hono workspace's
+> history.
+
 A runbook for producing another language with the [`conlang` toolkit](https://github.com/bmckeen1919-lab/conlanggen)
 and translating *The Quiet Morning* into it — the process that produced Hono.
 
