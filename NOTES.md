@@ -8,25 +8,14 @@ translated in `the_quiet_morning_hono.csv`; the validator reports
 (5175 word forms), lint `valid`. Both slots are resolved (see
 `reference/hono-slots.md`). The map (`wayfinder/map.md`) is complete.
 
-## Hipke (a second language, same story)
+## Hipke (moved to its own workspace)
 
-**The same 111 sentences are translated into Hipke**, a language with a
-deliberately *different* grammar: **SOV, accusative** (`NOM`/`ACC`),
-postpositions, modifiers before the head — versus Hono's SVO/ergative. Hipke's
-inventory is **IPA** (`phonology.ipa: true`), so the tool derives a romanised
-orthography alongside the phonemic forms.
-
-- **Translation**: `the_quiet_morning_hipke.csv`
-  (`index,english,hipke,romanization`) — `111/111 translated · 0 slots · 0 errors`.
-- **Authored gloss script**: `the_quiet_morning_hipke.tsv` — the hand translation
-  written in Hipke order/case, so the composed text is reproducible.
-- **Model / spec**: `out/hipke.json` · `spec/hipke.yaml` (**579 lexemes**).
-- **Vocabulary**: grown to cover the story with `add_words.py`
-  (`template/words_all.json`, then `template/hipke_missing.json`).
-
-Because Hipke's grammar differs from Hono's, this was **not** a straight port of
-the Hono gloss: the Hono translation was the *meaning* guide, and each sentence
-was rebuilt in Hipke order/case and composed through the model (method Q4a).
+**Hipke** — the same story in an SOV/accusative, IPA-inventory language — was
+split out of this repo into its own standardized workspace and repository:
+`C:\Users\bmcke\hipke` (`spec/hipke.yaml`, `out/hipke.json`, the
+`the_quiet_morning_hipke.*` translation and extras, `reference/hipke-deck.html`,
+`words.json`). See that workspace's `NOTES.md`. The split is part of the toolkit's
+"standardize the generated-language workspaces" work — one workspace per language.
 
 ## Charting constraints (Q1–Q12)
 
@@ -91,13 +80,3 @@ was rebuilt in Hipke order/case and composed through the model (method Q4a).
   installed).
 - **Recall deck**: `reference/hono-deck.html` — a self-contained flashcard deck
   (gloss → root/pos) for all 680 lexemes.
-
-### Hipke extras
-
-- **Glossed parallel text**: `the_quiet_morning_hipke_gloss.csv`
-  (`index,english,hipke,romanization,gloss`) — the gloss and romanisation are
-  auto-derived from the model.
-- **Word document**: `the_quiet_morning_hipke.docx` — the parallel text (English,
-  romanised spelling, phonemic Hipke, gloss).
-- **Recall deck**: `reference/hipke-deck.html` — 579 lexemes, card backs showing
-  the romanised spelling beside the phonemic root.
