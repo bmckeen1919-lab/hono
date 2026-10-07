@@ -8,6 +8,26 @@ translated in `the_quiet_morning_hono.csv`; the validator reports
 (5175 word forms), lint `valid`. Both slots are resolved (see
 `reference/hono-slots.md`). The map (`wayfinder/map.md`) is complete.
 
+## Hipke (a second language, same story)
+
+**The same 111 sentences are translated into Hipke**, a language with a
+deliberately *different* grammar: **SOV, accusative** (`NOM`/`ACC`),
+postpositions, modifiers before the head — versus Hono's SVO/ergative. Hipke's
+inventory is **IPA** (`phonology.ipa: true`), so the tool derives a romanised
+orthography alongside the phonemic forms.
+
+- **Translation**: `the_quiet_morning_hipke.csv`
+  (`index,english,hipke,romanization`) — `111/111 translated · 0 slots · 0 errors`.
+- **Authored gloss script**: `the_quiet_morning_hipke.tsv` — the hand translation
+  written in Hipke order/case, so the composed text is reproducible.
+- **Model / spec**: `out/hipke.json` · `spec/hipke.yaml` (**579 lexemes**).
+- **Vocabulary**: grown to cover the story with `add_words.py`
+  (`template/words_all.json`, then `template/hipke_missing.json`).
+
+Because Hipke's grammar differs from Hono's, this was **not** a straight port of
+the Hono gloss: the Hono translation was the *meaning* guide, and each sentence
+was rebuilt in Hipke order/case and composed through the model (method Q4a).
+
 ## Charting constraints (Q1–Q12)
 
 - **Q1b** — generated core, deliberately extended: sample a base with the tool,
@@ -44,6 +64,13 @@ translated in `the_quiet_morning_hono.csv`; the validator reports
   `C:\Users\bmcke\conlang\.venv\Scripts\python.exe tools\validate_hono.py` —
   checks the 111-row shape, that every Hono token is phonotactically legal, and
   that slots are marked; an empty cell reports as *untranslated*, not an error.
+- Compose a hand translation from a gloss script (works for any language):
+  `template/tools/compose_translation.py --model out\hipke.json --glosses the_quiet_morning_hipke.tsv --sentences the_quiet_morning_sentences.csv --out the_quiet_morning_hipke.csv`
+  — it appends a `romanization` column automatically when the model has an
+  orthography map. Validate the result with
+  `template/tools/validate.py --csv <csv> --model <model> --rows 111 --column hipke`
+  (add `--header index,english,hipke,romanization` when the romanisation column
+  is present).
 
 ## References
 
@@ -64,3 +91,13 @@ translated in `the_quiet_morning_hono.csv`; the validator reports
   installed).
 - **Recall deck**: `reference/hono-deck.html` — a self-contained flashcard deck
   (gloss → root/pos) for all 680 lexemes.
+
+### Hipke extras
+
+- **Glossed parallel text**: `the_quiet_morning_hipke_gloss.csv`
+  (`index,english,hipke,romanization,gloss`) — the gloss and romanisation are
+  auto-derived from the model.
+- **Word document**: `the_quiet_morning_hipke.docx` — the parallel text (English,
+  romanised spelling, phonemic Hipke, gloss).
+- **Recall deck**: `reference/hipke-deck.html` — 579 lexemes, card backs showing
+  the romanised spelling beside the phonemic root.

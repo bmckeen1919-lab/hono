@@ -24,16 +24,20 @@ from html import escape
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2]))
 from template.tools.compose import Composer  # noqa: E402
 
+from conlang.phonology.romanize import romanize  # noqa: E402
+
 
 def _para(text: str, bold: bool = False) -> str:
     rpr = "<w:rPr><w:b/></w:rPr>" if bold else ""
     return f'<w:p><w:r>{rpr}<w:t xml:space="preserve">{escape(text)}</w:t></w:r></w:p>'
 
 
-def _docx(path: pathlib.Path, title: str, rows: list[dict], column: str) -> None:
+def _docx(path: pathlib.Path, title: str, rows: list[dict], column: str, romanizes: bool) -> None:
     body = [_para(title, bold=True)]
     for row in rows:
         body.append(_para(f"{row['index']}. {row['english']}"))
+        if romanizes:
+            body.append(_para(f"   {row['romanization']}"))
         body.append(_para(f"   {row[column]}"))
         body.append(_para(f"   {row['gloss']}"))
     document = (
@@ -65,6 +69,14 @@ def _docx(path: pathlib.Path, title: str, rows: list[dict], column: str) -> None
 
 def _deck(path: pathlib.Path, language, lang_id: str) -> int:
     cards = sorted(language.lexemes, key=lambda x: (x.pos, x.gloss))
+    romanizes = bool(language.inventory.orthography)
+
+    def _card(card) -> list[str]:
+        if not romanizes:
+            return [card.gloss, card.root, card.pos]
+        spelling = romanize(card.root, language.inventory, language.inventory.orthography)
+        return [card.gloss, card.root, card.pos, spelling]
+
     html = (
         "<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'>"
         f"<title>{lang_id} recall deck</title><style>"
@@ -82,9 +94,10 @@ def _deck(path: pathlib.Path, language, lang_id: str) -> int:
         "<div class='card' id='card' onclick='flip()'>"
         "<div class='front' id='front'></div><div class='back' id='back'></div></div>"
         "<script>const cards="
-        + json.dumps([[c.gloss, c.root, c.pos] for c in cards])
+        + json.dumps([_card(c) for c in cards])
         + ";let i=0;const f=document.getElementById('front'),b=document.getElementById('back'),p=document.getElementById('pos');"
-        "function show(){f.textContent=cards[i][0];b.textContent=cards[i][1]+'  ('+cards[i][2]+')';"
+        "function show(){f.textContent=cards[i][0];"
+        "b.textContent=(cards[i].length>3?cards[i][3]+'  ['+cards[i][1]+']':cards[i][1])+'  ('+cards[i][2]+')';"
         "b.classList.remove('show');p.textContent=(i+1)+' / '+cards.length;}"
         "function flip(){b.classList.toggle('show');}function next(){i=(i+1)%cards.length;show();}"
         "function prev(){i=(i-1+cards.length)%cards.length;show();}"
@@ -105,24 +118,37 @@ def main() -> int:
     args = parser.parse_args()
 
     composer = Composer(args.model)
+    language = composer.lang
+    romanizes = bool(language.inventory.orthography)
     csv_path = pathlib.Path(args.csv)
     out_dir = pathlib.Path(args.out_dir) if args.out_dir else csv_path.parent
     with csv_path.open(encoding="utf-8", newline="") as handle:
         rows = list(csv.DictReader(handle))
-    glossed = [
-        {**row, "gloss": composer.gloss((row.get(args.column) or "").split())} for row in rows
-    ]
 
+    def _romanize(surface: str) -> str:
+        inventory = language.inventory
+        return " ".join(romanize(t, inventory, inventory.orthography) for t in surface.split())
+
+    glossed: list[dict] = []
+    for row in rows:
+        surface = row.get(args.column) or ""
+        entry = {**row, "gloss": composer.gloss(surface.split())}
+        if romanizes:
+            entry["romanization"] = _romanize(surface)
+        glossed.append(entry)
+
+    fieldnames = ["index", "english", args.column]
+    if romanizes:
+        fieldnames.append("romanization")
+    fieldnames.append("gloss")
     gloss_path = out_dir / f"{csv_path.stem}_gloss.csv"
     with gloss_path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(
-            handle, fieldnames=["index", "english", args.column, "gloss"], lineterminator="\n"
-        )
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(glossed)
 
     docx_path = out_dir / f"{csv_path.stem}.docx"
-    _docx(docx_path, f"{composer.lang.id}", glossed, args.column)
+    _docx(docx_path, f"{language.id}", glossed, args.column, romanizes)
 
     deck_path = (
         pathlib.Path(args.deck)
